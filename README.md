@@ -29,7 +29,7 @@ For the completeist
 # [Dragon Quest IV](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
 
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/STM32.png"  width="400" />
+  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%204/img/profil.jpg"  width="400" />
 </p>
 
 
