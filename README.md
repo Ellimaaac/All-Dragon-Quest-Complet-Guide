@@ -17,5 +17,14 @@ For the completeist
 
  
 
-
+# Dragon Quest I
+# Dragon Quest II
+# Dragon Quest III
+# Dragon Quest IV
+# Dragon Quest V
+# Dragon Quest VI
+# Dragon Quest VII
+# Dragon Quest VIII
+# Dragon Quest IX
+# Dragon Quest X
 # Dragon Quest XI
