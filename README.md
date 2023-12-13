@@ -17,14 +17,14 @@ For the completeist
 
  
 
-# [Dragon Quest I](Compte_Rendu/REPORT.md)
-# Dragon Quest II
-# Dragon Quest III
-# [Dragon Quest IV](readme.md)
-# Dragon Quest V
-# Dragon Quest VI
-# Dragon Quest VII
-# Dragon Quest VIII
-# Dragon Quest IX
-# Dragon Quest X
-# Dragon Quest XI
+# [Dragon Quest I](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
+# Dragon Quest II(https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
+# Dragon Quest III(https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
+# [Dragon Quest IV](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
+# Dragon Quest V(https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
+# Dragon Quest VI(https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
+# Dragon Quest VII(https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
+# Dragon Quest VIII(https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
+# Dragon Quest IX(https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
+# Dragon Quest X(https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
+# Dragon Quest XI(https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
