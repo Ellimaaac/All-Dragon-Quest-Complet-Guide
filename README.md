@@ -20,7 +20,7 @@ For the completeist
 # [Dragon Quest I](Compte_Rendu/REPORT.md)
 # Dragon Quest II
 # Dragon Quest III
-# [Dragon Quest IV](Compte_Rendu/REPORT.md)
+# [Dragon Quest IV](readme.md)
 # Dragon Quest V
 # Dragon Quest VI
 # Dragon Quest VII
