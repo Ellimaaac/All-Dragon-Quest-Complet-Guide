@@ -9,7 +9,7 @@ On going
 2. [Dragon Quest II](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%202)
 3. [Dragon Quest III](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%203)
 
-**The Zenith Trilogy**
+**The Zenithian Saga**
 
 4. [Dragon Quest IV](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
 5. [Dragon Quest V](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%205)
