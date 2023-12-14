@@ -70,5 +70,5 @@ For the completeist
 # [Dragon Quest XI](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%2011)
 
 <p align="center">
-  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%2011/img/profil.jpg"  width="400" />
+  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%2011/img/profil.png"  width="400" />
 </p>
