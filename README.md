@@ -36,35 +36,39 @@ For the completeist
 # [Dragon Quest V](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%205)
 
 <p align="center">
-  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%204/img/profil.jpg"  width="400" />
+  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%205/img/profil.jpg"  width="400" />
 </p>
 
 # [Dragon Quest VI](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%206)
 
 <p align="center">
-  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%204/img/profil.jpg"  width="400" />
+  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%206/img/profil.jpg"  width="400" />
 </p>
 
 # [Dragon Quest VII](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%207)
 
 <p align="center">
-  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%204/img/profil.jpg"  width="400" />
+  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%207/img/profil.jpg"  width="400" />
 </p>
 
-# [Dragon Quest VIII](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
+# [Dragon Quest VIII](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%208)
 
 <p align="center">
-  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%204/img/profil.jpg"  width="400" />
+  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%208/img/profil.jpg"  width="400" />
 </p>
 
-# [Dragon Quest IX](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
+# [Dragon Quest IX](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%209)
 
 <p align="center">
-  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%204/img/profil.jpg"  width="400" />
+  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%209/img/profil.jpg"  width="400" />
 </p>
 
 
-# [Dragon Quest X](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
+# [Dragon Quest X](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%2010)
 
 
 # [Dragon Quest XI](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%2011)
+
+<p align="center">
+  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%2011/img/profil.jpg"  width="400" />
+</p>
