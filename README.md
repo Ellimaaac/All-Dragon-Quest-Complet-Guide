@@ -1,5 +1,6 @@
 # All-Dragon-Quest-Complet-Guide
 For the completeist
+On going
 
 ## 📖 Table of contents
 
