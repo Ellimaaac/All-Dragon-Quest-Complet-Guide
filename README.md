@@ -22,5 +22,6 @@ For the completeist
 
 
 ## Installation
-## Emulators Section
+### Emulators Section
 - DS : [Download here](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/EMUs/desmume-0.9.13-win64.zip) or [link to Website](https://desmume.org/download/)
+- SNES : [Download here](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/EMUs/snes9x-1.62.3-win32-x64.zip) or [link to Website](https://www.snes9x.com/downloads.php)
