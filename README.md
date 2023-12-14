@@ -67,4 +67,4 @@ For the completeist
 # [Dragon Quest X](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
 
 
-# [Dragon Quest XI](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%204)
+# [Dragon Quest XI](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%2011)
