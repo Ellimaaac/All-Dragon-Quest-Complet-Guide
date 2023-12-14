@@ -19,3 +19,8 @@ For the completeist
 <p align="center">
   <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%2011/img/profil.png"  length="800" width="400" />
 </p>
+
+
+## Installation
+## Emulators Section
+- DS : [Download here](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/EMUs/desmume-0.9.13-win64.zip) or [link to Website](https://desmume.org/download/)
