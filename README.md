@@ -3,6 +3,8 @@ For the completeist
 
 On going
 
+in Order : 4 - 11 - 5 (...)
+
 ## 📖 Table of contents
 
 **The Legends of Erdrick**
