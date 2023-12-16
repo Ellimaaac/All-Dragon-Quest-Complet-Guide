@@ -9,23 +9,23 @@ in Order : 4 - 11 - 5 (...)
 
 **The Legends of Erdrick**
 
-1. [Dragon Quest I](dragon-quest-4/README.md)
-2. [Dragon Quest II](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%202)
-3. [Dragon Quest III](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%203)
+1. [Dragon Quest I](All%20Games%20Guide/Dragon%20Quest%201/README.md)
+2. [Dragon Quest II](All%20Games%20Guide/Dragon%20Quest%202/README.md)
+3. [Dragon Quest III](All%20Games%20Guide/Dragon%20Quest%203/README.md)
 
 **The Zenithian Saga**
 
 4. [Dragon Quest IV](All%20Games%20Guide/Dragon%20Quest%204/README.md)
-5. [Dragon Quest V](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%205)
-6. [Dragon Quest VI](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%206)
+5. [Dragon Quest V](All%20Games%20Guide/Dragon%20Quest%205/README.md)
+6. [Dragon Quest VI](All%20Games%20Guide/Dragon%20Quest%206/README.md)
 
 **Others**
 
-7. [Dragon Quest VII](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%207)
-8. [Dragon Quest VIII](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%208)
-9. [Dragon Quest IX](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%209)
-10. [Dragon Quest X](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%2010)
-11. [Dragon Quest XI](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%2011)
+7. [Dragon Quest VII](All%20Games%20Guide/Dragon%20Quest%207/README.md)
+8. [Dragon Quest VIII](All%20Games%20Guide/Dragon%20Quest%208/README.md)
+9. [Dragon Quest IX](All%20Games%20Guide/Dragon%20Quest%209/README.md)
+10. [Dragon Quest X](All%20Games%20Guide/Dragon%20Quest%2010/README.md)
+11. [Dragon Quest XI](All%20Games%20Guide/Dragon%20Quest%2011/README.md)
 
 
 
