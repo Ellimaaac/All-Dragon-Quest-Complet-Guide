@@ -11,13 +11,13 @@
     - [Chapter 4: The mystical world of Meena and Maya](#Chapter-4-The-mystical-world-of-Meena-and-Maya)
     - [Chapter 5: The Chosen](#Chapter-5-The-Chosen)
     - [Chapter EX: Post-Epilogue](#Chapter-EX-Post-Epilogue)
-3. [Sides Quest]()
+2. [Sides Quest]()
     - [The cursed equipment]()
     - [Hoffman Junior's migrant city]()
     - [Casino]()
     - [Mini-Medals]()
-4. [Map](#map)
-5. [Bestiary]()
+3. [Map](#map)
+4. [Bestiary]()
 
 
 
@@ -794,8 +794,14 @@ The final chapter sees the group take on Estark in an epic battle to save the wo
 
 On going !
 
+# Sides Quests
 
+## The cursed equipment
+## Hoffman Junior's migrant city
+## Casino
+## Mini-Medals
 
-
-## Map
+# Map
 <p align="center"><img src="img/chapter1/map.jpg"></p>
+
+# Bestiary
