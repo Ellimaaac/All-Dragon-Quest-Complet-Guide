@@ -1087,7 +1087,7 @@ To do this, start by freeing his body from a jar in the room above the Rocky-Adr
 |Mini Medal                  |Gift from Sultan Carapo                         |
 
 <p align="center"><img src="img/SQ-Jr/end1.png"></p>
-<p align="center"><img src="img/SQ-Jr/end2-2.png"></p>
+<p align="center"><img src="img/SQ-Jr/end2.png"></p>
 
 
 
