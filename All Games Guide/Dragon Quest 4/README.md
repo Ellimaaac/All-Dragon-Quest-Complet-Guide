@@ -798,6 +798,67 @@ On going !
 
 ## The cursed equipment
 
+### Presentation
+The quest for the cursed objects will unlock a hidden character in the game, as well as Psaro's ultimate equipment at the end of the game. It will considerably increase his stats. To do this, you'll have to fight the same bosses several times before they offer you a reward for each of your victories: These monsters are: Hundred Years and Five Spices.
+
+### Conditions
+This quest can only be fully completed from the EX chapter onwards. At the end of Chapter 5, a new optional dungeon appears in the city of Azimut. To defeat the bosses who will offer you the rewards, the characters you send into battle must be of a good level.
+
+### Rewards
+There are a total of eight rewards available if you successfully complete this quest. The main rewards are a new hidden character in the game and improved equipment.
+
+- Une Fleur d’Yggdrasil
+- Un Bouclier des enfers
+- Une Épée des enfers
+- Une Armure des enfers
+- Un Caleçon
+- Une Feuille d’Yggdrasil
+- Un Casque des enfers
+- Un Homme nu
+
+<p align="center"><img src="img/SQ-Cursed/1.png"></p>
+<p align="center"><img src="img/SQ-Cursed/2.png"></p>
+<p align="center"><img src="img/SQ-Cursed/3.png"></p>
+<p align="center"><img src="img/SQ-Cursed/4.png"></p>
+
+## Solution
+To start the quest, you need a good team (see boss section for level). After finishing chapter 5, teleport to the town of Azimut. Once inside, save the game and head north-east into the town. You'll then see a hole, so jump in. Cross the cave by opening the chests until you reach a small house with a red roof. Go inside and then down the stairs at the top right of the room. You'll be back in front of the house, but there's an exit at the back. Once you've reached the Knife Chapel after a long crossing, save the game and this will be the last teleportation point in the game. Continue north and you'll eventually come to a teleporter that takes you past the famous Bosses. Face them and they'll give you the gifts mentioned above.
+
+## BOSSES
+### Eggguy
+
+<p align="center"><img src="img/chapter5/eggguy.png"></p>
+
+| No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
+|-----|----|----|--------|---------|---------|----|------|--------|
+| 209 | 0 |  0  |  0  |  0 |    0    | 0 |  0  | MP seed |
+
+### Chickenguy
+
+<p align="center"><img src="img/chapter5/chickenguy.png"></p>
+
+| No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
+|-----|----|----|--------|---------|---------|----|------|--------|
+| 210 | 0 |  0  |  0  |  0 |    0    | 0 |  0  | Life seed |
+
+**Recommended Level and Team**: All team (Level 40)
+
+**Tips to Defeat the Boss**: The path to the two chickens is quite long the first time, but once you reach the chapel you gain a save point and a place where you can teleport to get back there more quickly. If you still find the path too difficult, practise because the bosses are even more powerful and you need to spend as few MP as possible along the way (unless you have lots of items to restore MP).
+
+These two bosses have a lot of health points, so don't think you can defeat them by relying on a critical attack. Look after yourself regularly.
+
+There are two bosses against you: The one on the left, Cent-âge, has healing and protection abilities, as well as fire and ice attacks that can hit all your characters at once. He can also remove boosts from your team. The one on the right attacks twice a turn, can concentrate and inflict heavy physical damage on all your characters. From time to time, it can launch a curtain of feathers that absorb all combat (allies and enemies) for one turn. The strategy I'm proposing uses up a lot of MP, but allows you to finish this boss without levelling up too much. Kiryl casts Megaprotection twice and attacks or heals, Borya casts Alteration on the targeted enemy (or MegaAlteration), Decuplo on the two allies and offensive spells if he can. The hero casts omnisoin, attacks or uses the Zenithian sword as an item to remove the boosts from the opposing team. We advise you to start with cent-age.
+
+Note: having a conjuration ring or the appropriate ability is very handy (use a character other than the one in your main team to do this, don't waste time resurrecting them as they will have no MP left if you've used the spell and the ring will have been destroyed if you haven't).
+
+Once Psaro is in your team, you can fight them several times to obtain the ultimate equipment for Psaro.
+
+Note that to fight them again after beating them, you have to return to the teleportation portal and cross it again in both directions.
+
+## After BOSSES:
+If you're still having trouble finding these two enemies, see the solution in the EX chapter.
+
+
 
 
 
