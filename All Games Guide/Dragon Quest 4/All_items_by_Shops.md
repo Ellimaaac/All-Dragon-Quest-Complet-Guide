@@ -1,13 +1,7 @@
 # All items by shop
 
-## Table by Towns
-[Azimut](B1)
-[Ballimore]()
-[Bastione]()
-[Bourg-les-Bains]()
-[Canalot]()
-[Casabranca]()
-[Chandor]()
+## Items by Towns
+
 
 
 <p align="center"><img src="img/All-shop/a.png" width="400"></p>
