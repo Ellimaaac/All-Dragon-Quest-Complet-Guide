@@ -10,9 +10,9 @@
     - [Chapter 1: Ragnar McRyan and the Case of the Missing Children](#chapter-1-Ragnar-McRyan-and-the-Case-of-the-Missing-Children)
     - [Chapter 2: Alena and the Journey to the Tourney](#chapter-2-Alena-and-the-Journey-to-the-Tourney)
     - [Chapter 3: Torneko and the Extravagant Excavation](#chapter-3-Torneko-and-the-Extravagant-Excavation)
-    - [Chapter 4: The mystical world of Meena and Maya]
-    - [Chapter 5: The Chosen]
-    - [Chapter EX: Post-Epilogue]
+    - [Chapter 4: The mystical world of Meena and Maya](#Chapter-4-The-mystical-world-of-Meena-and-Maya)
+    - [Chapter 5: The Chosen](#Chapter-5-The-Chosen)
+    - [Chapter EX: Post-Epilogue](#Chapter-EX-Post-Epilogue)
 3. [Sides Quest]()
 4. [Bestiary]()
 5. [Map](#map)
@@ -90,10 +90,10 @@ Twin sisters Meena and Maya seek revenge against Balzack, their father's murdere
 ## Chapter 4: The Chosen Hero
 The previous chapters converge on the Chosen Hero, a silent character that players can customise. The Hero brings together the characters from the previous chapters, forming a motley crew. They learn that Psaro the Butcher is not the true antagonist, but rather a person in search of redemption after the loss of his beloved. The team embarks on a journey to save the world, discovering key elements of the story and facing increasingly powerful adversaries.
 
-## Chapter 5: The World of Darkness
+## Chapter 5: The Chosen
 Les héros découvrent l'existence d'un monde souterrain dirigé par Estark, une force maléfique. Ils doivent collecter des artefacts sacrés pour renforcer leur pouvoir et obtenir l'alliance des monstres opprimés par Estark. Ce chapitre met en avant des batailles épiques, des moments de sacrifice et des révélations sur l'histoire ancienne de leur monde. Les enjeux atteignent un sommet alors que l'équipe se prépare à affronter Estark.
 
-## Chapter 6: The Epic Conclusion
+## Chapter EX: Post-Epilogue
 The final chapter sees the group take on Estark in an epic battle to save the world. Psaro the Butcher realises the true meaning of love and sacrifice, bringing an emotional dimension to the story. After intense battles, moments of reflection and difficult choices, peace is finally restored to the world. The heroes return to their daily lives, forever scarred by the trials they have overcome.
 
 ## Map
