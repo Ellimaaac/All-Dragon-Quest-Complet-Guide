@@ -802,7 +802,15 @@ Once Psaro has been defeated, he disappears, and just as everything is falling a
 ## Chapter EX: Post-Epilogue
 The final chapter sees the group take on Estark in an epic battle to save the world. Psaro the Butcher realises the true meaning of love and sacrifice, bringing an emotional dimension to the story. After intense battles, moments of reflection and difficult choices, peace is finally restored to the world. The heroes return to their daily lives, forever scarred by the trials they have overcome.
 
-On going !
+### The secret cave
+After honourably defeating Psaro, head for Azimuth, the town at the centre of the middle island on the map. Then enter the hole to the north of the town, next to the priest. You're now in a cave. Your journey inside is likely to be a long one, so be patient. Make your way through the cave, collecting the many chests. Make your way up the stairs until you reach round platforms covered in grass, right in the middle of a void.
+
+PHOTO
+
+Once you've passed this stage, you arrive at a house where the interior appears to be a giant's house, with several staircases in front of you. Be careful not to get lost, as you'll be walking through a maze... The staircase from the first house leads you to a second, where the new staircase, identical to the previous house, takes you into prison cells where safes are hidden. To progress, note the small opening in the ground behind the second house. Once past the houses, you're in a lava cave! In the distance is a palace, go inside.
+
+### Resurrecting Rose
+You then arrive in... A garden of herbs, trees and flowers, in the middle of which is a church, where you are strongly advised to save! Continue through this world, which you find increasingly strange, until you reach the top of a tower in a new void. Still opening chests, you reach a large wall straddled by stairs... Make your way to the top and you'll come across a teleporter, which brings the long journey to an end. In the new room, apart from the sublime décor, you'll find two mysterious characters: One Hundred Years and Five Spices, who are arguing over whether the egg or the hen is stronger than the other. Answer their question as you please. A fight begins, be careful, this fight is difficult, first attack One Hundred Years, and then ruin Five Spices.
 
 
 # Map
