@@ -5,8 +5,6 @@ On going
 
 in Order : 4 - 11 - 5 (...)
 
-100% Completed : 4 -11
-
 ## 📖 Table of contents
 
 **The Legends of Erdrick**
