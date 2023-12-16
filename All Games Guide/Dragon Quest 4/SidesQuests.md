@@ -1,5 +1,14 @@
 # Sides Quests
 
+## 📖 Table of contents
+
+1. [Main Story](README.md)
+2. [Sides Quests](SidesQuests.md)
+    - [The cursed equipment](#The-cursed-equipment)
+    - [Hoffman Junior's migrant city](#Hoffman-Junior-s-migrant-city)
+    - [Casino](#Casino)
+    - [Mini-Medals](#Mini-Medals)
+  
 ## The cursed equipment
 
 ### Presentation
