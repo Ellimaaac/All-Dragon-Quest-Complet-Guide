@@ -816,7 +816,7 @@ You'll be able to find a whole host of items as you wander through the town's al
 ### Prologue
 In Chapter 2, you passed through a town called 'The Bazaar' to the south-west of Taborov. It was an oasis in the middle of the desert where various merchants and travellers gathered. This is where your town will be built from Chapter 5 onwards.
 
-<p align="center"><img src="img/SQ-Jr/pahse0.png"></p>
+<p align="center"><img src="img/SQ-Jr/phase0.png"></p>
 
 In the course of the adventure, you meet Hank Hoffman Jr, whom you must accompany to Ringys, after which he decides to found his own village on the site of the old Bazaar, following the advice of the old man Iton. To continue this quest, however, you must obtain the Magic Key when Alina and Kirly are in your team. Return to the Bazaar to join Hoffman, who will ask for your help in gathering the inhabitants.
 
@@ -825,13 +825,13 @@ We strongly advise you to complete this quest, as it offers a host of sometimes 
 ### Phase 1
 Once you have fulfilled the conditions explained above to begin this quest, go and see Hank Hoffman Jr at the Desert Bazaar. He'll ask for your help in finding a nun living in Teafortwo. Teleport to the town and enter the church immediately on your left (3).
 
-<p align="center"><img src="img/SQ-Jr/pahse1-1.png"></p>
+<p align="center"><img src="img/SQ-Jr/phase1-1.png"></p>
 
 After a brief chat, she decides to join Hoffman. Hoffman explains that he has chosen to live in a small house right next to the future village. Take the time to visit the village and talk to the nun so that she can join Hank in his house.
 
 Leave the village and enter the bicote just outside the village. You can talk to the nun if you want to save your game. Inside, talk to Hoffman, who will suggest that you give the town a name. The choice is yours. Then you can create a character that you can exchange via Wi-Fi.
 
-<p align="center"><img src="img/SQ-Jr/pahse1-2.png"></p>
+<p align="center"><img src="img/SQ-Jr/phase1-2.png"></p>
 
 
 |Character           |Gender  |Age |Occupation       |City          |
@@ -857,11 +857,11 @@ Leave the village and enter the bicote just outside the village. You can talk to
 ### Phase 2
 To continue building the town, you normally need to have defeated Boss Estark at the Alpion mines (towards the end of the chapter after the stone colossus). You need to speak to Farmer Rocky, who will tell you that the next character to be found is in Bastione.
 
-<p align="center"><img src="img/SQ-Jr/pahse2-1.png"></p>
+<p align="center"><img src="img/SQ-Jr/phase2-1.png"></p>
 
 Once inside, enter the church and speak to the seated pirate called Tibias. Tell him about your village so that he'll go there, then go and find his companion Gino Allaydi who's at the inn in the same town. The village is now level 2, so you can see the many changes detailed below.
 
-<p align="center"><img src="img/SQ-Jr/pahse2-2.png"></p>
+<p align="center"><img src="img/SQ-Jr/phase2-2.png"></p>
 
 |Service                      |Price (gp)|
 |-----------------------------|----------|
@@ -900,11 +900,11 @@ Once inside, enter the church and speak to the seated pirate called Tibias. Tell
 ### Phase 3
 Once you've collected the items from level two, which will disappear later, you need to speak to Gino the Bard, who will tell you that a couple were looking for pirate treasure in a nearby cave. First of all, you need the Ultimate Key to continue. It's actually to the north-east of RoseColline, behind the mountains, and you can get there by boat or balloon.
 
-<p align="center"><img src="img/SQ-Jr/pahse3-1.png"></p>
+<p align="center"><img src="img/SQ-Jr/phase3-1.png"></p>
 
 The cave is surrounded by water. At the entrance, you'll find Carla waiting for her husband, who is lost in the cave. Go inside and you'll soon spot him. Tell him about the village so that he'll want to go there with his wife. Once you arrive in the town, you can chat with Gino Allaydi, as well as reading books to learn a little more about the history of the town, which used to be called Pioniria. The village is on level 3.
 
-<p align="center"><img src="img/SQ-Jr/pahse3-2.png"></p>
+<p align="center"><img src="img/SQ-Jr/phase3-2.png"></p>
 
 |Service                      |Price (gp)|
 |-----------------------------|----------|
@@ -956,11 +956,11 @@ The cave is surrounded by water. At the entrance, you'll find Carla waiting for 
 ### Phase 4
 To continue, talk to Isaac for more information. He'll tell you about a rumour that there's a creature with lots of legs in Strattbourg prison.
 
-<p align="center"><img src="img/SQ-Jr/pahse4-1.png"></p>
+<p align="center"><img src="img/SQ-Jr/phase4-1.png"></p>
 
 Once in the city, sneak into the underground gaols to discover a poor, slimy midget locked up. He's looking for a second chance at a better life than his current one, and you're going to offer him that chance by opening the gate and telling him about the village so that he goes there. Back in the town, you can find out more about its past by talking to the various inhabitants. The village is on level 4.
 
-<p align="center"><img src="img/SQ-Jr/pahse4-2.png"></p>
+<p align="center"><img src="img/SQ-Jr/phase4-2.png"></p>
 
 |Service                      |Price (gp)|
 |-----------------------------|----------|
@@ -1018,17 +1018,17 @@ Once in the city, sneak into the underground gaols to discover a poor, slimy mid
 ### Phase 5
 To reach the final phase of this town, you'll need to speak to Princess Pam at the inn, who feels she needs a guard to stay here. She then claims to have seen a future soldier in the town of Teafortwo.
 
-<p align="center"><img src="img/SQ-Jr/pahse5-0.png"></p>
+<p align="center"><img src="img/SQ-Jr/phase5-0.png"></p>
 
 Teleport there and enter the inn to convince the Payer guard in front of the innkeeper to become a citizen of your town. Then talk to farmer Rocky in your village, who advises you to meet a king in Port Lionel. Rex is in front of the first table in the Port tavern.
 
-<p align="center"><img src="img/SQ-Jr/pahse5-1.png"></p>
+<p align="center"><img src="img/SQ-Jr/phase5-1.png"></p>
 
 Your town has now reached castle status. It extends over several floors, has a courtyard full of flowers and even a moat full of water surrounding it. The special feature of this phase is that all the infrastructure has been brought together within the castle. It's up to you to search it from top to bottom, talking to as many citizens as possible. However, your mission is still to free the sultan.
 
 To do this, start by freeing his body from a jar in the room above the Rocky-Adrienne couple. Then, in the vault room in the basement of the castle, you will find his body in a chest. Once this is done, he will appear on his throne at the top of the castle.
 
-<p align="center"><img src="img/SQ-Jr/pahse5-2.png"></p>
+<p align="center"><img src="img/SQ-Jr/phase5-2.png"></p>
 
 |Service                      |Price (gp)|
 |-----------------------------|----------|
