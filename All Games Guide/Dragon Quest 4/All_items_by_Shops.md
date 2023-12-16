@@ -50,8 +50,10 @@
 <p align="center"><img src="img/All-shop/E1.png"width="400"></p>
 
 #### F
+<p align="center"><img src="img/All-shop/F1.png"width="400"></p>
 
 #### L
+<p align="center"><img src="img/All-shop/L1.png"width="400"></p>
 
 #### P
 
