@@ -1,5 +1,6 @@
 # Mini-Medals
 [Return to the Main Story](README.md)
+
 [Return to the Sides Quests](SidesQuests.md)
 ## Presentation
 Mini-medals are extremely important in Dragon Quest: Epic of the Chosen. They allow you to win items that you won't be able to find anywhere else. You can obtain them as you go along, in places that are sometimes very well hidden.
