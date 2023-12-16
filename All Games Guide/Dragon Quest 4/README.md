@@ -20,6 +20,7 @@
    - [Map](#map)
    - [Bestiary](#Bestiary)
    - [All items by Shops](All_items_by_Shops.md)
+   - [Best team sets]()
 
 
 
