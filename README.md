@@ -11,7 +11,7 @@ in Order : 4 - 11 - 5 (...)
 
 **The Legends of Erdrick**
 
-1. [Dragon Quest I](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%201)
+1. [Dragon Quest I](/all-games-guide/dragon-quest-4/README.md)
 2. [Dragon Quest II](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%202)
 3. [Dragon Quest III](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%203)
 
