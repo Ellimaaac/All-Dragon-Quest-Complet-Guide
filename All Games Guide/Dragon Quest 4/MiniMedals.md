@@ -1,13 +1,14 @@
-## Mini-Medals
-### Presentation
+# Mini-Medals
+[Return to the Main](README.md)
+## Presentation
 Mini-medals are extremely important in Dragon Quest: Epic of the Chosen. They allow you to win items that you won't be able to find anywhere else. You can obtain them as you go along, in places that are sometimes very well hidden.
 
 **Please note that the mini-medals in the City of Migrants must be collected during each stage of the game. If you don't, they'll be lost forever!**
 
-### Conditions
+## Conditions
 You can start looking for the mini-medals at the beginning of the game.
 
-### Rewards
+## Rewards
 You can obtain a number of items from King Dominius throughout your quest. The more mini-medals you give him, the rarer and more useful the item will be. There are several levels in this quest, and here is the list of items you can earn.
 | Medals Required | Reward               |
 |------------------|----------------------|
