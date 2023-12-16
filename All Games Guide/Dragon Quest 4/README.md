@@ -3,7 +3,7 @@
 
 ## 📖 Table of contents
 
-1. [Main Story](#-main-story)
+1. Main Story
     - [Chapter 0: Prequel](#chapter-0-prequel)
     - [Chapter 1: Ragnar McRyan and the Case of the Missing Children](#chapter-1-Ragnar-McRyan-and-the-Case-of-the-Missing-Children)
     - [Chapter 2: Alena and the Journey to the Tourney](#chapter-2-Alena-and-the-Journey-to-the-Tourney)
@@ -11,7 +11,7 @@
     - [Chapter 4: The mystical world of Meena and Maya](#Chapter-4-The-mystical-world-of-Meena-and-Maya)
     - [Chapter 5: The Chosen](#Chapter-5-The-Chosen)
     - [Chapter EX: Post-Epilogue](#Chapter-EX-Post-Epilogue)
-2. [Sides Quests](SidesQuests.md)
+2. Sides Quests
     - [The cursed equipment](SidesQuests.md)
     - [Hoffman Junior's migrant city](SidesQuests.md)
     - [Casino](SidesQuests.md)
