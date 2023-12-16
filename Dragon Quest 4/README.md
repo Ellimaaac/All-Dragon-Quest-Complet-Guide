@@ -12,8 +12,9 @@
     - [Chapter 5: The Chosen](#Chapter-5-The-Chosen)
     - [Chapter EX: Post-Epilogue](#Chapter-EX-Post-Epilogue)
 3. [Sides Quest]()
-4. [Bestiary]()
-5. [Map](#map)
+4. [Map](#map)
+5. [Bestiary]()
+
 
 
 # Main Story
