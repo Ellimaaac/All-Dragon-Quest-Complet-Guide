@@ -7,7 +7,7 @@
 
 1. [Main Story](#-main-story)
     - [Chapter 0: Prequel](#chapter-0-prequel)
-    - [Chapter 1:  Ragnar McRyan and the Case of the Missing Children](#chapter-1-Ragnar-McRyan-and-the-Case-of-the- Missing-Children)
+    - [Chapter 1: Ragnar McRyan and the Case of the Missing Children](#chapter-1-Ragnar-McRyan-and-the-Case-of-the- Missing-Children)
     - [Chapter 2: Alena and the Journey to the Tourney](#chapter-2-Alena-and-the-Journey-to-the-Tourney)
     - [Chapter 2: Torneko and the Extravagant Excavation](#chapter-3-Torneko-and-the-Extravagant-Excavation)
     - [Chapter 3: The mystical world of Meena and Maya]
