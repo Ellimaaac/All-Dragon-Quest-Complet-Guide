@@ -6,20 +6,22 @@
 ## 📖 Table of contents
 
 1. [Main Story](#-main-story)
-    - [Chapter 1: The Epic of Ragnar McRyan](#chapter-1-the-epic-of-ragnar-mcryan)
-    - [Chapter 1]
-    - [Chapter 1]
-    - [Chapter 1]
-    - [Chapter 1]
-    - [Chapter 1]
-2. [Sides Quest]()
-3. [Bestiary]()
-4. [Map](#map)
+    - [Chapter 0: Prequel](#chapter-0-prequel)
+    - [Chapter 1:  Ragnar McRyan and the Case of the Missing Children](#-chapter-1- Ragnar-McRyan-and-the-Case-of-the- Missing-Children)
+    - [Chapter 2: Alena and the Journey to the Tourney](#-Alena-and-the-Journey-to-the-Tourney)
+    - [Chapter 2: Torneko and the Extravagant Excavation](#chapter-3-Torneko-and-the-Extravagant-Excavation)
+    - [Chapter 3: The mystical world of Meena and Maya]
+    - [Chapter 4: The Chosen Hero]
+    - [Chapter 5: The World of Darkness]
+    - [Chapter 6: The Epic Conclusion]
+3. [Sides Quest]()
+4. [Bestiary]()
+5. [Map](#map)
 
 
 # Main Story
-## Chapter 0: 
-## Chapter 1: The Epic of Ragnar McRyan
+## Chapter 0: Prequel
+## Chapter 1:  Ragnar McRyan and the Case of the Missing Children
 In this first chapter, players are introduced to Ragnar McRyan, a knight of Burland. The King entrusts Ragnar with the mission of tracking down Psaro the Butcher, the thief of the Zenithian Sword. Ragnar, accompanied by his friend Cristo, sets off in search of justice. On their journey, they meet the vivacious Alena, a warrior princess who seeks to defy royal convention. The team gradually comes together and discovers that Psaro's motives run deeper than mere theft. They uncover royal plots and buried secrets, and prepare for the challenges ahead.
 
 ### Bastione Castle
@@ -80,7 +82,7 @@ Have the best possible equipment: the burning sword you find in the tower, iron 
 
 Start by destroying the critter that accompanies him and focus on him. He can cast flame (quite high damage on one character), blow fire (rather weak damage on all) or physically attack (quite strong). Don’t trust your companion too much in case of a hard hit, it happens that he attacks or defends instead of healing… so if his hp or yours are low, don’t hesitate to use a herb. The boss should not resist too long anyway.
 
-## Chapter 2: The intrepid merchant, Torneko Taloon
+## Chapter 2: Alena and the Journey to the Tourney
 The focus shifts to Torneko Taloon, an ordinary merchant with extraordinary aspirations. Torneko quits his job to pursue his dream of owning his own shop. Players follow his adventures through dangerous dungeons as he collects treasure and learns the tricks of the trade. Torneko becomes an endearing character, and his story shows that even heroes can have ordinary professions.
 
 ## Chapter 3: The mystical world of Meena and Maya
