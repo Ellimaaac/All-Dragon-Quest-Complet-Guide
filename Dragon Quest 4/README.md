@@ -1,7 +1,5 @@
 # Dragon Quest IV: Chapters of the Chosen
-<p align="center">
-  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%204/img/profil.jpg"  length="8000" width="400" />
-</p>
+<p align="center"><img src="img/chapter1/profil.jpg" width="400"></p>
 
 ## 📖 Table of contents
 
@@ -26,7 +24,7 @@ In this first chapter, players are introduced to Ragnar McRyan, a knight of Burl
 ### Bastione Castle
 You are now in command of a soldier of King Bastien: Ragnar McRyan, from the kingdom of Bastione. During a dialogue with the King, you learn that mothers have come to protest the disappearance of their children. After the dialogue with the King, one mother even comes to beg you to bring her son back. After that, head south out of the castle.
 
-<p align="center"><img src="img/bastione.png"></p>
+<p align="center"><img src="img/chapter1/bastione.png"></p>
 
 Continue southwards and you'll come across a market town. Talk to as many people as you can and get to know them. Once you've done that, head out of the town and you're back on the world map!
 
@@ -34,41 +32,41 @@ Continue southwards and you'll come across a market town. Talk to as many people
 Head north-west and you will come to a cave. The monsters are more numerous, so don't be easily fooled by a shortage of life.
 Cross the cave and find the exit to the north of it. This exit leads to the other side of the river, on the world map. Head west. You will discover a town: Strattebourg.
 
-<p align="center"><img src="img/cave.png"></p>
+<p align="center"><img src="img/chapter1/cave.png"></p>
 
 Inside, talk to as many people as you can. Then head north of the town to a secluded area, where you'll find a staircase in the ground.
 
-<p align="center"><img src="img/strattebourg.png"></p>
+<p align="center"><img src="img/chapter1/strattebourg.png"></p>
 
 Inside, you discover a cell inhabited by its prisoner. He tells you he is innocent and wants to get out. There's nothing you can do for him at the moment. However, get into the habit of breaking jars to find medicinal herbs. Leave the prison and go to the church to save yourself if you wish. Now you need to return to the original castle to announce your discoveries. Go back through the cave, killing a few monsters along the way to enhance your experience. Back in the castle town, go into a house to the west, go upstairs and find a man and a woman. The woman tells you that she knows the man in the cell! She asks you to take her to see him. So you have to go through the cave again... Return to Strattebourg by the route you should now know with your eyes closed.
 
-<p align="center"><img src="img/jail.png"></p>
+<p align="center"><img src="img/chapter1/jail.png"></p>
 
 Go straight to the prison. You're presented with a mini-scene in which the wife uses the puff-puff technique to knock some sense into her lucky husband. He tells you that there is a garden in the forest where strange things happen. So get out of Strattebourg and into the forest.
 
-<p align="center"><img src="img/jail2.png"></p>
+<p align="center"><img src="img/chapter1/jail2.png"></p>
 
 ### Find the childrens
 You eventually find the park. A path indicates the entrance to a well. Enter it. Inside, the path guides you to the right path, pointing you in the right direction.
 
-<p align="center"><img src="img/parc.png"></p>
+<p align="center"><img src="img/chapter1/parc.png"></p>
 
 Finally, you come across a chest containing the winged shoes. Explore the cave, taking care to avoid the many monsters. Stairs to the south-east lead you to a Healslime who can accompany you to heal you in battle if your health points are running low. Then exit the cave and use the winged shoes.
 
-<p align="center"><img src="img/childFound.png"></p>
+<p align="center"><img src="img/chapter1/childFound.png"></p>
 
 Here you are at the top of a tower, just west of the town of Strattebourg. You're witnessing a mini-scene between a child and an eye on legs. The dungeon isn't very big, so it's easy to make your way through the maze using the swivel view controls, which are very useful here.
 
 Watch out for the much stronger monsters, though. Nevertheless, the presence of the medigluant should make your task much easier. On your way you come across two soldiers from the Empire. The second is in a bad way, and before the fatal moment, he tells you about a terrible enemy that can only be defeated by a chosen child. Continue on your way. You will come to a large room where you will find the eye on legs at the top of the tower. Talk to him and then to the child. You'll notice a figure to the north of the room, your first boss, so arm yourself heavily and set off with your life points at maximum. Talk to him to start the fight.
-<p align="center"><img src="img/boss2.png" width ="200"></p>
-<p align="center"><img src="img/boss.png"></p>
+<p align="center"><img src="img/chapter1/boss2.png" width ="200"></p>
+<p align="center"><img src="img/chapter1/boss.png"></p>
 
 It's not a rocket scientist, but it's dangerous. Eliminate the eye first, leaving only the other. Use a combination of strikes and healing if necessary, and you'll get the better of it in no time.
 
 ## Boss 
 ### Pisaro's Hands
 
-<p align="center"><img src="img/sarosshadow.png"></p>
+<p align="center"><img src="img/chapter1/sarosshadow.png"></p>
 
 | No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
 |-----|----|----|--------|---------|---------|----|------|--------|
@@ -87,36 +85,36 @@ The focus shifts to Torneko Taloon, an ordinary merchant with extraordinary aspi
 ### Zamoksva Castle
 You now control Princess Alina. Like all princesses who dream of adventure, she is being held back by her father, who is preventing her from travelling the world. He advises you to go and rest quietly in your room. Go down the small staircase in the corner of the throne room. Your room is the one on the north-east side of the floor. You will find a man repairing the wall that your character previously destroyed to escape. Leave the room and talk to as many people as you can throughout the castle, including all the floors.
 
-PHOTO
+<p align="center"><img src="img/chapter2/zamoksva.png"></p>
 
 During this visit, you meet one of your protectors, an old man called Borya, and a palace guard called Kiryl. After talking to everyone, you return to your room and find that the carpenter has finished his work and is no longer there. Walk over to him and you are asked if you want to force him. You watch as the princess smashes the floorboards. You can now leave. Outside, there's no point in going south except to see the imposing size of the castle, go north instead and fall down again, then go outside.
 
-PHOTO
+<p align="center"><img src="img/chapter2/partir.png"></p>
 
 You are stopped by Kiryl and Borya, who join you in the team. Leave the castle and go to the first town you see on the world map
 
 ### Zalenagrad village
 Talk to people to familiarise yourself with the place where the princess lives. Go to the shop to buy medicinal herbs and equipment, and to the church to save the day just in case.
 
-PHOTO
+<p align="center"><img src="img/chapter2/zalenagrad.png"></p>
 
 Leave the town and forge your way through the mountains and forest. Then cross the mountains to the north-east, where you'll find a new town to enter.
 
 ### Taborov village
 As usual, talk to everyone, especially the man in the big house on the right. You learn that his daughter is to be sacrificed to a monster. You suggest putting an end to these sacrifices, so the man advises you to go and see the man in charge of organising them: the priest, and head for the church.
 
-PHOTO
+<p align="center"><img src="img/chapter2/taborov.png"></p>
 
 The priest asks you to confirm what you want to do, and of course you do. You witness a short scene in which two men enter the church carrying a sacrificial altar. Your three adventurers enter, then the men move the altar to the place of sacrifice.
 
-PHOTO
+<p align="center"><img src="img/chapter2/boss.png"></p>
 
 Night falls along with the darkness, when an evil character and two ghoulish dogs attack you. They're really not hard to kill. Start by killing the evil character in the middle, then all you have to do is kill the two dogs.
 
 ## BOSS
-### Pisaro's Hands
+### Chameleon Humanoid
 
-<p align="center"><img src="img/sarosshadow.png"></p>
+<p align="center"><img src="img/chameleonhumanoid.png"></p>
 
 | No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
 |-----|----|----|--------|---------|---------|----|------|--------|
