@@ -59,7 +59,7 @@ Finally, you come across a chest containing the winged shoes. Explore the cave, 
 Here you are at the top of a tower, just west of the town of Strattebourg. You're witnessing a mini-scene between a child and an eye on legs. The dungeon isn't very big, so it's easy to make your way through the maze using the swivel view controls, which are very useful here.
 
 Watch out for the much stronger monsters, though. Nevertheless, the presence of the medigluant should make your task much easier. On your way you come across two soldiers from the Empire. The second is in a bad way, and before the fatal moment, he tells you about a terrible enemy that can only be defeated by a chosen child. Continue on your way. You will come to a large room where you will find the eye on legs at the top of the tower. Talk to him and then to the child. You'll notice a figure to the north of the room, your first boss, so arm yourself heavily and set off with your life points at maximum. Talk to him to start the fight.
-<p align="center"><img src="img/boss2.png"></p>
+<p align="center"><img src="img/boss2.png" width ="200"></p>
 <p align="center"><img src="img/boss.png"></p>
 
 It's not a rocket scientist, but it's dangerous. Eliminate the eye first, leaving only the other. Use a combination of strikes and healing if necessary, and you'll get the better of it in no time.
