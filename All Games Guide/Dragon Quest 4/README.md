@@ -18,6 +18,7 @@
     - [Mini-Medals](SidesQuests.md)
 3. [Map](#map)
 4. [Bestiary](#Bestiary)
+5. [All items by Shops](All_items_by_Shops.md)
 
 
 
