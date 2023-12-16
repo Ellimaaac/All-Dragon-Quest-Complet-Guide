@@ -16,7 +16,7 @@
     - [Hoffman Junior's migrant city](SidesQuests.md)
     - [Casino](SidesQuests.md)
     - [Mini-Medals](SidesQuests.md)
-3. [Other]()
+3. Other
    - [Map](#map)
    - [Bestiary](#Bestiary)
    - [All items by Shops](All_items_by_Shops.md)
