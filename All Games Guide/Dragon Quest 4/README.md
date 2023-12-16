@@ -1089,32 +1089,101 @@ To do this, start by freeing his body from a jar in the room above the Rocky-Adr
 <p align="center"><img src="img/SQ-Jr/end1.png"></p>
 <p align="center"><img src="img/SQ-Jr/end2.png"></p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Casino
+### Presentation
+This quest will allow you to pick up some very rare items, such as the Evangelical Ring, which is a very useful accessory, or some very powerful protection, such as the Helmet of Mercury, by playing in casinos.
+
+### Conditions
+You'll be able to enter Chandor's casino as soon as you arrive in the town in chapter 2. However, it will no longer be available during chapter 3 until you start building Chandor's tunnel, when one of the employees working there will inform you that the casino has reopened. From chapter 4 onwards, this gaming hall will be open for good. The casino is located in the basement of the inn to the west of the town.
+
+As for the second casino, which is the most interesting, it will only be available if you complete the travelling city side quest (see quest section) until your city becomes a castle. Like Chandor's, it too is located in the 1st basement of your castle.
+
+### Rewards
+You can win lots of items by playing in the casinos. When you arrive, you'll have to turn a real sum of money into chips. The market rate is 1 token for every 20 gold coins given. You can then use these tokens to place bets and buy items in the casino shops.
+
+**Chandor Casino:**
+|Chips |Desired Item          |
+|------|----------------------|
+|30    |Magic Water Flask     |
+|500   |Prayer Ring           |
+|1000  |Gold Bracelet         |
+|2500  |Glittering Robe       |
+|10000 |Meteor Bracelet        |
+|65000 |Falcon Knife          |
+
+**Your City Casino:**
+|Chips   |Desired Item              |
+|--------|--------------------------|
+|500     |Kamikaze Bracelet         |
+|1000    |Magic Skirt               |
+|3000    |Staff of Thalia           |
+|10000   |Mirror of Ra              |
+|100000  |Mercury's Helm            |
+|250000  |Evangelical Ring          |
+
+## Solution
+### Slot machines
+Both casinos have slot machines. To play them, all you have to do is insert one or more chips inside, and line up three identical symbols. You can bet up to five times per game: the more chips you insert, the more lines (horizontal, vertical, diagonal) are taken into account.
+
+<p align="center"><img src="img/Casino/777"></p>
+
+In both casinos there are only machines that allow bets of 1 chip - a jackpot of 1,000 chips. Be careful, the chances of winning are slim.
+
+### Poker
+You can also play poker in both casinos. This is a card game where you simply have to make the best possible card combination. You start by betting between 1 and 10 chips, and the dealer will then offer you a deck of 5 cards. You can choose to keep them or discard the ones you don't need to get new cards to make the most profitable combination.
+
+<p align="center"><img src="img/Casino/poker"></p>
+
+The order of the ascending cards is: 2-3-4-5-6-7-8-9-10-J-Q-K-A, Joker. The 4 signs are : Sword, Crown, Goo, Shield, Joker. There is a "Joker" in this game, which can play the role of any card to make a combination.
+
+You can see the order of the combinations in the image below:
+
+|Combination           |Description                                                                                                      |
+|----------------------|------------------------------------------------------------------------------------------------------------------|
+|1. Royal Slime Flush  |The jackpot, having a sequence up to Ace with the slime symbol on each card. (e.g., 10-J-Q-K-A)                  |
+|2. Royal Flush         |Having a sequence up to Ace with the same suit on each card but not a slime. (e.g., 10-J-Q-K-A)                   |
+|3. Poker               |We have no information on this combination as the writer failed to achieve it, and it does not exist in official poker rules.|
+|4. Straight Flush      |Making a sequence with 5 cards of the same suit (e.g., 2-3-4-5-6 with the crown suit)                             |
+|5. Four of a Kind      |Having 4 cards with the same number (e.g., 7-7-7-7)                                                               |
+|6. Full House          |All cards must be useful (e.g., having a Three of a Kind with a Pair: 3-3-3-2-2)                                   |
+|7. Flush               |5 cards having the same suit (e.g., 5 cards with the sword symbol)                                               |
+|8. Straight            |Making a sequence with 5 cards regardless of the suit (e.g., 3-4-5-6-7)                                          |
+|9. Three of a Kind     |Three cards with the same number (e.g., 8-8-8)                                                                   |
+|10. Two Pairs          |Four cards with two pairs being identical (e.g., 6-6 and 8-8)                                                    |
+
+<p align="center"><img src="img/Casino/poker2"></p>
+
+When you win tokens, you are then offered the "Double or Quits" option, which allows you to play again to win double the tokens you previously won (e.g. if you win 80 tokens, you can win 160 in the next round). In the next round, you must draw a card at random that is stronger than the one the brewer turned over first.
+
+If you lose this round, you won't get any tokens but you will lose your initial stake - that's the risk.
+-If you win this game of chance, the stake will double again, and this can go on until you win 10,000 chips.
+
+### The arena
+Finally, in Chandor's casino there is an arena where you can bet on one of the monsters on offer in the hope that it will win the fight that will take place in the arena. You can normally bet between 1 and 50 tickets (1 ticket = 1 token). Bet on the fighter of your choice. The 'x5.0' in front of a monster's name represents the rate at which your chips will be multiplied if you win (e.g. if you bet 5 chips on a monster with a rate of 6.2, you will win 31 chips), so the higher the rate, the lower the chances of that monster winning. On the other hand, a monster with a low rate is likely to emerge triumphant.
+
+<p align="center"><img src="img/Casino/monstres"></p>
+
+-If your monster emerges victorious from the battle, the chips won can be bet on immediately afterwards, so you have to take the risk to reach the big sums.
+-If you lose, the number of tickets you paid for will be lost.
+
+-If the fight drags on without a winner, it's called a draw: you get your last bet back to bet on a new fight.
+Some fights will end up being repeated with the same monsters, so it's important to spot the ones that win most often to increase your chances of success. You could, for example, bet a single token at the start to get used to the arena, then later bet 50 tickets at once, which will be multiplied as you win more and more! However, I've done quite a few tests and chance also plays a big part, except for certain battles where the difference is obvious: Belzébic versus Roi guérigluant where the first wins, Elépieuvre versus Ornitro and Scaromiaque where the first wins, Armure fatale versus Tizon and Tigrrr where the last wins... etc.
+
+In short, this is the arena where you can win the most chips in this casino, even though it's difficult because the stakes aren't very high. In order to stack the odds in your favour, you'll need to spend a lot of time in the arena to get to know the best monsters. One of our members won 35,000 chips.
+
+### Tips
+There are two ways to earn extra casino chips.
+
+Firstly, in chapter 5, you have to cross the newly-built tunnel leading to Chandor several times to receive confetti on the head from a guard, who tells you that you are the thousandth person to have crossed this tunnel! As a reward, he offers you 100 tokens to play with at the Chandor casino!
+
+<p align="center"><img src="img/Casino/tunnel"></p>
+
+-The second way of earning tokens is much more difficult, as you'll need to have completed your Bestiary (Book of Creatures) in full, and thus earn no less than 300,000 tokens! Enough to buy yourself an Evangelical Ring with a Helmet of Mercury, for example.
+
+<p align="center"><img src="img/Casino/bestiaire"></p>
+
+Apart from that, your town's casino has the Rainbow Treasure Bank, so you don't have to hesitate to go and get some money to ruin yourself (or not). It's a good idea, but it's a shame you won't be getting any of the casino's profits... You can also talk to the barman who will give you some advice on the slot machines while a singer performs on stage in front of a non-existent audience...
+
 ## Mini-Medals
 
 # Map
