@@ -15,7 +15,7 @@
     - [The cursed equipment](SidesQuests.md)
     - [Hoffman Junior's migrant city](SidesQuests.md)
     - [Casino](SidesQuests.md)
-    - [Mini-Medals](SidesQuests.md)
+    - [Mini-Medals](MiniMedals.md)
 3. Other
    - [Map](#map)
    - [Bestiary](#Bestiary)
