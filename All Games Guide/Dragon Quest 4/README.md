@@ -333,6 +333,70 @@ On your way out, you realise that you've found your bearings, but fortunately yo
 ## Chapter 5: The Chosen
 Les héros découvrent l'existence d'un monde souterrain dirigé par Estark, une force maléfique. Ils doivent collecter des artefacts sacrés pour renforcer leur pouvoir et obtenir l'alliance des monstres opprimés par Estark. Ce chapitre met en avant des batailles épiques, des moments de sacrifice et des révélations sur l'histoire ancienne de leur monde. Les enjeux atteignent un sommet alors que l'équipe se prépare à affronter Estark.
 
+### The hero's odyssey begins
+Here you are in control of Solo, the hero you were only able to use at the start of the game. You notice that your mother has asked you to take a packed lunch to your father, who is fishing near the lake. So leave the house and do what you always do: talk to as many people as you can. Your father is in the north of the village, near the lake, to the left of the bridge. After the small talk that follows, return to the starting point and talk to your mother.
+
+She asks if you'd like to eat, and as I assume you'll be starving, you accept. You see your hero sitting down, when suddenly... a man intervenes, the music cuts out and you are told that the village has been found by monsters!
+
+PHOTO
+
+You are then told that you absolutely must hide. As you flee through the village, you realise that you seem much more important than you think... After hiding in a small room, a (woman/man) joins you and transforms into you! Once you've regained control of your character, you notice a terrible disaster: the water is poisonous and the houses are ashes and flames... Now all you have to do is leave this sinister landscape.
+
+### Casabranca Castle
+Head south to find a small house, at the foot of which is a seed of life. Inside the house is a suit of copper armour that you should equip as soon as possible.
+
+PHOTO
+
+To the south-east of this house is the castle of Casabranca. Talk to everyone, then go and see the King, who simply tells you that your mission is to prevent the Lord of the Underworld from waking up! Leave the castle and head south-west towards a cave.
+
+### Chandor Castle
+You recognise this cave because you had it built by paying 60,000 gold coins with Torneko's help. On your way out, fight a few monsters to get your hands on a few well earned levels. Cross the tunnel you've just passed several times, to receive confetti on your head, and learn that you're the thousandth person to have passed through this tunnel! You will receive 100 playable chips at the Chandor casino! Now go to Chandor.
+
+PHOTO
+
+To the west of the village lies Mina! Let her read your handwriting and she'll realise that you're the legendary hero! So she decides to join you. Pick up Maya at the casino. You can then go to the Coliseum to attend the wedding of the prince and princess.
+
+### The grotto of the symbol of faith
+Go back to Casabranca, and from there, on the world map, head due east for a long time, cross some bridges and come to a cave. Inside, you'll witness several confrontations with clones of the sisters Maya and Mina.
+
+PHOTO
+
+## BOSS
+### Tricksyurchin
+
+<p align="center"><img src="img/chapter5/tricksyurchin.png"></p>
+
+| No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
+|-----|----|----|--------|---------|---------|----|------|--------|
+| 199 | 35 | 0  |   37   |   30    |   3    | 450 | 20   | None  |
+
+**Recommended Level and Team**: Héros (Niveau 6)
+
+**Tips to Defeat the Boss**:
+Before entering this dungeon, you'll need some decent armour and possibly a weapon more effective than your copper sword... you can buy a steel sword in Ballimore (north of Chandor), for example. Don't do things by halves, buy a Falcon blade from the casino, for example.
+
+Nothing complicated, except that you'd better take care of the two bats first, as they're fragile and can put you to sleep, which could annoy you.
+
+## After BOSS
+Once defeated, go back up the stairs.
+
+PHOTO
+
+When you find the real ones, Maya asks you if it was Mina who was spending all her money at the casino. To prove your identity, answer no. Continue into the cave until you reach a room with a central square and walls to crumble around. To enter the room, just push down the walls until you reach the back of the central square, and then enter from the back. Open the chest inside and you'll get the symbol of Faith! Now leave the cave.
+
+### The Hank Hoffman Junior Inn
+Cross the three bridges again, and go to the little place at the edge of the desert, which you passed on the way to the cave. Go into the inn and speak to Hank Hoffman Junior. By making him look at the symbol of faith, you learn that Hoffman has let himself be fooled by his friend's double, which is how they betrayed each other. To avenge this shameful act, the man decides to join your team! This is how you enter the desert. Head south/south-east.
+
+PHOTO
+
+### Town of Bourg-les-Bains 
+
+
+
+
+
+
+
 ## Chapter EX: Post-Epilogue
 The final chapter sees the group take on Estark in an epic battle to save the world. Psaro the Butcher realises the true meaning of love and sacrifice, bringing an emotional dimension to the story. After intense battles, moments of reflection and difficult choices, peace is finally restored to the world. The heroes return to their daily lives, forever scarred by the trials they have overcome.
 
