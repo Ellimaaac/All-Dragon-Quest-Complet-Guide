@@ -15,7 +15,7 @@ in Order : 4 (80%) - 11 - 5 (...)
 
 **The Zenithian Saga**
 
-4. [Dragon Quest IV](All%20Games%20Guide/Dragon%20Quest%204/README.md)
+4. [Dragon Quest IV](All%20Games%20Guide/Dragon%20Quest%204)
 5. [Dragon Quest V](All%20Games%20Guide/Dragon%20Quest%205/README.md)
 6. [Dragon Quest VI](All%20Games%20Guide/Dragon%20Quest%206/README.md)
 
