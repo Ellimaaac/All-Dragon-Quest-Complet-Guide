@@ -24,7 +24,14 @@
 
 # Main Story
 ## Chapter 0: Prequel
-On going
+### A Peaceful Village
+You start the adventure in a sort of mini-warehouse, and notice a dialogue between your hero and another person. After a few brief exchanges of words, the second person comes out and you follow. Outside, go downhill until you pass a small river on a bridge, your character stops and notices the appearance of a frog, which returns to where you were.
+
+<p align="center"><img src="img/chapter0/1.png"></p>
+
+Go back in, and after a longer exchange than the previous one, you realise that the frog is in fact a woman capable of changing not only into a frog but also into a rabbit. After this dialogue, the woman takes her rabbit form and leaves, so you decide to leave too. You now have access to the village. Talk to everyone to make a good start with the few people around you. Once you've done that, head for the house on the left, talk to the man sitting at the table and a scene with a dialogue will start, bringing the prologue to an end.
+
+<p align="center"><img src="img/chapter0/2.png"></p>
 
 ## Chapter 1: Ragnar McRyan and the Case of the Missing Children
 In this first chapter, players are introduced to Ragnar McRyan, a knight of Burland. The King entrusts Ragnar with the mission of tracking down Psaro the Butcher, the thief of the Zenithian Sword. Ragnar, accompanied by his friend Cristo, sets off in search of justice. On their journey, they meet the vivacious Alena, a warrior princess who seeks to defy royal convention. The team gradually comes together and discovers that Psaro's motives run deeper than mere theft. They uncover royal plots and buried secrets, and prepare for the challenges ahead.
