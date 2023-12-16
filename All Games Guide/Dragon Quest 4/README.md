@@ -1,5 +1,5 @@
 # Dragon Quest IV: Chapters of the Chosen
-<p align="center"><img src="img/chapter1/dq4.jpg" width="800"height="400"></p>
+<p align="center"><img src="img/chapter1/dq4.jpg" width="600"height="300"></p>
 
 ## 📖 Table of contents
 
@@ -12,6 +12,10 @@
     - [Chapter 5: The Chosen](#Chapter-5-The-Chosen)
     - [Chapter EX: Post-Epilogue](#Chapter-EX-Post-Epilogue)
 3. [Sides Quest]()
+    - [The cursed equipment]()
+    - [Hoffman Junior's migrant city]()
+    - [Casino]()
+    - [Mini-Medals]()
 4. [Map](#map)
 5. [Bestiary]()
 
