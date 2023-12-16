@@ -21,7 +21,7 @@
 
 # Main Story
 ## Chapter 0: Prequel
-## Chapter 1:  Ragnar McRyan and the Case of the Missing Children
+## Chapter 1: Ragnar McRyan and the Case of the Missing Children
 In this first chapter, players are introduced to Ragnar McRyan, a knight of Burland. The King entrusts Ragnar with the mission of tracking down Psaro the Butcher, the thief of the Zenithian Sword. Ragnar, accompanied by his friend Cristo, sets off in search of justice. On their journey, they meet the vivacious Alena, a warrior princess who seeks to defy royal convention. The team gradually comes together and discovers that Psaro's motives run deeper than mere theft. They uncover royal plots and buried secrets, and prepare for the challenges ahead.
 
 ### Bastione Castle
