@@ -19,6 +19,8 @@
 
 # Main Story
 ## Chapter 0: Prequel
+On going
+
 ## Chapter 1: Ragnar McRyan and the Case of the Missing Children
 In this first chapter, players are introduced to Ragnar McRyan, a knight of Burland. The King entrusts Ragnar with the mission of tracking down Psaro the Butcher, the thief of the Zenithian Sword. Ragnar, accompanied by his friend Cristo, sets off in search of justice. On their journey, they meet the vivacious Alena, a warrior princess who seeks to defy royal convention. The team gradually comes together and discovers that Psaro's motives run deeper than mere theft. They uncover royal plots and buried secrets, and prepare for the challenges ahead.
 
@@ -783,32 +785,10 @@ You find yourself facing his final form... be careful, because he often acts bef
 ## After Boss
 Once Psaro has been defeated, he disappears, and just as everything is falling apart, the Zenith dragon comes to collect you. He takes you to Zenithia to congratulate you. You've just completed the main adventure of Dragon Quest: Epic of the Chosen! The rest awaits you in the secret chapter!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Chapter EX: Post-Epilogue
 The final chapter sees the group take on Estark in an epic battle to save the world. Psaro the Butcher realises the true meaning of love and sacrifice, bringing an emotional dimension to the story. After intense battles, moments of reflection and difficult choices, peace is finally restored to the world. The heroes return to their daily lives, forever scarred by the trials they have overcome.
+
+On going !
 
 
 
