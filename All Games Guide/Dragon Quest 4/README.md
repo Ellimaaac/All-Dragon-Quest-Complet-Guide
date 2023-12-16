@@ -203,11 +203,61 @@ Twin sisters Meena and Maya seek revenge against Balzack, their father's murdere
 ### Lakanaba Village
 You start this chapter at the command of a merchant called Torneko. As soon as you can move, get out of the house, talk to the old man and push him towards the church to get some gold coins! You've done your first good deed! After that, go to the weapon shop and talk to the man behind the counter to start your day's work, and for the first time in RPG history, you'll be able to move to the other side of the counter and make money by selling items, when normally it's always the other way round!
 
-PHOTO
+<p align="center"><img src="img/chapter3/thune.png"></p>
 
 When you've had enough, go downstairs and speak to your boss again to stop your day's work. At the end of an exhausting day's work, go back to your house and talk to your wife, who will give you permission to take a well-deserved rest!
 
-PHTO
+<p align="center"><img src="img/chapter3/lakanaba.png"></p>
+
+After that, leave the town and head north. There you'll find a cave, and inside you'll find a not-so-wizardly maze. The aim of the game is to push a large stone in such a way as to prevent the room from closing, and so gain access to the safe.
+
+<p align="center"><img src="img/chapter3/cave.png"></p>
+
+After that, leave the cave and head south until you find a castle.
+
+### Ballimore Castle
+Inside the castle, go and buy a chimera wing, then enter the castle to the north of the town. Go through the usual ritual: talk to everyone and familiarise yourself with your surroundings. Then go right past the throne room, walk around it along the north wall and take the stairs at the end. Here you are in the prison (5), watch out for the guards who will let you out if they see you.
+
+<p align="center"><img src="img/chapter3/ballimore.png"></p>
+
+Sneak past the guards on the right and talk to the man in the cell on the right. He says he knows you and begs you to give him a chimera wing. You can also use a chimera wing to return to your village at the beginning of the chapter.
+
+<p align="center"><img src="img/chapter3/prison.png"></p>
+### Animal's Village
+In your village, head north-east and talk to the man you've just freed from prison. In gratitude, he'll lend you his dog! Leave the village, head south and enter the village in the middle of the forest. It's a village surrounded by trees, so you can't miss it. In this village, the young man's dog leaves you and goes into the house to the north, follow him.
+
+<p align="center"><img src="img/chapter3/chien.png"></p>
+
+Inside, talk to the man, who complains about losing his powers, and in a few moments, you're a fox! Following this, and thanks to the disappearance of the foxman's village, you find that the king's architect is returning to work. Without further ado, return the dog to its owner, then go and talk to the king, heading for the castle to the south! The king tells you that the bridge has now been repaired! Go to the bridge and cross it. On the other side, head south to the next castle.
+
+### Chandor Castle
+After talking to as many people as possible, go up to the throne room and speak to the king, who asks you if you've come to buy a trading establishment. Go to the prison and you'll learn that you need to be extremely wary of Psaro the Exterminator... When you leave the castle and go to the basement of the inn, you'll meet a good acquaintance in the casino you discovered so soon: Ragnar McRyan! On the 1st floor, however, you'll find Lauriel, an itinerant poet who can accompany you on your quest for five days for 600 gold coins!
+
+<p align="center"><img src="img/chapter3/chandor.png"></p>
+
+Go back to Ballimore castle and talk to the prince, who asks you to come back to see him tonight. Go out of town, wait for nightfall and return to find the prince near the weapons shop (9). He will give you a letter. Return to Chandor Castle and give the letter to the princess. You'll learn that the Ballimore kingdom is going to try to invade Chandor.
+
+<p align="center"><img src="img/chapter3/prince.png"></p>
+
+The king will give you a royal scroll in which the King of Chandor suggests to the King of Ballimore that they marry their two children. You must now return to Chandor Castle in the south and give this scroll to the king. As a token of his thanks, the King will allow you to use your title deeds to open a shop!
+
+### In search of treasure and money
+In the inn, you learn a little more about a mysterious silver statuette with a man on the first floor, leave the town, cross the bridge just to the left and go north to find a cave, after the first one you find, enter it. Inside, go forward and take the raft, start to follow the water, after falling twice in waterfalls, dock, and go to the other end of the place find stairs. You'll come to a button, press it and the water will empty, allowing you to collect the various items in the chests. Go under a bridge and take the stairs down to the west. Take the boat, find the chests and moor where there are four statues arranged in a rectangle, and go up the stairs in the middle. At the end of the path is the famous silver statuette!
+
+<p align="center"><img src="img/chapter3/roi.png"></p>
+
+Go back to the room where you emptied the water, this time taking the stairs up. Go to the second castle, Chandor's, and sell your new statuette to a rich man in a house to the east, earning 25,000 gold coins. Now try to get 35,000 gold if you haven't already done so by selling items you've picked up from monsters or obtained from the chests in the previous cave. Once you've got the money, go into the empty shop and talk to the old man, who will sell you his shop for 35,000 gold coins. Now you're in front of your wife, talk to her again after the first dialogue to get some well-deserved rest!
+
+<p align="center"><img src="img/chapter3/vieilhomme.png"></p>
+
+After that, go to the throne room, where the King of Chandor will place his first order with you, asking for 6 iron swords and 6 pieces of iron armour. Fight monsters to get 6 iron swords and 6 iron armours, you can get help by hiring the services of a city soldier and the poet at the hotel, Lauriel. I advise you to go and fight the monsters in the cave where you found the silver statuette, as they drop these items fairly quickly. Once you have the items, return to King Chandor's castle and, on the ground floor, go and see the master-at-arms at the back next to the old man. Give him the weapons and, after checking, he'll give you 60,000 gold coins. If you've been talking to everyone as I've been advising you since the beginning of the adventure, you should have an idea of where you're going next.
+
+<p align="center"><img src="img/chapter3/prix.png"></p>
+
+### The tunnel
+Go to the first cave to the east of Chandor Castle. Talk to the man inside, and just in time, to continue his work, he needs the 60,000 gold coins you've just won! Accept the offer and the work begins. Talk to the man with the 60,000 gold coins once more before returning to your wife in your new shop. She tells you that the casino has just opened! Go and lose a small fortune inside, before returning to your wife, who informs you that the tunnel is finished. She then asks you if you're going travelling, confirming by answering "yes". Go back to the tunnel, go through it, go up the stairs at the end, you've just finished the chapter.
+
+<p align="center"><img src="img/chapter3/tunnel.png"></p>
 
 ## Chapter 4: The mystical world of Meena and Maya
 The previous chapters converge on the Chosen Hero, a silent character that players can customise. The Hero brings together the characters from the previous chapters, forming a motley crew. They learn that Psaro the Butcher is not the true antagonist, but rather a person in search of redemption after the loss of his beloved. The team embarks on a journey to save the world, discovering key elements of the story and facing increasingly powerful adversaries.
