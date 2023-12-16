@@ -3,7 +3,7 @@ For the completeist
 
 On going
 
-in Order : 4 (80%) - 11 - 5 (...)
+in Order : 4 (95%) - 11 - 5 (...)
 
 ## 📖 Table of contents
 
