@@ -16,11 +16,11 @@
 
 **Others**
 
-7. [Dragon Quest VII](Dragon%20Quest%207/README.md)
-8. [Dragon Quest VIII](Dragon%20Quest%208/README.md)
-9. [Dragon Quest IX](Dragon%20Quest%209/README.md)
-10. [Dragon Quest X](Dragon%20Quest%2010/README.md)
-11. [Dragon Quest XI](Dragon%20Quest%2011/README.md)
+7. [Dragon Quest VII](#dragon-quest-vii)
+8. [Dragon Quest VIII](#dragon-quest-viii)
+9. [Dragon Quest IX](#dragon-quest-ix)
+10. [Dragon Quest X](#dragon-quest-x)
+11. [Dragon Quest XI](#dragon-quest-xi)
 
 ## Dragon Quest I
 ## Dragon Quest II
