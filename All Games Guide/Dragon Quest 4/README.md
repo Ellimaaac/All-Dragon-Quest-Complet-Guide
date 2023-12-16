@@ -1125,14 +1125,14 @@ You can win lots of items by playing in the casinos. When you arrive, you'll hav
 ### Slot machines
 Both casinos have slot machines. To play them, all you have to do is insert one or more chips inside, and line up three identical symbols. You can bet up to five times per game: the more chips you insert, the more lines (horizontal, vertical, diagonal) are taken into account.
 
-<p align="center"><img src="img/Casino/777"></p>
+<p align="center"><img src="img/Casino/777.png"></p>
 
 In both casinos there are only machines that allow bets of 1 chip - a jackpot of 1,000 chips. Be careful, the chances of winning are slim.
 
 ### Poker
 You can also play poker in both casinos. This is a card game where you simply have to make the best possible card combination. You start by betting between 1 and 10 chips, and the dealer will then offer you a deck of 5 cards. You can choose to keep them or discard the ones you don't need to get new cards to make the most profitable combination.
 
-<p align="center"><img src="img/Casino/poker"></p>
+<p align="center"><img src="img/Casino/poker.png"></p>
 
 The order of the ascending cards is: 2-3-4-5-6-7-8-9-10-J-Q-K-A, Joker. The 4 signs are : Sword, Crown, Goo, Shield, Joker. There is a "Joker" in this game, which can play the role of any card to make a combination.
 
@@ -1151,7 +1151,7 @@ You can see the order of the combinations in the image below:
 |9. Three of a Kind     |Three cards with the same number (e.g., 8-8-8)                                                                   |
 |10. Two Pairs          |Four cards with two pairs being identical (e.g., 6-6 and 8-8)                                                    |
 
-<p align="center"><img src="img/Casino/poker2"></p>
+<p align="center"><img src="img/Casino/poker2.png"></p>
 
 When you win tokens, you are then offered the "Double or Quits" option, which allows you to play again to win double the tokens you previously won (e.g. if you win 80 tokens, you can win 160 in the next round). In the next round, you must draw a card at random that is stronger than the one the brewer turned over first.
 
@@ -1161,7 +1161,7 @@ If you lose this round, you won't get any tokens but you will lose your initial 
 ### The arena
 Finally, in Chandor's casino there is an arena where you can bet on one of the monsters on offer in the hope that it will win the fight that will take place in the arena. You can normally bet between 1 and 50 tickets (1 ticket = 1 token). Bet on the fighter of your choice. The 'x5.0' in front of a monster's name represents the rate at which your chips will be multiplied if you win (e.g. if you bet 5 chips on a monster with a rate of 6.2, you will win 31 chips), so the higher the rate, the lower the chances of that monster winning. On the other hand, a monster with a low rate is likely to emerge triumphant.
 
-<p align="center"><img src="img/Casino/monstres"></p>
+<p align="center"><img src="img/Casino/monstres.png"></p>
 
 -If your monster emerges victorious from the battle, the chips won can be bet on immediately afterwards, so you have to take the risk to reach the big sums.
 -If you lose, the number of tickets you paid for will be lost.
@@ -1176,11 +1176,11 @@ There are two ways to earn extra casino chips.
 
 Firstly, in chapter 5, you have to cross the newly-built tunnel leading to Chandor several times to receive confetti on the head from a guard, who tells you that you are the thousandth person to have crossed this tunnel! As a reward, he offers you 100 tokens to play with at the Chandor casino!
 
-<p align="center"><img src="img/Casino/tunnel"></p>
+<p align="center"><img src="img/Casino/tunnel.png"></p>
 
 -The second way of earning tokens is much more difficult, as you'll need to have completed your Bestiary (Book of Creatures) in full, and thus earn no less than 300,000 tokens! Enough to buy yourself an Evangelical Ring with a Helmet of Mercury, for example.
 
-<p align="center"><img src="img/Casino/bestiaire"></p>
+<p align="center"><img src="img/Casino/bestiaire.png"></p>
 
 Apart from that, your town's casino has the Rainbow Treasure Bank, so you don't have to hesitate to go and get some money to ruin yourself (or not). It's a good idea, but it's a shame you won't be getting any of the casino's profits... You can also talk to the barman who will give you some advice on the slot machines while a singer performs on stage in front of a non-existent audience...
 
