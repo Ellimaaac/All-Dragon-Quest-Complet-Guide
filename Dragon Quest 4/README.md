@@ -140,4 +140,4 @@ Les héros découvrent l'existence d'un monde souterrain dirigé par Estark, une
 The final chapter sees the group take on Estark in an epic battle to save the world. Psaro the Butcher realises the true meaning of love and sacrifice, bringing an emotional dimension to the story. After intense battles, moments of reflection and difficult choices, peace is finally restored to the world. The heroes return to their daily lives, forever scarred by the trials they have overcome.
 
 ## Map
-<p align="center"><img src="img/chapter1/map.png"></p>
+<p align="center"><img src="img/chapter1/map.jpg"></p>
