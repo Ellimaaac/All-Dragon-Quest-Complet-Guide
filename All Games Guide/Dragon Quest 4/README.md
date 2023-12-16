@@ -133,7 +133,7 @@ Once you've won the battle, you rest and take control of your characters at the 
 ### Vrenor village
 Talk to everyone, then go to the inn, where you'll see a kidnapping on the first floor. Go after the robbers after the small scene, they flee to the west, follow them. The thieves have disappeared, but continue south.
 
-<p align="center"><img src="img/chapter2/elevement.png"></p>
+<p align="center"><img src="img/chapter2/enlevement.png"></p>
 
 You find a cave. Beware, the enemies are quite formidable, some attacking in groups of six or eight! Search the cavern, which isn't very big, from top to bottom, until you find the sparkling armband deep inside. Come out using a chimera wing or by going back the way you came. Return to Vrenor and find a child playing with a dog. He tells you that the thieves will only leave the false tsarina in exchange for the sparkling armband. Leave the town, but don't go too far from the world map, instead fighting monsters in the area until nightfall.
 
