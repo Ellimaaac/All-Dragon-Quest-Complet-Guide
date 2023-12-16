@@ -742,7 +742,7 @@ You're almost at the end, so make your way through the castle using the lifts to
 
 | No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
 |-----|----|----|--------|---------|---------|----|------|--------|
-| 211 | 0 |  0  |  0  |  0 |    0    | 0 |  0  | None |
+| 211 | - |  -  |  -  |  - |    -    | - |  -  | None |
 
 **Recommended Level and Team**: All thanks to the Baron's horn (Level 35)
 
@@ -807,14 +807,14 @@ This quest can only be fully completed from the EX chapter onwards. At the end o
 ### Rewards
 There are a total of eight rewards available if you successfully complete this quest. The main rewards are a new hidden character in the game and improved equipment.
 
-- Une Fleur d’Yggdrasil
-- Un Bouclier des enfers
-- Une Épée des enfers
-- Une Armure des enfers
-- Un Caleçon
-- Une Feuille d’Yggdrasil
-- Un Casque des enfers
-- Un Homme nu
+- Yggdrasil Flower
+- Underworld Shield
+- Sword of the Underworld
+- Underworld Armour
+- Pants
+- One Yggdrasil Leaf
+- One helmet from the underworld
+- One Naked Man
 
 <p align="center"><img src="img/SQ-Cursed/1.png"></p>
 <p align="center"><img src="img/SQ-Cursed/2.png"></p>
@@ -827,19 +827,19 @@ To start the quest, you need a good team (see boss section for level). After fin
 ## BOSSES
 ### Eggguy
 
-<p align="center"><img src="img/chapter5/eggguy.png"></p>
+<p align="center"><img src="img/SQ-Cursed/eggguy.png"></p>
 
 | No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
 |-----|----|----|--------|---------|---------|----|------|--------|
-| 209 | 0 |  0  |  0  |  0 |    0    | 0 |  0  | MP seed |
+| 209 | - |  -  |  -  |  - |    -    | - |  -  | MP seed |
 
 ### Chickenguy
 
-<p align="center"><img src="img/chapter5/chickenguy.png"></p>
+<p align="center"><img src="img/SQ-Cursed/chickenguy.png"></p>
 
 | No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
 |-----|----|----|--------|---------|---------|----|------|--------|
-| 210 | 0 |  0  |  0  |  0 |    0    | 0 |  0  | Life seed |
+| 210 | - |  -  |  -  |  -  |    -    | - |  -  | Life seed |
 
 **Recommended Level and Team**: All team (Level 40)
 
