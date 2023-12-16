@@ -805,13 +805,63 @@ The final chapter sees the group take on Estark in an epic battle to save the wo
 ### The secret cave
 After honourably defeating Psaro, head for Azimuth, the town at the centre of the middle island on the map. Then enter the hole to the north of the town, next to the priest. You're now in a cave. Your journey inside is likely to be a long one, so be patient. Make your way through the cave, collecting the many chests. Make your way up the stairs until you reach round platforms covered in grass, right in the middle of a void.
 
-PHOTO
+<p align="center"><img src="img/chapterEX/1.png"></p>
 
 Once you've passed this stage, you arrive at a house where the interior appears to be a giant's house, with several staircases in front of you. Be careful not to get lost, as you'll be walking through a maze... The staircase from the first house leads you to a second, where the new staircase, identical to the previous house, takes you into prison cells where safes are hidden. To progress, note the small opening in the ground behind the second house. Once past the houses, you're in a lava cave! In the distance is a palace, go inside.
+
+<p align="center"><img src="img/chapterEX/2.png"></p>
 
 ### Resurrecting Rose
 You then arrive in... A garden of herbs, trees and flowers, in the middle of which is a church, where you are strongly advised to save! Continue through this world, which you find increasingly strange, until you reach the top of a tower in a new void. Still opening chests, you reach a large wall straddled by stairs... Make your way to the top and you'll come across a teleporter, which brings the long journey to an end. In the new room, apart from the sublime décor, you'll find two mysterious characters: One Hundred Years and Five Spices, who are arguing over whether the egg or the hen is stronger than the other. Answer their question as you please. A fight begins, be careful, this fight is difficult, first attack One Hundred Years, and then ruin Five Spices.
 
+## BOSSES
+### Eggguy
+
+<p align="center"><img src="img/SQ-Cursed/eggguy.png"></p>
+
+| No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
+|-----|----|----|--------|---------|---------|----|------|--------|
+| 209 | - |  -  |  -  |  - |    -    | - |  -  | MP seed |
+
+### Chickenguy
+
+<p align="center"><img src="img/SQ-Cursed/chickenguy.png"></p>
+
+| No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
+|-----|----|----|--------|---------|---------|----|------|--------|
+| 210 | - |  -  |  -  |  -  |    -    | - |  -  | Life seed |
+
+**Recommended Level and Team**: All team (Level 40)
+
+**Tips to Defeat the Boss**:
+The path to the two chickens is quite long the first time, but once you reach the chapel you gain a save point and a place where you can teleport to get back there more quickly. If you still find the path too difficult, practise because the bosses are even more powerful and you need to spend as few MP as possible along the way (unless you have lots of items to restore MP).
+
+These two bosses have a lot of health points, so don't think you can defeat them by relying on a critical attack. Look after yourself regularly.
+
+There are two bosses against you:
+The one on the left, Cent-âge, has healing and protection abilities, as well as fire and ice attacks that can hit all your characters at once. He can also remove boosts from your team.The one on the right attacks twice a turn, can concentrate and inflict heavy physical damage on all your characters. From time to time, it can launch a curtain of feathers that absorb all combat (allies and enemies) for one turn. The strategy I'm proposing uses up a lot of MP, but allows you to finish this boss without levelling up too much. Kiryl casts Megaprotection twice and attacks or heals, Borya casts Alteration on the targeted enemy (or MegaAlteration), Decuplo on the two allies and offensive spells if he can. The hero casts omnisoin, attacks or uses the Zenithian sword as an item to remove the boosts from the opposing team. We advise you to start with cent-age.
+
+Note: having a conjuration ring or the appropriate ability is very handy (use a character other than the one in your main team to do this, but don't waste time resurrecting him, as he won't have any MP left if you've used the spell and the ring will have been destroyed if you haven't).
+
+Once Psaro is in your team, you can fight them several times to obtain the ultimate equipment for Psaro.
+
+Note that if you want to fight them again after beating them, you have to return to the teleportation portal and cross it again in both directions.
+
+## After BOSSES
+Once the battle is over, jump into the crater, which will take you back to Azimuth.
+
+<p align="center"><img src="img/chapterEX/3.png"></p>
+
+Go to the tree in the middle of the desert and climb to the top. There you'll find a Yggdrasil flower. Now teleport to Rosecolline and go directly to the tomb. Go to your bag and use the Yggdrasil flower you've retrieved. You're witnessing Rose's rebirth!
+
+Rose wants you to take her to Psaro. Get out of Rosecolline and teleport immediately to the heavenly haven. Go straight to the castle, as you'll remember how to get there, so there's no need to tell you how easy the journey will be for you. Once you've passed the castle, go into the volcano and talk to Psaro, still in Rose's company. A long dialogue then takes place, in which you see Psaro's struggle against the evil that is eating away at him, the memory of the meeting between Psaro and Rose, and Psaro giving you an honourable thank you.
+
+<p align="center"><img src="img/chapterEX/4.png"></p>
+
+### Psaro's revenge
+Psaro joins your team! You can now fight alongside him, his spells are powerful and his status prevents him from being cursed by equipment! I'm sure you've got plenty of side quests left to complete, so this is the perfect opportunity for you to test out your new team-mate. However, if your warrior's soul takes precedence over your seeker's soul, return to the castle to confront the true evil within...
+
+Of course, now that Psaro has gone over to the good side, this monster is the most powerful in the game! A VERY good level is recommended! But if you can find a good alternative between healing attack defence and buff, this fight shouldn't really be a problem... Once you've defeated the boss, sit back and enjoy the REAL ending to DragonQuest IV: Epic of the Chosen!
 
 # Map
 <p align="center"><img src="img/chapter1/map.jpg"></p>
