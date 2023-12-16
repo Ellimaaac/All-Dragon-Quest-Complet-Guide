@@ -9,11 +9,10 @@
     - [Chapter 0: Prequel](#chapter-0-prequel)
     - [Chapter 1: Ragnar McRyan and the Case of the Missing Children](#chapter-1-Ragnar-McRyan-and-the-Case-of-the-Missing-Children)
     - [Chapter 2: Alena and the Journey to the Tourney](#chapter-2-Alena-and-the-Journey-to-the-Tourney)
-    - [Chapter 2: Torneko and the Extravagant Excavation](#chapter-3-Torneko-and-the-Extravagant-Excavation)
-    - [Chapter 3: The mystical world of Meena and Maya]
-    - [Chapter 4: The Chosen Hero]
-    - [Chapter 5: The World of Darkness]
-    - [Chapter 6: The Epic Conclusion]
+    - [Chapter 3: Torneko and the Extravagant Excavation](#chapter-3-Torneko-and-the-Extravagant-Excavation)
+    - [Chapter 4: The mystical world of Meena and Maya]
+    - [Chapter 5: The Chosen]
+    - [Chapter EX: Post-Epilogue]
 3. [Sides Quest]()
 4. [Bestiary]()
 5. [Map](#map)
