@@ -262,6 +262,74 @@ Go to the first cave to the east of Chandor Castle. Talk to the man inside, and 
 ## Chapter 4: The mystical world of Meena and Maya
 The previous chapters converge on the Chosen Hero, a silent character that players can customise. The Hero brings together the characters from the previous chapters, forming a motley crew. They learn that Psaro the Butcher is not the true antagonist, but rather a person in search of redemption after the loss of his beloved. The team embarks on a journey to save the world, discovering key elements of the story and facing increasingly powerful adversaries.
 
+### Teafortwo Town
+Here you are, live from a dance show! After admiring Maya's dance, you realise that she and her sister Mina have had to leave, after accepting a pittance of 100 gold coins.
+
+<p align="center"><img src="img/chapter4/teafortwo.png"></p>
+
+It's time to leave the town and head straight for the first village to the north.
+
+### Deadend Village
+Talk to everyone, you notice a dog barking at you, on the other side of the house which it seems to be guarding valiantly, is a seed of life at the foot of a grave, leave this town, cross the two bridges to the west, and enter the cave.
+
+<p align="center"><img src="img/chapter4/deadend.png"></p>
+
+Inside is a chest and at the end of the long corridor is a lift. Follow the corridor, the chest and the lift down until you find the Sphere of Silence, following a south-facing path. Go back up twice, this time heading north.
+
+<p align="center"><img src="img/chapter4/sphere.png"></p>
+
+After descending another lift, you come face to face with Oojam. He learns of your desire to avenge your father, which is why he wants to join you, and you also learn a little more about the famous Dickenz... Open the chest beside him to get the ***Lamp of Darkness***. Finally, leave the cave. Leave the cave the other way round.
+
+### The town of Port Lionel
+Return to the village of Deadend, and from its position on the world map, head north-east until you find the town of Port Lionel, passing through a castle without entering it. It's essential to stop off in this town to stock up on life and equipment and to save.
+
+<p align="center"><img src="img/chapter4/portLionel.png"></p>
+
+Once you're heavily equipped, leave the village and head due west. Continue westwards until you pass a sort of grey altar on the world map, at which point you should head due north-west.
+
+### The Albion mines
+Once you've found the village and gone inside, you'll see a mine to the north. Inside, immediately to your right, you'll find a magic seed in a pot, next to a man. Make your way upwards and at one point you will come to a fork in the road: to the right is a chest with silver cards to be collected, and to the right is a staircase. After descending the stairs, a seed of magic awaits you in front of the gravestones on the right. To the left is a dead end, so head upwards.
+
+<p align="center"><img src="img/chapter4/albion.png"></p>
+
+Make your way up another set of stairs. Next, there's a chest containing a jar of gunpowder for you to pick up. When the two men don't tell you anything interesting, leave the cave. Return to the castle you passed earlier, and go through the door at the entrance on the right, which mysteriously opens thanks to the presence of Oojam...
+
+### Lord Lionel's palace
+Use the powder behind the wall where the Chancellor is, in the corridor just next to the room at the bottom right, as soon as you arrive on the floor. He will then head for a secret room, so I advise you to follow him discreetly, without letting him see you. Look carefully at the section of wall that opens and closes, and press A on this section to enter.
+
+<p align="center"><img src="img/chapter4/lordlionel.png"></p>
+
+You discover the room where Lord Regent is hiding. Within the first few seconds of combat, you notice that you are finally facing the famous Dickenz! To defeat him easily, use the sphere of silence to prevent him from using his spells. Otherwise, I'd advise you to have a good fighting level, as this is not an easy boss to beat!
+
+## BOSS
+### Balzack
+
+<p align="center"><img src="img/chapter4/balzack.png"></p>
+
+| No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
+|-----|----|----|--------|---------|---------|----|------|--------|
+| 198 | 300 | 0  |   72   |   36    |   22    | 500 | 0   | None  |
+
+**Recommended Level and Team**: Oojam, Mina, Maya (level 11)
+
+**Tips to Defeat the Boss**:
+Important: place the sphere of silence on Maya. Allow yourself the luxury of having all the best weapons/armour available in the port. Put some herbs on Maya.
+
+This boss is largely playable with a level of 10, but if you're unlucky he can kill you in the end. As far as I know, he can cast Crame, breathe fire or attack, which is even more dangerous as he hits hard, so keep your HP high enough even if you have to heal in quick succession with Mina. Start attacking him on the first turn with Mina and use the sphere of silence with Maya, and presto! he's deprived of his spells. Be careful to use it again when a message tells you that the effect is dissipating, otherwise he'll cast Crame and that will cause a lot of damage to everyone... Lower his defence with Alteration and heal/attack (fire spells work on him).
+
+## After BOSS
+Once you've won, you'll notice the appearance of Lord Lionel.
+
+<p align="center"><img src="img/chapter4/balzack.png"></p>
+
+As the boss you've just beaten begs him not to tell Psaro about his defeat, the battle begins against Lord Lionel! Don't worry: this boss is unbeatable, and the only way to continue the adventure is to lose. After this impromptu defeat, you find that you've been thrown into prison with an old man. You don't need perfect eyesight to see a passage behind the jars and barrels that surround you, and I advise you to take it if you don't want to turn into dragon dung... Following the passage, a chest containing a permit to board must be opened before continuing.
+
+<p align="center"><img src="img/chapter4/caisse.png"></p>
+
+On your way out, you realise that you've found your bearings, but fortunately your friend distracts you so that you can leave the castle to the south. You must now return to the port city, heading due north on the world map. In the village, head north-west. Enter the harbour and ask the sailor to let you pass, after examining your recently collected permits. Go and talk to the captain, then to the passengers, and finally to the captain, who asks you to confirm your voyage, confirm... You've just completed this chapter.
+
+<p align="center"><img src="img/chapter4/pirate.png"></p>
+
 ## Chapter 5: The Chosen
 Les héros découvrent l'existence d'un monde souterrain dirigé par Estark, une force maléfique. Ils doivent collecter des artefacts sacrés pour renforcer leur pouvoir et obtenir l'alliance des monstres opprimés par Estark. Ce chapitre met en avant des batailles épiques, des moments de sacrifice et des révélations sur l'histoire ancienne de leur monde. Les enjeux atteignent un sommet alors que l'équipe se prépare à affronter Estark.
 
