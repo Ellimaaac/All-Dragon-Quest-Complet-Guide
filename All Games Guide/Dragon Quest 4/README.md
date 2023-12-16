@@ -499,7 +499,7 @@ Go now to Alina's castle, northwest of your position, on the part of the contine
 ## BOSS
 ### Balzack
 
-<p align="center"><img src="img/chapter5/balzack.png"></p>
+<p align="center"><img src="img/chapter5/balzack2.png"></p>
 
 | No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
 |-----|----|----|--------|---------|---------|----|------|--------|
