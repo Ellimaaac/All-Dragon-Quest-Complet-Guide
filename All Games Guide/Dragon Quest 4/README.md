@@ -11,7 +11,7 @@
     - [Chapter 4: The mystical world of Meena and Maya](#Chapter-4-The-mystical-world-of-Meena-and-Maya)
     - [Chapter 5: The Chosen](#Chapter-5-The-Chosen)
     - [Chapter EX: Post-Epilogue](#Chapter-EX-Post-Epilogue)
-2. [Sides Quest](#Sides-Quest)
+2. [Sides Quests](#Sides-Quests)
     - [The cursed equipment](The-cursed-equipment)
     - [Hoffman Junior's migrant city](Hoffman-Junior's-migrant-city)
     - [Casino](#Casino)
