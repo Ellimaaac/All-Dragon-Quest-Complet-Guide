@@ -200,7 +200,14 @@ Go back to the castle where you started with a chimera wing. When you arrive, yo
 ## Chapter 3: Torneko and the Extravagant Excavation
 Twin sisters Meena and Maya seek revenge against Balzack, their father's murderer. Their quest takes them through mystical lands, populated by monsters and magical mysteries. Meena, a magician with psychic powers, and Maya, an agile dancer, form a formidable team. Together, they discover hidden truths about magic and the origins of their world.
 
+### Lakanaba Village
+You start this chapter at the command of a merchant called Torneko. As soon as you can move, get out of the house, talk to the old man and push him towards the church to get some gold coins! You've done your first good deed! After that, go to the weapon shop and talk to the man behind the counter to start your day's work, and for the first time in RPG history, you'll be able to move to the other side of the counter and make money by selling items, when normally it's always the other way round!
 
+PHOTO
+
+When you've had enough, go downstairs and speak to your boss again to stop your day's work. At the end of an exhausting day's work, go back to your house and talk to your wife, who will give you permission to take a well-deserved rest!
+
+PHTO
 
 ## Chapter 4: The mystical world of Meena and Maya
 The previous chapters converge on the Chosen Hero, a silent character that players can customise. The Hero brings together the characters from the previous chapters, forming a motley crew. They learn that Psaro the Butcher is not the true antagonist, but rather a person in search of redemption after the loss of his beloved. The team embarks on a journey to save the world, discovering key elements of the story and facing increasingly powerful adversaries.
