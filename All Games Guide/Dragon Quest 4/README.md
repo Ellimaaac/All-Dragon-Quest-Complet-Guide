@@ -248,7 +248,7 @@ In the inn, you learn a little more about a mysterious silver statuette with a m
 
 Go back to the room where you emptied the water, this time taking the stairs up. Go to the second castle, Chandor's, and sell your new statuette to a rich man in a house to the east, earning 25,000 gold coins. Now try to get 35,000 gold if you haven't already done so by selling items you've picked up from monsters or obtained from the chests in the previous cave. Once you've got the money, go into the empty shop and talk to the old man, who will sell you his shop for 35,000 gold coins. Now you're in front of your wife, talk to her again after the first dialogue to get some well-deserved rest!
 
-<p align="center"><img src="img/chapter3/vieilhomme.png"></p>
+<p align="center"><img src="img/chapter3/vielhomme.png"></p>
 
 After that, go to the throne room, where the King of Chandor will place his first order with you, asking for 6 iron swords and 6 pieces of iron armour. Fight monsters to get 6 iron swords and 6 iron armours, you can get help by hiring the services of a city soldier and the poet at the hotel, Lauriel. I advise you to go and fight the monsters in the cave where you found the silver statuette, as they drop these items fairly quickly. Once you have the items, return to King Chandor's castle and, on the ground floor, go and see the master-at-arms at the back next to the old man. Give him the weapons and, after checking, he'll give you 60,000 gold coins. If you've been talking to everyone as I've been advising you since the beginning of the adventure, you should have an idea of where you're going next.
 
