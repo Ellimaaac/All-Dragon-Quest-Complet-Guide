@@ -7,7 +7,7 @@
     - [The cursed equipment](#The-cursed-equipment)
     - [Hoffman Junior's migrant city](#Hoffman-Junior-s-migrant-city)
     - [Casino](#Casino)
-    - [Mini-Medals](#Mini-Medals)
+    - [Mini-Medals](MiniMedals.md)
   
 ## The cursed equipment
 
