@@ -1,7 +1,7 @@
 # All items by shop
 
 ## Table by Towns
-[Azimut]()
+[Azimut](B1)
 [Ballimore]()
 [Bastione]()
 [Bourg-les-Bains]()
