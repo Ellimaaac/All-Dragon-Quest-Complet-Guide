@@ -653,6 +653,21 @@ Once you've entered the cave, arm yourself with patience if you don't want to lo
 Go straight to the altar in the south to refuel and save. Now go to the altar in the south-east. Three Rashaverak await you!
 
 ## BOSSES
+### Anderoug
+
+<p align="center"><img src="img/chapter5/anderoug.png"></p>
+
+| No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
+|-----|----|----|--------|---------|---------|----|------|--------|
+| 204 | 450 |  0  |  193  |  150 |    60    | 1020 |  300  | Dragon shield |
+
+**Recommended Level and Team**: Hero, Maya ou Borya, Mina ou Kiryl (Niveau 30)
+
+**Tips to Defeat the Boss**
+This one awaits you in the south-east altar.
+
+At first, you face three rather funky dinos, but they can summon others to their aid. Don't worry, their fiery breath is weak and so are their attacks, so there's no need to protect yourself. Attack with Decuplo/Alteration if you have to, or with area spells (if you've already learnt Megaflash the fight will be over in two turns max...).
+
 ### Radimvice
 
 <p align="center"><img src="img/chapter5/radimvice.png"></p>
