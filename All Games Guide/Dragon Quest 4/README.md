@@ -127,9 +127,80 @@ Night falls along with the darkness, when an evil character and two ghoulish dog
 Try to have at least one copper sword on Kiryl, a club on Alina and some protection (on Borya in particular). It's always a good idea to have a few herbs on Alina and Borya just in case.
 
 Start by taking care of the two dogs with attacks and the Ice spell. Don't hesitate to keep Borya's hp high enough, as he doesn't take it very well! If you've learnt protection with Kiryl, don't hesitate to boost your most fragile characters, as this can make the fight easier. The boss attacks a single character or heals himself. Cast Alteration with Borya (once is enough) and attack until dead, as his HP is relatively low.
+## After BOSS
+Once you've won the battle, you rest and take control of your characters at the entrance to the town. Beside you is the man who told you to go and see the priest a few minutes ago. He thanks you for saving his daughter, and tells you that the item shop has reopened. Don't hesitate to go and have a look. After that, head north, back through the church, then the place of sacrifice, and you'll find yourself on the world map on the other side of the town. Keep heading north-east, killing as many monsters as you can along the way. You'll arrive in a new town: Vrenor.
+
+### Vrenor village
+Talk to everyone, then go to the inn, where you'll see a kidnapping on the first floor. Go after the robbers after the small scene, they flee to the west, follow them. The thieves have disappeared, but continue south.
+
+<p align="center"><img src="img/chapter2/elevement.png"></p>
+
+You find a cave. Beware, the enemies are quite formidable, some attacking in groups of six or eight! Search the cavern, which isn't very big, from top to bottom, until you find the sparkling armband deep inside. Come out using a chimera wing or by going back the way you came. Return to Vrenor and find a child playing with a dog. He tells you that the thieves will only leave the false tsarina in exchange for the sparkling armband. Leave the town, but don't go too far from the world map, instead fighting monsters in the area until nightfall.
+
+<p align="center"><img src="img/chapter2/vrenor.png"></p>
+
+When night falls, return to the town and go to the cemetery to the north-west of the town. The exchange goes smoothly. You pick up the fake princess, Anya, who reveals that she's actually an actress. You then see her leave the town of Vrenor with her friends. You wake up in the morning at the inn in Vrenor, where the news of your rescue has sent the town's inhabitants into a frenzy! Leave the town and head for the cave you came across earlier, but don't go into it. Instead, turn south-west and you'll come to a desert, enter the village to the north.
+
+### The Desert Bazaar
+Talk to everyone, especially a guard near the pond. He tells you that your heroine's father is worried sick about you. Your mission now is to retrace the entire journey from the map to the castle at the beginning! Before leaving the desert village, don't hesitate to buy some weapons and armour!
+
+<p align="center"><img src="img/chapter2/desert.png"></p>
+
+### Return to Zamoksva Castle
+Back at the castle, go and talk to the King. You can talk to him, but he can't, his voice is broken. The King's subordinate, the man next to him, tells you that the man living behind the castle might be able to help you. So go out through the princess's bedroom, drop down to the south, and go through the door opposite the wall you just fell on. The lone man inside tells you about the poet Joseph Staligne, who had the same problem as the king, but managed to recover his beautiful voice. This poet is in the town just west of the palace.
+
+<p align="center"><img src="img/chapter2/back.png"></p>
+
+On the balcony to the right of the arms dealer, you can't miss him, he has a harp and blue hair. You can meet him by going inside the building. He tells you that he drank a potion of elven nectar called nightingale nectar to regain his voice. He also tells you that he found this potion at the bazaar in the desert. Leave the town and use a chimera wing to go to the desert bazaar. Go and talk to the old lady who runs this little shop at the very west of the bazaar, but only talk to her behind the counter, otherwise you'll start the usual shopping window. She'll tell you that the elven potion can only be found at the top of the tower to the west of the bazaar, so you know what you have to do.
+
+### Nightingale's nectar Tower
+Once you've reached the tower, you'll find an inn through the orange door. To climb the tower, you need the thief's key to open the blue door, with the man in front. The climb isn't rocket science, but try not to forget your chest on the way.
+
+<p align="center"><img src="img/chapter2/nectar.png"></p>
+
+Once at the top, collect the nightingale nectar, then leave the tower. Use a chimera wing to heal the King. After a conversation that teaches you more about this mysterious evil character, the King lets you go.
+
+### Chandor Castle
+Use a new chimera wing to return to the desert bazaar, but don't go back there, go east instead. Go to the small temple by the sea. Inside, the guard will let you pass through to a blue portal, enter it and on the other side is an inn where you can rest. Leave the area and return to the world map, where you'll see that you've arrived in a new land. Head directly south-east, where you'll find a palace.
+
+<p align="center"><img src="img/chapter2/chandor.png"></p>
+
+Talk to everyone in the town, and go to the castle to ask for the king (16). He informs you that he is organising a tournament, the winner of which must marry the princess. To take part in the tournament, leave the castle and enter from the left or the right. At the end of the hallway, speak to the guard on the left of the one behind the counter. You can also go to the right to find out what's waiting for you.
+
+<p align="center"><img src="img/chapter2/chandor2.png"></p>
+
+If you're feeling up to it and haven't forgotten to make a plan to buy new weapons and healing plants in the village, head left. You'll arrive in a large room with an inn, an item shop and a church. Be careful not to exit through the door at the back, otherwise you'll end up back on the world map and will have to walk all the way back to the arena vestibule. I recommend that you go and train the princess and buy the claw available in the item shop just before you enter the arena.
+
+When you're ready, climb the central staircase. After a short speech from the King, you're off for Five Arena Fights. First you defeat Attila the Two, then Aubert the Sharp, Maggie Magic, Samson the Knight, and finally an Abominhomme des Neiges. The first four are not difficult, but watch out for the Snow Abominator who quadruples at the start of the fight. Don't panic, only one of the four will attack, the problem being to find the right one to hit each time, in other words, each turn you have a one-in-four chance of hitting the bull's-eye.
+
+## BOSS
+### Linguar
+
+<p align="center"><img src="img/chapter2/linguar.png"></p>
+
+| No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
+|-----|----|----|--------|---------|---------|----|------|--------|
+| 197 | 55 | 0  |   40   |   60    |   75    | 0 | 0   | None  |
+
+**Recommended Level and Team**:  Alina (Level 12)
+
+**Tips to Defeat the Boss**:
+Make sure you have a claw, which you buy from the herbal merchant before you start, the best possible equipment and armour the rest of your inventory with herbs. You'll be facing 5 opponents. Don't forget that you can heal yourself between battles, so there's no need to end up with a full tank.
+
+Attack and heal as necessary. The first opponent is some kind of monk, so you should be able to eat him up without even healing during the fight. The same goes for the next two (an archer and a sorceress). Make sure you're fully healed before engaging the next two, as they're a bit tougher. You'll probably need to use some herbs on the wandering armour, as it hits hard. The yeti is a bit annoying, creating doubles of himself. Keep your cool and strike until you get the right one, it's not dangerous if you've kept a few herbs in stock.
+## After BOSS
+After a scene, you see that your final opponent, Psaro the Exterminator, is nowhere to be found, so the King declares you the winner of the Chandor tournament. After a black screen and a final congratulations from the King, leave the palace and head for the village.
+
+<p align="center"><img src="img/chapter2/arene.png"></p>
+
+You are stopped by a guard dressed in orange, who advises you to hurry back to Zamoksva Castle before disappearing in the strangest of ways...
+
+Go back to the castle where you started with a chimera wing. When you arrive, you notice a dead silence, the castle is empty and you're alone. All you have to do now is escape to your room and leave the castle to finish the chapter...
 
 ## Chapter 3: Torneko and the Extravagant Excavation
 Twin sisters Meena and Maya seek revenge against Balzack, their father's murderer. Their quest takes them through mystical lands, populated by monsters and magical mysteries. Meena, a magician with psychic powers, and Maya, an agile dancer, form a formidable team. Together, they discover hidden truths about magic and the origins of their world.
+
+
 
 ## Chapter 4: The mystical world of Meena and Maya
 The previous chapters converge on the Chosen Hero, a silent character that players can customise. The Hero brings together the characters from the previous chapters, forming a motley crew. They learn that Psaro the Butcher is not the true antagonist, but rather a person in search of redemption after the loss of his beloved. The team embarks on a journey to save the world, discovering key elements of the story and facing increasingly powerful adversaries.
