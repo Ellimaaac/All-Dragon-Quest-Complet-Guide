@@ -84,6 +84,51 @@ Start by destroying the critter that accompanies him and focus on him. He can ca
 ## Chapter 2: Alena and the Journey to the Tourney
 The focus shifts to Torneko Taloon, an ordinary merchant with extraordinary aspirations. Torneko quits his job to pursue his dream of owning his own shop. Players follow his adventures through dangerous dungeons as he collects treasure and learns the tricks of the trade. Torneko becomes an endearing character, and his story shows that even heroes can have ordinary professions.
 
+### Zamoksva Castle
+You now control Princess Alina. Like all princesses who dream of adventure, she is being held back by her father, who is preventing her from travelling the world. He advises you to go and rest quietly in your room. Go down the small staircase in the corner of the throne room. Your room is the one on the north-east side of the floor. You will find a man repairing the wall that your character previously destroyed to escape. Leave the room and talk to as many people as you can throughout the castle, including all the floors.
+
+PHOTO
+
+During this visit, you meet one of your protectors, an old man called Borya, and a palace guard called Kiryl. After talking to everyone, you return to your room and find that the carpenter has finished his work and is no longer there. Walk over to him and you are asked if you want to force him. You watch as the princess smashes the floorboards. You can now leave. Outside, there's no point in going south except to see the imposing size of the castle, go north instead and fall down again, then go outside.
+
+PHOTO
+
+You are stopped by Kiryl and Borya, who join you in the team. Leave the castle and go to the first town you see on the world map
+
+### Zalenagrad village
+Talk to people to familiarise yourself with the place where the princess lives. Go to the shop to buy medicinal herbs and equipment, and to the church to save the day just in case.
+
+PHOTO
+
+Leave the town and forge your way through the mountains and forest. Then cross the mountains to the north-east, where you'll find a new town to enter.
+
+### Taborov village
+As usual, talk to everyone, especially the man in the big house on the right. You learn that his daughter is to be sacrificed to a monster. You suggest putting an end to these sacrifices, so the man advises you to go and see the man in charge of organising them: the priest, and head for the church.
+
+PHOTO
+
+The priest asks you to confirm what you want to do, and of course you do. You witness a short scene in which two men enter the church carrying a sacrificial altar. Your three adventurers enter, then the men move the altar to the place of sacrifice.
+
+PHOTO
+
+Night falls along with the darkness, when an evil character and two ghoulish dogs attack you. They're really not hard to kill. Start by killing the evil character in the middle, then all you have to do is kill the two dogs.
+
+## BOSS
+### Pisaro's Hands
+
+<p align="center"><img src="img/sarosshadow.png"></p>
+
+| No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
+|-----|----|----|--------|---------|---------|----|------|--------|
+| 196 | 40| 6  |   28   |   28    |   50    | 136 | 60   | Life seed   |
+
+**Recommended Level and Team**:  Alina, Kiryl, Borya (Level 4)
+
+**Tips to Defeat the Boss**: 
+Try to have at least one copper sword on Kiryl, a club on Alina and some protection (on Borya in particular). It's always a good idea to have a few herbs on Alina and Borya just in case.
+
+Start by taking care of the two dogs with attacks and the Ice spell. Don't hesitate to keep Borya's hp high enough, as he doesn't take it very well! If you've learnt protection with Kiryl, don't hesitate to boost your most fragile characters, as this can make the fight easier. The boss attacks a single character or heals himself. Cast Alteration with Borya (once is enough) and attack until dead, as his HP is relatively low.
+
 ## Chapter 3: The mystical world of Meena and Maya
 Twin sisters Meena and Maya seek revenge against Balzack, their father's murderer. Their quest takes them through mystical lands, populated by monsters and magical mysteries. Meena, a magician with psychic powers, and Maya, an agile dancer, form a formidable team. Together, they discover hidden truths about magic and the origins of their world.
 
