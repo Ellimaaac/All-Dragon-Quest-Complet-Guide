@@ -114,7 +114,7 @@ Night falls along with the darkness, when an evil character and two ghoulish dog
 ## BOSS
 ### Chameleon Humanoid
 
-<p align="center"><img src="img/chameleonhumanoid.png"></p>
+<p align="center"><img src="img/chapter2/chameleonhumanoid.png"></p>
 
 | No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
 |-----|----|----|--------|---------|---------|----|------|--------|
