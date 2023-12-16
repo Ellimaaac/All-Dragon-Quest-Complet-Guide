@@ -9,23 +9,24 @@ in Order : 4 - 11 - 5 (...)
 
 **The Legends of Erdrick**
 
-1. [Dragon Quest I](All%20Games%20Guide/Dragon%20Quest%201/README.md)
-2. [Dragon Quest II](All%20Games%20Guide/Dragon%20Quest%202/README.md)
-3. [Dragon Quest III](All%20Games%20Guide/Dragon%20Quest%203/README.md)
+1. [Dragon Quest I](Dragon%20Quest%201/README.md)
+2. [Dragon Quest II](Dragon%20Quest%202/README.md)
+3. [Dragon Quest III](Dragon%20Quest%203/README.md)
 
 **The Zenithian Saga**
 
-4. [Dragon Quest IV](All%20Games%20Guide/Dragon%20Quest%204/README.md)
-5. [Dragon Quest V](All%20Games%20Guide/Dragon%20Quest%205/README.md)
-6. [Dragon Quest VI](All%20Games%20Guide/Dragon%20Quest%206/README.md)
+4. [Dragon Quest IV](Dragon%20Quest%204/README.md)
+5. [Dragon Quest V](Dragon%20Quest%205/README.md)
+6. [Dragon Quest VI](Dragon%20Quest%206/README.md)
 
 **Others**
 
-7. [Dragon Quest VII](All%20Games%20Guide/Dragon%20Quest%207/README.md)
-8. [Dragon Quest VIII](All%20Games%20Guide/Dragon%20Quest%208/README.md)
-9. [Dragon Quest IX](All%20Games%20Guide/Dragon%20Quest%209/README.md)
-10. [Dragon Quest X](All%20Games%20Guide/Dragon%20Quest%2010/README.md)
-11. [Dragon Quest XI](All%20Games%20Guide/Dragon%20Quest%2011/README.md)
+7. [Dragon Quest VII](Dragon%20Quest%207/README.md)
+8. [Dragon Quest VIII](Dragon%20Quest%208/README.md)
+9. [Dragon Quest IX](Dragon%20Quest%209/README.md)
+10. [Dragon Quest X](Dragon%20Quest%2010/README.md)
+11. [Dragon Quest XI](Dragon%20Quest%2011/README.md)
+
 
 
 
