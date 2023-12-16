@@ -4,15 +4,15 @@
 
 **The Legends of Erdrick**
 
-1. [Dragon Quest I](dragon-quest-i)
-2. [Dragon Quest II](dragon-quest-ii)
-3. [Dragon Quest III](dragon-quest-iii)
+1. [Dragon Quest I](#dragon-quest-i)
+2. [Dragon Quest II](#dragon-quest-ii)
+3. [Dragon Quest III](#dragon-quest-iii)
 
 **The Zenithian Saga**
 
-4. [Dragon Quest IV](dragon-quest-iv)
-5. [Dragon Quest V](dragon-quest-v)
-6. [Dragon Quest VI](dragon-quest-vi)
+4. [Dragon Quest IV](#dragon-quest-iv)
+5. [Dragon Quest V](#dragon-quest-v)
+6. [Dragon Quest VI](#dragon-quest-vi)
 
 **Others**
 
