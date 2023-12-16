@@ -13,7 +13,7 @@
     - [Chapter EX: Post-Epilogue](#Chapter-EX-Post-Epilogue)
 2. [Sides Quests](#Sides-Quests)
     - [The cursed equipment](#The-cursed-equipment)
-    - [Hoffman Junior's migrant city](#Hoffman-Junior's-migrant-city)
+    - [Hoffman Junior's migrant city](#Hoffman-Junior-s-migrant-city)
     - [Casino](#Casino)
     - [Mini-Medals](#Mini-Medals)
 3. [Map](#map)
