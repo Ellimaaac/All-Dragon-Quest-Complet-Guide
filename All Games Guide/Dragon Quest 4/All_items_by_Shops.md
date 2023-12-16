@@ -56,14 +56,22 @@
 <p align="center"><img src="img/All-shop/L1.png"width="400"></p>
 
 #### P
+<p align="center"><img src="img/All-shop/P1.png"width="400"></p>
+<p align="center"><img src="img/All-shop/P2.png"width="400"></p>
+<p align="center"><img src="img/All-shop/P3.png"width="400"></p>
+<p align="center"><img src="img/All-shop/P4.png"width="400"></p>
 
 #### R
+<p align="center"><img src="img/All-shop/R1.png"width="400"></p>
 
 #### S
+<p align="center"><img src="img/All-shop/S1.png"width="400"></p>
 
 #### T
+<p align="center"><img src="img/All-shop/T1.png"width="400"></p>
 
 #### V
+<p align="center"><img src="img/All-shop/V1.png"width="400"></p>
 
 #### Z
-
+<p align="center"><img src="img/All-shop/Z1.png"width="400"></p>
