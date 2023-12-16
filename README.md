@@ -15,8 +15,7 @@ in Order : 4 - 11 - 5 (...)
 
 **The Zenithian Saga**
 
-4. [Dragon Quest IV](/All-Dragon-Quest-Complet-Guide/all-games-guide/dragon-quest-4/README.md)
-
+4. [Dragon Quest IV](/All-Dragon-Quest-Complet-Guide/all-games-guide/dragon-quest-4)
 5. [Dragon Quest V](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%205)
 6. [Dragon Quest VI](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/tree/main/Dragon%20Quest%206)
 
