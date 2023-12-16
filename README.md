@@ -4,7 +4,8 @@ For the completeist
 On going
 
 in Order : 4 - 11 - 5 (...)
-100% Finish : 4 -11
+
+100% Completed : 4 -11
 
 ## 📖 Table of contents
 
