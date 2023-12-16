@@ -6,7 +6,7 @@
 ## 📖 Table of contents
 
 1. [Main Story](#-main-story)
-    - [Chapter 1: The Epic of Ragnar McRyan](#-chapter_-1-The-Epic-of-Ragnar-McRyan)
+    - [Chapter 1: The Epic of Ragnar McRyan](#chapter-1-the-epic-of-ragnar-mcryan)
     - [Chapter 1]
     - [Chapter 1]
     - [Chapter 1]
