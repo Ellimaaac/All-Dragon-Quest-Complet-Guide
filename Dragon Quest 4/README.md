@@ -127,10 +127,10 @@ Try to have at least one copper sword on Kiryl, a club on Alina and some protect
 
 Start by taking care of the two dogs with attacks and the Ice spell. Don't hesitate to keep Borya's hp high enough, as he doesn't take it very well! If you've learnt protection with Kiryl, don't hesitate to boost your most fragile characters, as this can make the fight easier. The boss attacks a single character or heals himself. Cast Alteration with Borya (once is enough) and attack until dead, as his HP is relatively low.
 
-## Chapter 3: The mystical world of Meena and Maya
+## Chapter 3: Torneko and the Extravagant Excavation
 Twin sisters Meena and Maya seek revenge against Balzack, their father's murderer. Their quest takes them through mystical lands, populated by monsters and magical mysteries. Meena, a magician with psychic powers, and Maya, an agile dancer, form a formidable team. Together, they discover hidden truths about magic and the origins of their world.
 
-## Chapter 4: The Chosen Hero
+## Chapter 4: The mystical world of Meena and Maya
 The previous chapters converge on the Chosen Hero, a silent character that players can customise. The Hero brings together the characters from the previous chapters, forming a motley crew. They learn that Psaro the Butcher is not the true antagonist, but rather a person in search of redemption after the loss of his beloved. The team embarks on a journey to save the world, discovering key elements of the story and facing increasingly powerful adversaries.
 
 ## Chapter 5: The Chosen
@@ -140,6 +140,4 @@ Les héros découvrent l'existence d'un monde souterrain dirigé par Estark, une
 The final chapter sees the group take on Estark in an epic battle to save the world. Psaro the Butcher realises the true meaning of love and sacrifice, bringing an emotional dimension to the story. After intense battles, moments of reflection and difficult choices, peace is finally restored to the world. The heroes return to their daily lives, forever scarred by the trials they have overcome.
 
 ## Map
-<p align="center">
-  <img src="https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/blob/main/Dragon%20Quest%204/img/map.jpg"  width="800" />
-</p>
+<p align="center"><img src="img/chapter1/map.png"></p>
