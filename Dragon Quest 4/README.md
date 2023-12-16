@@ -25,7 +25,7 @@ In this first chapter, players are introduced to Ragnar McRyan, a knight of Burl
 ### Bastione Castle
 You are now in command of a soldier of King Bastien: Ragnar McRyan, from the kingdom of Bastione. During a dialogue with the King, you learn that mothers have come to protest the disappearance of their children. After the dialogue with the King, one mother even comes to beg you to bring her son back. After that, head south out of the castle.
 
-PHOTO
+<p align="center"><img src="img/bastione.png"></p>
 
 Continue southwards and you'll come across a market town. Talk to as many people as you can and get to know them. Once you've done that, head out of the town and you're back on the world map!
 
@@ -33,15 +33,15 @@ Continue southwards and you'll come across a market town. Talk to as many people
 Head north-west and you will come to a cave. The monsters are more numerous, so don't be easily fooled by a shortage of life.
 Cross the cave and find the exit to the north of it. This exit leads to the other side of the river, on the world map. Head west. You will discover a town: Strattebourg.
 
-PHOTO
+<p align="center"><img src="img/strattebourg.png"></p>
 
 Inside, talk to as many people as you can. Then head north of the town to a secluded area, where you'll find a staircase in the ground.
 
-PHOTO
+<p align="center"><img src="img/cave.png"></p>
 
 Inside, you discover a cell inhabited by its prisoner. He tells you he is innocent and wants to get out. There's nothing you can do for him at the moment. However, get into the habit of breaking jars to find medicinal herbs. Leave the prison and go to the church to save yourself if you wish. Now you need to return to the original castle to announce your discoveries. Go back through the cave, killing a few monsters along the way to enhance your experience. Back in the castle town, go into a house to the west, go upstairs and find a man and a woman. The woman tells you that she knows the man in the cell! She asks you to take her to see him. So you have to go through the cave again... Return to Strattebourg by the route you should now know with your eyes closed.
 
-PHOTO
+<p align="center"><img src="img/jail.png"></p>
 
 Go straight to the prison. You're presented with a mini-scene in which the wife uses the puff-puff technique to knock some sense into her lucky husband. He tells you that there is a garden in the forest where strange things happen. So get out of Strattebourg and into the forest.
 
