@@ -13,7 +13,7 @@
     - [Chapter 1]
     - [Chapter 1]
 2. [Sides Quest]()
-3. [Map](#-map)
+3. [Map](#map)
 
 
 ## Main Story
