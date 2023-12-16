@@ -1,5 +1,5 @@
 # Dragon Quest IV: Chapters of the Chosen
-<p align="center"><img src="img/chapter1/profil.jpg" width="400"></p>
+<p align="center"><img src="img/chapter1/dq4.jpg" width="800"height="400"></p>
 
 ## 📖 Table of contents
 
