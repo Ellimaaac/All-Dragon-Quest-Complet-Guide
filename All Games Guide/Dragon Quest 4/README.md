@@ -320,7 +320,7 @@ This boss is largely playable with a level of 10, but if you're unlucky he can k
 ## After BOSS
 Once you've won, you'll notice the appearance of Lord Lionel.
 
-<p align="center"><img src="img/chapter4/balzack.png"></p>
+<p align="center"><img src="img/chapter4/lionel.png"></p>
 
 As the boss you've just beaten begs him not to tell Psaro about his defeat, the battle begins against Lord Lionel! Don't worry: this boss is unbeatable, and the only way to continue the adventure is to lose. After this impromptu defeat, you find that you've been thrown into prison with an old man. You don't need perfect eyesight to see a passage behind the jars and barrels that surround you, and I advise you to take it if you don't want to turn into dragon dung... Following the passage, a chest containing a permit to board must be opened before continuing.
 
