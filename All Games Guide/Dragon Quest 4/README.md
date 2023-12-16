@@ -1250,4 +1250,3 @@ Apart from that, your town's casino has the Rainbow Treasure Bank, so you don't 
 # Map
 <p align="center"><img src="img/chapter1/map.jpg"></p>
 
-# Bestiary
