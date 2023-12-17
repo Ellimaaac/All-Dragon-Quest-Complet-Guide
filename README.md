@@ -25,7 +25,7 @@ in Order : 4 (95%) - 1 (40%) - 11 (1%) - 5 (...)
 8. [Dragon Quest VIII](Dragon%20Quest%208/README.md)
 9. [Dragon Quest IX](Dragon%20Quest%209/README.md)
 10. [Dragon Quest X](Dragon%20Quest%2010/README.md)
-11. [Dragon Quest XI](Dragon%20Quest%2011/README.md)
+11. [Dragon Quest XI](All%20Games%20Guide/Dragon%20Quest%2011)
 
 
 
