@@ -66,21 +66,21 @@
 ### Presentation
 This quest is the first to which you have access. However, it is only available at a certain point in the game. Make sure you don't forget it.
 In Caubaltin, before setting off for Heliodor's castle, talk to the only man with a purple bubble on his head. He asks you to retrieve a wind feather that has flown onto the roof of your barn.
-<p align="center"><img src="img/SQ-1-1.jpg" width="600"height="300"></p>
+<p align="center"><img src="img/SQ-1-1.png" width="600"height="300"></p>
 ### Conditions
 The quest will be available the day you leave Caubaltin. If you've missed it and your aim is to complete all the side quests, you'll have to wait until the end of the adventure to complete it.
 ### Rewards
 If you successfully complete this quest, you will receive a liseronfle.
 ### Solution
 Once you're in front of your barn, climb onto the roof by jumping on the straw and then on the wooden crates. You'll find the wind feather by looking at the glittering dots. Don't forget to open the chest if you want to collect a further 50 gold coins.
-<p align="center"><img src="img/SQ-1-2.jpg" width="600"height="300"></p>
-<p align="center"><img src="img/SQ-1-3.jpg" width="600"height="300"></p>
+<p align="center"><img src="img/SQ-1-2.png" width="600"height="300"></p>
+<p align="center"><img src="img/SQ-1-3.png" width="600"height="300"></p>
 
 ## Quest 2: The soldier and the strategist-tale of two heroes
 ### Presentation
 This quest is the first to require you to do a minimum of research.
 Go to Heliodor and speak to the man at the foot of the stairs, behind the weapons and armour shops. The aim is to find a book extolling the exploits of two local heroes: General Hendrik and the strategist Jasper.
-<p align="center"><img src="img/SQ-2-1.jpg" width="600"height="300"></p>
+<p align="center"><img src="img/SQ-2-1.png" width="600"height="300"></p>
 
 ### Conditions
 You will unlock this quest as soon as you arrive in Heliodor. Don't hesitate to accept it before you set off to explore every corner of the town, so you can kill two birds with one stone!
@@ -88,14 +88,13 @@ You will unlock this quest as soon as you arrive in Heliodor. Don't hesitate to 
 If you successfully complete this quest, you will receive a Drasilian penny.
 ### Solution
 The famous book can be found in a house in the east alley, more precisely the one just to the right of the passage leading to the shallows. Interact with the bookshelf to browse through the book and then report the information you have just learned to the young man.
-<p align="center"><img src="img/SQ-2-2.jpg" width="600"height="300"></p>
-<p align="center"><img src="img/SQ-2-3.jpg" width="600"height="300"></p>
+<p align="center"><img src="img/SQ-2-2.png" width="600"height="300"></p>
 
 ## Quest 3: Charles is in trouble!
 ### Presentation
 Near the Héliodor inn, a little girl explains that her cat, Charles, is trapped on the roof of a house.
 
-photo
+<p align="center"><img src="img/SQ-3-1.jpg" width="600"height="300"></p>
 
 ### Condition
 You unlock this quest as soon as you arrive in Heliodor.
@@ -104,8 +103,8 @@ If you successfully complete this quest, you'll receive cat litter.
 ### Solution
 Charles isn't far away. Simply enter the house just behind the inn and climb the ladder to the roof. There, some meowing will attract your attention. Interact with the cat to help it down from its perch and return to the little girl to collect your reward.
 
-photo
-photo
+<p align="center"><img src="img/SQ-3-2.jpg" width="600"height="300"></p>
+<p align="center"><img src="img/SQ-3-3.jpg" width="600"height="300"></p>
 
 ## Quest 4: Two is better
 
