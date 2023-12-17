@@ -86,3 +86,53 @@ You should definitely save before venturing into these caves, as you may never r
 | PV    | Attack | Defense | Agility | XP   | Or   |
 |-------|--------|---------|---------|------|------|
 | 150   | 80     | 7270    | 45      | 900  | 250  |
+
+**Information:** Use Fire Breath, keep the princess as boss
+
+**Location:** Rocky Caverns
+
+# Chapter 2: Alena and the Journey to the Tourney
+## Return to Radatome Castle 
+
+PHOTO
+
+Once the princess has been rescued, talk to the King, who will thank you for your courage and for finding his beloved daughter. She in turn will talk to you and give you the "Princess' Love", which will tell you how to get back to the castle and how many experience points you have left before completing the next level using it. Now it's time to open the West door on the ground floor and open the chests containing an Agility Seed, a Magic Nut, a Magic Key and 342 gold coins. Then open the North-East door, where you'll find a key seller and a priest who can restore all your health points.
+
+Next to the key seller is a passage to the south-east, in the grass. Take it and go down until you find a staircase. Take it. You'll meet a wise old man who will give you the Stones of Sunlight. Note that you can take a Herb and a Nut of Life from his cupboards, which we recommend you use straight away.
+
+## Return to Radatome Town
+
+PHOTO
+
+To avoid using a useless inventory slot for too long, we advise you to take the Stones of Sunlight to the Radatome town depot, in the hostel. This will lighten your load a little. You can also now buy the Stones of Sunlight from a nun behind a door in the north-east of the town of Fairy Water. This item allows you to avoid fighting monsters for a while, which could well save your life during difficult moments in the quest.
+
+## Return to Garai
+
+PHTO
+
+This is the second town you've visited, but this time you'll really understand its importance. Open the tower you find at the northern entrance to the town with one of your magic keys. There you'll find people warning you of the danger around you, so listen only to your courage and continue on your way. In the chests you'll find a Copper Sword, a Torch and a few gold coins. Once you've done that, head to the most north-westerly point in the room. From here, take a few steps eastwards, then continue northwards. You'll then find a secret passage in the wall, where you can continue towards an old man. Go down the stairs as soon as he disappears!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
