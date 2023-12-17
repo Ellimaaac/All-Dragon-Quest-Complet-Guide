@@ -2,7 +2,7 @@
 
 ## Tables of Quests
 - [Quest 1: A Helpful Boy](#Quest-1-A-Helpful-Boy)
-- [Quest 2: The soldier and the strategist: tale of two heroes](#Quest-2-The-soldier-and-the-strategist-tale-of-two-heroes)
+- [Quest 2: The soldier and the strategist-tale of two heroes](#Quest-2-The-soldier-and-the-strategist-tale-of-two-heroes)
 - [Quest 3: Charles is in trouble!](#Quest-3-Charles-is-in-trouble!)
 - [Quest 4: Two is better](#Quest-4-Two-is-better)
 - [Quest 5: Lord of the Ring](#Quest-5
@@ -19,48 +19,48 @@
 - [Quest 16: The prettiest waitress](#Quest-
 - [Quest 17: A pinch of paradise](#Quest-
 - [Quest 18: With a Thousand Lights](#Quest-
-- [Quest 19 - An unforgettable mystery](#Quest-
-- [Quest 20 - Honorable Amend](#Quest-
-- [Quest 21 - Love is in the diary](#Quest-
-- [Quest 22 - Brainstorming](#Quest-
-- [Quest 23 - You will be a man...](#Quest-
-- [Quest 24 - My little protector](#Quest-
-- [Quest 25 - Let's sing a song](#Quest-
-- [Quest 26 – A Cold Crush](#Quest-
-- [Quest 27 - On the Vikings](#Quest-
-- [Quest 28 - Seeds of the Future](#Quest-
-- [Quest 29 - Good foot, good eye]
-- [Quest 30 - The teaching of Manda Laï]
-- [Quest 31 – Misplaced Pride]
-- [Quest 32 - The Lost Honor of the Knight]
-- [Quest 33 - One Last Favor]
-Quest #34 – A Late Graduation
-Quest #35 - Madame Labouche's life lesson
-Quest #36 - A somewhat neglected young girl
-Quest #37 - Vapor of Youth
-Quest #38 - A flower in the desert
-Quest #39 - In search of the philosopher's stone
-Quest #40 - Mermaid Gargles
-Quest #41 - My kingdom for delicalamar
-Quest #42 - In the footsteps of the shards of the star
-Quest #43 - Song of Bravery
-Quest #44 - A Thrilling Night
-Quest #45 - A challenge like clockwork
-Quest #46 - A Thunderous Birthday
-Quest #47 - Justice in Troubled Waters
-Quest #48 - A dish best served cold
-Quest #49 - An old letter-writing love
-Quest #50 - The Panorama Expert
-Quest #51 – Pure Strength!
-Quest #52 - Mistress Béa's precise prediction
-Quest #53 – High-flying Hide and Seek
-Quest #54 - The Legend of the Legendary Treasure
-Quest #55 - Very dynamic knights
-Quest #56 - Small favor, big results
-Quest #57 - Morgant, or the art of magic
-Quest #58 - New strings for his harp
-Quest #59 - The Wisdom of the King of Warriors
-Quest #60 - Unhappy loves
+- [Quest 19: An unforgettable mystery](#Quest-
+- [Quest 20: Honorable Amend](#Quest-
+- [Quest 21: Love is in the diary](#Quest-
+- [Quest 22: Brainstorming](#Quest-
+- [Quest 23: You will be a man...](#Quest-
+- [Quest 24: My little protector](#Quest-
+- [Quest 25: Let's sing a song](#Quest-
+- [Quest 26: A Cold Crush](#Quest-
+- [Quest 27: On the Vikings](#Quest-
+- [Quest 28: Seeds of the Future](#Quest-
+- [Quest 29: Good foot, good eye]
+- [Quest 30: The teaching of Manda Laï]
+- [Quest 31: Misplaced Pride]
+- [Quest 32: The Lost Honor of the Knight]
+- [Quest 33: One Last Favor]
+- Quest 34: A Late Graduation
+- Quest 35: Madame Labouche's life lesson
+- Quest 36: A somewhat neglected young girl
+- Quest 37: Vapor of Youth
+- Quest 38: A flower in the desert
+- Quest 39: In search of the philosopher's stone
+- Quest 40: Mermaid Gargles
+- Quest 41: My kingdom for delicalamar
+- Quest 42: In the footsteps of the shards of the star
+- Quest 43: Song of Bravery
+- Quest 44: A Thrilling Night
+- Quest 45: A challenge like clockwork
+- Quest 46: A Thunderous Birthday
+- Quest 47: Justice in Troubled Waters
+- Quest 48: A dish best served cold
+- Quest 49: An old letter:writing love
+- Quest 50: The Panorama Expert
+- Quest 51: Pure Strength!
+- Quest 52 : Mistress Béa's precise prediction
+- Quest 53: High-flying Hide and Seek
+- Quest 54 : The Legend of the Legendary Treasure
+- Quest 55 : Very dynamic knights
+- Quest 56 : Small favor, big results
+- Quest 57 : Morgant, or the art of magic
+- Quest 58 : New strings for his harp
+- Quest 59 : The Wisdom of the King of Warriors
+- Quest 60 : Unhappy loves
 
 # Quest 1: A Helpful Boy
-# Quest 2: The soldier and the strategist: tale of two heroes
+# Quest 2: The soldier and the strategist-tale of two heroes
