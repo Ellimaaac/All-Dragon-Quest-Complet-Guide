@@ -2,7 +2,7 @@
 
 ## Tables of Quests
 [Quest 1: A Helpful Boy](#Quest-1-A-Helpful-Boy)
-[Quest 2: The soldier and the strategist: tale of two heroes]
+[Quest 2: The soldier and the strategist: tale of two heroes](#Quest-2-The-soldier-and-the-strategist-tale-of-two-heroes)
 [Quest 3: Charles is in trouble!]
 [Quest 4: Two is better]
 [Quest 5: Lord of the Ring]
