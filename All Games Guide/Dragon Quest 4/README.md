@@ -96,7 +96,7 @@ Have the best possible equipment: the burning sword you find in the tower, iron 
 
 Start by destroying the critter that accompanies him and focus on him. He can cast flame (quite high damage on one character), blow fire (rather weak damage on all) or physically attack (quite strong). Don’t trust your companion too much in case of a hard hit, it happens that he attacks or defends instead of healing… so if his hp or yours are low, don’t hesitate to use a herb. The boss should not resist too long anyway.
 
- Chapter 2: Alena and the Journey to the Tourney
+# Chapter 2: Alena and the Journey to the Tourney
 The focus shifts to Torneko Taloon, an ordinary merchant with extraordinary aspirations. Torneko quits his job to pursue his dream of owning his own shop. Players follow his adventures through dangerous dungeons as he collects treasure and learns the tricks of the trade. Torneko becomes an endearing character, and his story shows that even heroes can have ordinary professions.
 
 ### Zamoksva Castle
