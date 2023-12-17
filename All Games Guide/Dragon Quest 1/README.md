@@ -116,7 +116,7 @@ This is the second town you've visited, but this time you'll really understand i
 
 
 # Map 
-<p align="center"><img src="img/map.jpg"></p>
+<p align="center"><img src="img/map1.jpg"></p>
 
 
 
