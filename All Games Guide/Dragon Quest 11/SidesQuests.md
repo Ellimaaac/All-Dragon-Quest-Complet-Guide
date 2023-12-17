@@ -94,7 +94,7 @@ The famous book can be found in a house in the east alley, more precisely the on
 ### Presentation
 Near the Héliodor inn, a little girl explains that her cat, Charles, is trapped on the roof of a house.
 
-<p align="center"><img src="img/SQ-3-1.jpg" width="600"height="300"></p>
+<p align="center"><img src="img/SQ-3-1.png" width="600"height="300"></p>
 
 ### Condition
 You unlock this quest as soon as you arrive in Heliodor.
@@ -103,8 +103,8 @@ If you successfully complete this quest, you'll receive cat litter.
 ### Solution
 Charles isn't far away. Simply enter the house just behind the inn and climb the ladder to the roof. There, some meowing will attract your attention. Interact with the cat to help it down from its perch and return to the little girl to collect your reward.
 
-<p align="center"><img src="img/SQ-3-2.jpg" width="600"height="300"></p>
-<p align="center"><img src="img/SQ-3-3.jpg" width="600"height="300"></p>
+<p align="center"><img src="img/SQ-3-2.png" width="600"height="300"></p>
+<p align="center"><img src="img/SQ-3-3.png" width="600"height="300"></p>
 
 ## Quest 4: Two is better
 
