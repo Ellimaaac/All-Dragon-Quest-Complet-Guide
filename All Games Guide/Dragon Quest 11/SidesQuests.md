@@ -63,3 +63,4 @@ Quest #59 - The Wisdom of the King of Warriors
 Quest #60 - Unhappy loves
 
 # Quest 1: A Helpful Boy
+# Quest 2: The soldier and the strategist: tale of two heroes
