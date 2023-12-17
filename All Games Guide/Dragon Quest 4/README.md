@@ -25,7 +25,7 @@
 
 
 # Main Story
-## Chapter 0: Prequel
+# Chapter 0: Prequel
 ### A Peaceful Village
 You start the adventure in a sort of mini-warehouse, and notice a dialogue between your hero and another person. After a few brief exchanges of words, the second person comes out and you follow. Outside, go downhill until you pass a small river on a bridge, your character stops and notices the appearance of a frog, which returns to where you were.
 
@@ -35,7 +35,7 @@ Go back in, and after a longer exchange than the previous one, you realise that 
 
 <p align="center"><img src="img/chapter0/2.png"></p>
 
-## Chapter 1: Ragnar McRyan and the Case of the Missing Children
+# Chapter 1: Ragnar McRyan and the Case of the Missing Children
 In this first chapter, players are introduced to Ragnar McRyan, a knight of Burland. The King entrusts Ragnar with the mission of tracking down Psaro the Butcher, the thief of the Zenithian Sword. Ragnar, accompanied by his friend Cristo, sets off in search of justice. On their journey, they meet the vivacious Alena, a warrior princess who seeks to defy royal convention. The team gradually comes together and discovers that Psaro's motives run deeper than mere theft. They uncover royal plots and buried secrets, and prepare for the challenges ahead.
 
 ### Bastione Castle
@@ -96,7 +96,7 @@ Have the best possible equipment: the burning sword you find in the tower, iron 
 
 Start by destroying the critter that accompanies him and focus on him. He can cast flame (quite high damage on one character), blow fire (rather weak damage on all) or physically attack (quite strong). Don’t trust your companion too much in case of a hard hit, it happens that he attacks or defends instead of healing… so if his hp or yours are low, don’t hesitate to use a herb. The boss should not resist too long anyway.
 
-## Chapter 2: Alena and the Journey to the Tourney
+ Chapter 2: Alena and the Journey to the Tourney
 The focus shifts to Torneko Taloon, an ordinary merchant with extraordinary aspirations. Torneko quits his job to pursue his dream of owning his own shop. Players follow his adventures through dangerous dungeons as he collects treasure and learns the tricks of the trade. Torneko becomes an endearing character, and his story shows that even heroes can have ordinary professions.
 
 ### Zamoksva Castle
@@ -213,7 +213,7 @@ You are stopped by a guard dressed in orange, who advises you to hurry back to Z
 
 Go back to the castle where you started with a chimera wing. When you arrive, you notice a dead silence, the castle is empty and you're alone. All you have to do now is escape to your room and leave the castle to finish the chapter...
 
-## Chapter 3: Torneko and the Extravagant Excavation
+# Chapter 3: Torneko and the Extravagant Excavation
 Twin sisters Meena and Maya seek revenge against Balzack, their father's murderer. Their quest takes them through mystical lands, populated by monsters and magical mysteries. Meena, a magician with psychic powers, and Maya, an agile dancer, form a formidable team. Together, they discover hidden truths about magic and the origins of their world.
 
 ### Lakanaba Village
@@ -275,7 +275,7 @@ Go to the first cave to the east of Chandor Castle. Talk to the man inside, and 
 
 <p align="center"><img src="img/chapter3/tunnel.png"></p>
 
-## Chapter 4: The mystical world of Meena and Maya
+# Chapter 4: The mystical world of Meena and Maya
 The previous chapters converge on the Chosen Hero, a silent character that players can customise. The Hero brings together the characters from the previous chapters, forming a motley crew. They learn that Psaro the Butcher is not the true antagonist, but rather a person in search of redemption after the loss of his beloved. The team embarks on a journey to save the world, discovering key elements of the story and facing increasingly powerful adversaries.
 
 ### Teafortwo Town
@@ -346,7 +346,7 @@ On your way out, you realise that you've found your bearings, but fortunately yo
 
 <p align="center"><img src="img/chapter4/pirate.png"></p>
 
-## Chapter 5: The Chosen
+# Chapter 5: The Chosen
 Les héros découvrent l'existence d'un monde souterrain dirigé par Estark, une force maléfique. Ils doivent collecter des artefacts sacrés pour renforcer leur pouvoir et obtenir l'alliance des monstres opprimés par Estark. Ce chapitre met en avant des batailles épiques, des moments de sacrifice et des révélations sur l'histoire ancienne de leur monde. Les enjeux atteignent un sommet alors que l'équipe se prépare à affronter Estark.
 
 ### The hero's odyssey begins
@@ -799,7 +799,7 @@ You find yourself facing his final form... be careful, because he often acts bef
 ## After Boss
 Once Psaro has been defeated, he disappears, and just as everything is falling apart, the Zenith dragon comes to collect you. He takes you to Zenithia to congratulate you. You've just completed the main adventure of Dragon Quest: Epic of the Chosen! The rest awaits you in the secret chapter!
 
-## Chapter EX: Post-Epilogue
+# Chapter EX: Post-Epilogue
 The final chapter sees the group take on Estark in an epic battle to save the world. Psaro the Butcher realises the true meaning of love and sacrifice, bringing an emotional dimension to the story. After intense battles, moments of reflection and difficult choices, peace is finally restored to the world. The heroes return to their daily lives, forever scarred by the trials they have overcome.
 
 ### The secret cave
