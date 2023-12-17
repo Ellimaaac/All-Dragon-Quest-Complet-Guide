@@ -1,8 +1,11 @@
-Quest #1 – A Helpful Boy
-Quest #2 - The soldier and the strategist: tale of two heroes
-Quest #3 – Charles is in trouble!
-Quest #4 - Two is better
-Quest #5 – Lord of the Ring
+# Sides Quests
+
+## Tables of Quests
+  - [Quest #1 – A Helpful Boy](#Quest-#1–A-Helpful-Boy)
+  - Quest #2 - The soldier and the strategist: tale of two heroes
+  - Quest #3 – Charles is in trouble!
+  - Quest #4 - Two is better
+  - Quest #5 – Lord of the Ring
 Quest #6 - An iron will
 Quest #7 - Painting in the Wild
 Quest #8 - A cactusteak in the net
@@ -58,3 +61,5 @@ Quest #57 - Morgant, or the art of magic
 Quest #58 - New strings for his harp
 Quest #59 - The Wisdom of the King of Warriors
 Quest #60 - Unhappy loves
+
+# Quest #1 – A Helpful Boy
