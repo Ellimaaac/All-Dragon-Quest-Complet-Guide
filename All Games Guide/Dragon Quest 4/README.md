@@ -320,7 +320,7 @@ You discover the room where Lord Regent is hiding. Within the first few seconds 
 ## BOSS
 ### Balzack
 
-<p align="center"><img src="img/chapter4/balzack2.png"></p>
+<p align="center"><img src="img/chapter4/balzack.png"></p>
 
 | No. | HP | MP | Attack | Defense | Agility | XP | Gold | Object |
 |-----|----|----|--------|---------|---------|----|------|--------|
