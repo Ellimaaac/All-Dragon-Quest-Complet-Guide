@@ -1,5 +1,5 @@
 # Dragon Quest I
-<p align="center"><img src="img/chapter1/dq1.jpg" width="600"height="300"></p>
+<p align="center"><img src="img/dq1.jpg" width="600"height="300"></p>
 
 ## 📖 Table of contents
 
@@ -81,7 +81,7 @@ You should definitely save before venturing into these caves, as you may never r
 
 ## BOSS
 ### Dragon
-<p align="center"><img src="img/chapter1/dragon.png"></p>
+<p align="center"><img src="img/dragon.png"></p>
 
 | PV    | Attack | Defense | Agility | XP   | Or   |
 |-------|--------|---------|---------|------|------|
