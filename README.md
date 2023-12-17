@@ -9,7 +9,7 @@ in Order : 4 (95%) - 11 - 5 (...)
 
 **The Legends of Erdrick**
 
-1. [Dragon Quest I](Dragon%20Quest%201)
+1. [Dragon Quest I](All%20Games%20Guide/Dragon%20Quest%201)
 2. [Dragon Quest II](Dragon%20Quest%202)
 3. [Dragon Quest III](Dragon%20Quest%203)
 
