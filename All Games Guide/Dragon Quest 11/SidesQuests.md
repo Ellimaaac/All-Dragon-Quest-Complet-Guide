@@ -64,3 +64,33 @@
 
 # Quest 1: A Helpful Boy
 # Quest 2: The soldier and the strategist-tale of two heroes
+
+
+
+# Quest 34: A Late Graduation
+# Quest 35: Madame Labouche's life lesson
+# Quest 36: A somewhat neglected young girl
+# Quest 37: Vapor of Youth
+# Quest 38: A flower in the desert
+# Quest 39: In search of the philosopher's stone
+# Quest 40: Mermaid Gargles
+# Quest 41: My kingdom for delicalamar
+# Quest 42: In the footsteps of the shards of the star
+# Quest 43: Song of Bravery
+# Quest 44: A Thrilling Night
+# Quest 45: A challenge like clockwork
+# Quest 46: A Thunderous Birthday
+# Quest 47: Justice in Troubled Waters
+# Quest 48: A dish best served cold
+# Quest 49: An old letter:writing love
+# Quest 50: The Panorama Expert
+# Quest 51: Pure Strength!
+# Quest 52 : Mistress Béa's precise prediction
+# Quest 53: High-flying Hide and Seek
+# Quest 54 : The Legend of the Legendary Treasure
+# Quest 55 : Very dynamic knights
+# Quest 56 : Small favor, big results
+# Quest 57 : Morgant, or the art of magic
+# Quest 58 : New strings for his harp
+# Quest 59 : The Wisdom of the King of Warriors
+# Quest 60 : Unhappy loves
