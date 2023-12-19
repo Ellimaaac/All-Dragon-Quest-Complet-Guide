@@ -33,6 +33,16 @@
 | Magic Armor       | magicarmor      | 24     | 7700  | 3850  | Provides protection similar to Steel Armor, but also restores HP while walking                       | Rimuldar, Melkido                                  |
 | Armor of Roto     | armorofroto     | 28     | -     | -     | Legendary armor of hero Roto, restores HP while walking                                             | Devastated village in the desert (see walkthrough) |
 
+| Shield            | ID            | Attack | Buy    | Sell   | Function                                                               | Location                         |
+|-------------------|---------------|--------|--------|--------|------------------------------------------------------------------------|----------------------------------|
+| Leather Shield    | leathershield | 4      | 90     | 45     | Your first shield, made from animal skins                              | Radatome, Maira                  |
+| Iron Shield       | ironshield     | 10     | 800    | 400    | A very good iron shield for its price                                  | Garai, Melkido                   |
+| Mirror Shield     | mirrorshield   | 20     | 14800  | 7400   | The best shield, covered in magical materials                         | Melkido                          |
+
+
+
+
+
 # Items
 
 | Item                  | ID                 | Buy  | Sell | Function                                                                       | Location                                                                                                                         |
