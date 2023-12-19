@@ -2,7 +2,7 @@
 
 ## The hero
 
-photo
+<p align="center"><img src="img/heros.png"></p>
 
 | Role | Gender | Status | Weapons | Magic |
 |-----|-----|--------------|------|-----------------------|
@@ -26,7 +26,7 @@ The hero's identity remains a mystery. We don't even know his name, or what he's
 
 ## Princess Laura
 
-photo
+<p align="center"><img src="img/princesse.png"></p>
 
 | Role | Gender | Status | Weapons | Magic |
 |-----|-----|--------------|------|-----------------------|
@@ -36,7 +36,7 @@ Laura is a beautiful and candid young woman. Like all princesses, she is waiting
 
 ## The King
 
-photo
+<p align="center"><img src="img/roi.png"></p>
 
 | Role | Gender | Status | Weapons | Magic |
 |-----|-----|--------------|------|-----------------------|
@@ -46,7 +46,7 @@ The ruler of Radatome is a wise and patient old man. Having lost his wife, his d
 
 ## Lordragon
 
-photo
+<p align="center"><img src="img/dragonkinghumain.png"></p>
 
 | Role | Gender | Status | Weapons | Magic |
 |-----|-----|--------------|------|-----------------------|
