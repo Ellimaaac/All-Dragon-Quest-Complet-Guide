@@ -39,7 +39,7 @@ The town of Garai is located far north of Radatome Castle. Continue north after 
 
 ## Marai Town
 
-<p align="center"><img src="img/maira.png"></p>
+<p align="center"><img src="img/marai.png"></p>
 
 This town is quite far away, so be sure to be equipped as we have advised you, otherwise you will probably not come out alive... Maira is located to the east of the town of Garai. Starting from this, continue east then head slightly south to cross two bridges. After the second, head north. You will encounter the first monsters worthy of the name, like Sage or Giant Scorpion. Be very careful and do not hesitate to cast your "Fireball" spell. You should be able to see the town right in the middle of a forest. There you will discover on the ground, on a shiny point, the Fairy Flute, which will be obligatory for the rest of the adventure.
 
@@ -168,7 +168,7 @@ Now you have to prove your status as a hero, and as a descendant of Roto. If you
 
 Remember the bridge you didn't use near Melkido, now's the time to do it! After crossing it, you should find an absolutely gigantic swamp. It's made up of two large parts, separated by a tiny patch the size of your character. From here, head east and take about twelve steps. Watch the ground with each step and you should find the Token of Roto. To help you, you can use the Princess Love. When you use it, you'll get i
 
-<p align="center"><img src="img/descentdantRoto.png"></p>
+<p align="center"><img src="img/descendantRoto.png"></p>
 
 Once you've done that, take the Stones of Sunlight and the Rain Cloud Staff from your inventory. Head for Rimuldar, then the south of the town, until you come to a temple. Talk to the old man there and he'll integrate your two items to create the Rainbow Drop. Be careful, you must have the Token of Roto for him to agree to help you.
 
@@ -251,6 +251,7 @@ After this fight, he will show his true nature: that of a great dragon. Continue
 | HP       | Attack | Defense | Agility | XP | Gold |
 |----------|--------|---------|---------|----|------|
 | 250-350  | 110    | 110     | 50      | 0  | 0    |
+
 **Informations**: Spits a blast of fire and can increase his agility
 **Location**: Castle of the Dragon King
 
