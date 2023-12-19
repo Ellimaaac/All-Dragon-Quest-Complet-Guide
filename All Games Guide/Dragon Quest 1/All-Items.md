@@ -7,7 +7,7 @@
    - [Weapons](#weapons)
    - [Stuffs](#stuffs)
    - [Items](#items)
-2.  [Return to Main Story]()
+2.  [Return to Main Story](README.md)
 
 # Weapons
 
