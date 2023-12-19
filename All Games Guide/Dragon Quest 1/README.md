@@ -112,6 +112,145 @@ PHTO
 
 This is the second town you've visited, but this time you'll really understand its importance. Open the tower you find at the northern entrance to the town with one of your magic keys. There you'll find people warning you of the danger around you, so listen only to your courage and continue on your way. In the chests you'll find a Copper Sword, a Torch and a few gold coins. Once you've done that, head to the most north-westerly point in the room. From here, take a few steps eastwards, then continue northwards. You'll then find a secret passage in the wall, where you can continue towards an old man. Go down the stairs as soon as he disappears!
 
+## Temple of the West of Maira
+
+Treasure: Rain Cloud Staff
+
+Return to save Ramatone Castle, then head towards the village of Maira. To the west of the village, you'll find a small passage between the mountains. Take it and head north until you come across a temple. Talk to the guardian there and he'll give you proof of your courage - the Silver Harp. When you show it to him, he'll give you the Rain Cloud Staff. You can store this in a town if that suits you. Now it's time to train to reach the last town: Melkido. You'll have to fight to reach level 15/16 and have enough money to buy a Steel Sword and a Magic Armor. If you run out of money, you can defeat the Gold Man near Rimuldar.
+
+## The road to Melkido
+Treasure: Fairy Flute, Defense Seed, Magic Key, Nut of Life
+
+photo
+
+Dragon Quest Melkido Town
+The town of Melkido is home to some very interesting merchants. However, it is protected by an extremely powerful monster: the mythical Golem. However, it is possible to defeat it with ease. To do so, you need the Fairy Flute, which can put certain enemies to sleep. If you have it stored in the Radatome depot in the inn, go and get it. Once you have it, go to Garai and then south, beyond the Mountain Caves, cross the bridge and continue. Beware of the enemies here, they are quite powerful and you could die quickly.
+
+Pass through the desert, but don't enter the town you see, you'll pass through there later. Instead, head south and then east. Cross the bridge, but don't take the second one. Make sure you remember this place, though, as you'll have to go back there too. This is where you'll come across some lucky Metal Slimes, who can give you over 775 experience points if you win! Continue north then east and you'll be able to see the town of Melkido in the distance. Cross the bridge that separates you from it, and prepare to fight the Golem. As soon as it starts, use the Fairy Flute. It will fall asleep for two or three turns, so take the opportunity to attack it, repeating the operation as often as possible.
+
+## BOSS
+### Golem
+
+PHOTO
+
+| HP   | Attack | Defense | Agility | XP  | Gold |
+|--------|---------|---------|---------|------|----|
+| 150-160| 120     | 60      | 40      | 2500 | 10 |
+
+**Informations**: Very sensitive to the Fairy Flute, guards the town of Melkido
+**Location**: In front of the town of Melkido
+
+Once defeated, you'll gain almost 2,500 experience points! Now it's time to return to the famous town of Melkido. Here you can pick up your stored items, drop off others and buy some very valuable items. You'll find a Defence Seed in the inn's wardrobe. A Magic Key can be found in a cupboard that can be opened behind one of the closed doors. A Nut of Life is also waiting for you near the holy water vendor. We advise you to buy the Flame Sword and the Mirror Shield as soon as possible - if not immediately - and to pass level 17/18.
+
+## The devastated city of the desert
+Treasure: Armor of Roto
+
+photo
+
+It's time to set off in search of Roto's legendary armour. We'll start with his famous armour, which is said to have once made him invincible. To do this, head for the desert you crossed on your journey to Melkido, south of Garai. You'll find a devastated town, with no living soul apart from some fairly powerful monsters. So remember to heal yourself regularly. When you enter the town, go around the first building to the south and then east. When you can't go any further, head north near a small row of trees, then from there head west across the poisoned water. Watch out, you're going to have to fight a boss! Make sure you're in good shape before you take him on, or he'll quickly take you down... You'll come across a Demon Knight. He has the power to put you to sleep with his Sleep spell, so prevent him from being invoked from the start by using your 'StopSpell' magic. Heal yourself as soon as your health points drop below 60.
+
+## BOSS
+### Demon Knight
+
+| HP   | Attack | Defense | Agility | XP  | Gold |
+|------|--------|---------|---------|-----|------|
+| 80   | 90     | 90      | 50      | 120 | 160  |
+
+Once defeated, continue westwards, and when you reach the end, dig through the grass to find the Armor of Roto.
+
+PHOTO
+
+Armor of RotoThis will heal you with every step you take, and you'll have nothing to fear from the swamps and other poisonous waters. A true blessing!
+
+## The descendant of Roto
+Treasure: Token of Roto, Rainbow Drop
+
+Now you have to prove your status as a hero, and as a descendant of Roto. If you decide to go to Melkido, a character will show you some coordinates. These are the coordinates where the Token of Roto can be found. As the princess is with you, you can talk to her to find out how much experience you have left until your next level, as well as your coordinates in relation to the castle. You must then go to the coordinates indicated by the NPC, with the help of the princess. This conversation with the NPC and the help of the princess are not compulsory if you follow this solution.
+
+Remember the bridge you didn't use near Melkido, now's the time to do it! After crossing it, you should find an absolutely gigantic swamp. It's made up of two large parts, separated by a tiny patch the size of your character. From here, head east and take about twelve steps. Watch the ground with each step and you should find the Token of Roto. To help you, you can use the Princess Love. When you use it, you'll get i
+
+photo
+
+Once you've done that, take the Stones of Sunlight and the Rain Cloud Staff from your inventory. Head for Rimuldar, then the south of the town, until you come to a temple. Talk to the old man there and he'll integrate your two items to create the Rainbow Drop. Be careful, you must have the Token of Roto for him to agree to help you.
+
+Return to Rimuldar, then go to the most north-westerly point of the continent you're on, in a desert. You should be directly opposite another continent, separated from it by a small stretch of water. Use the Rainbow Drop on the end of your land area to create a Rainbow Bridge, allowing you to reach the continent of Lordragon Castle.
+
+## The Lordragon's lair
+### First Floor
+Be very careful of the monsters in this last dungeon, as they are, as you might expect, very powerful. Be particularly wary of the Hades Knights and the Demon Knight, and their Sleep spell. You should also encounter many types of dragon, so heal yourself regularly to survive the many battles ahead. When you return, take the West passage and head for the throne room. Take a look at the throne room and you'll see that there's a small draught behind it... Go and look behind the throne to discover a secret passage.
+
+### Second Floor
+Open the door before you and follow the southern passage until you have a choice of two paths. Take the one to the East, then continue until you find the stairs leading to the top floor.
+
+### Third Floor
+Once you're on this floor, you can go North or West, so take the passage leading West. Continue along this path until you are again presented with a choice: take the passage to the East and take the stairs you come across.
+
+### Fourth Floor
+Treasure: Dragon Quest Chest Treasures: Gold coins, Herb
+
+To the west are two chests containing gold coins and a Herb. Collect them, then take the passage to the east, without taking the first staircase you come to. Continue this way and head south to take the stairs...
+
+### Fifth floor
+Head south into the small hollow containing a number of torches. Take the first staircase you see.
+
+### Back to the fourth floor
+Head south-east and take the stairs.
+
+### Back to the third floor
+Take the stairs you will see when you arrive in the East.
+
+### Back to the second floor
+
+Treasure: Sword of Roto
+
+Open the chest you see to acquire the Sword of Roto. Equip it immediately! Once you've done that, we recommend you return to Radatome Castle to save your equipment and prepare for the final confrontation. Buy the Mirror Shield if you haven't already done so, and train until you reach at least level 20. The time has come for you to face your destiny.
+
+## The final assault
+### First to fourth floor
+
+Take the same route as before to reach the fifth floor.
+### Second Floor
+
+Open the door in front of you and follow the southern passage until you have a choice of two paths. Take the one to the East, then continue until you find the stairs leading to the top floor.
+
+### Fifth floor
+
+You're back in a familiar room... Don't take any of the stairs near the torches, but instead continue to the south-east of the room. Once you've passed this passage, continue north where you should find a staircase surrounded by pillars. Note that the second staircase near the torches leads to an infinite loop, the first of its kind in an RPG!
+
+### Sixth floor
+
+Follow the only path open to you, keeping an eye out for Darth Dragons and other dangerous monsters you might encounter...
+
+### Seventh floor
+
+Keep walking eastwards from your starting point, and you should come across some stairs in front of you. Climb them...
+
+### Eighth floor
+
+Treasure: Cursed Belt, Magic Nut, Herb, Magic Key, Gold coins, Wing of Chimera
+
+You have now reached the top floor of the castle. Head north and you'll find a room containing several chests. You can obtain a Cursed Belt, a Magic Nut, nue Herb, gold coins, a Wing of Chimera and a Magic Key. However, these items won't be of much use to you for the rest of the story, apart perhaps from the herb. Return to the corridor that led to this door and take the passage to the west, then continue to the north-east. This will take you through a large room as well as a section with grass and poisoned water. You will then be confronted by the Lordragon. Don't be tempted by his offer to rule half the world, and answer "no" twice. The battle will then begin. His first form will be fairly easy to defeat if you're well prepared: heal yourself as soon as your health points drop below 100, and only use physical attacks or Firebane to attack him. Roto's sword will prove its worth in this fight.
+
+## BOSSES 
+### Dragon King (Human)
+| HP       | Attack | Defense | Agility | XP | Gold |
+|----------|--------|---------|---------|----|------|
+| 200-250  | 105    | 110     | 50      | 0  | 0    |
+
+**Informations**: Uses Healmore, Firebane, and can put you to sleep with Sleep
+**Location**: Castle of the Dragon King
+
+After this fight, he will show his true nature: that of a great dragon. Continue as you did in the first fight, and you should come out of it with little difficulty. Watch out, though, for his fire breath, which does a lot of damage... After a fierce battle, you should be able to get the better of him.
+
+### Dragon King (Dragon)
+| HP       | Attack | Defense | Agility | XP | Gold |
+|----------|--------|---------|---------|----|------|
+| 250-350  | 110    | 110     | 50      | 0  | 0    |
+**Informations**: Spits a blast of fire and can increase his agility
+**Location**: Castle of the Dragon King
+
+## The end of a quest
+Once Lordragon has been defeated, you can restore the Ball of Light... the source of all life. Peace has finally returned, and no more monsters will attack you. Make the most of your victory by visiting the towns and cities, to gather the various reactions of the villagers, who will pay tribute to the new hero that you are. Return to the castle, where the King awaits you, and you'll be offered a most interesting proposition... which you'll refuse, to create your own kingdom, alongside Princess Laura, who will ask you to accompany her. Accept, and admire the end of the game... Congratulations, you've completed your quest... Dragon Quest!
 
 
 
