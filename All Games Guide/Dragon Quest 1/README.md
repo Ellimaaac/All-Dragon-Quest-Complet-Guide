@@ -15,7 +15,7 @@
 
 ## Radatome Castle
 
-PHOTO
+<p align="center"><img src="img/radatomeCastle.jpg"></p>
 
 The King receives you to explain what your quest will consist of. The King will tell you how far you've progressed in Dragon Quest I and how many experience points you'll need to reach the next level. After listening carefully, open the chests to obtain 120 gold coins, a torch and a magic key that will allow you to open the door to the South. You can also speak to the King's advisor, who will tell you about Princess Laura, and to the soldiers, who will give you lots of advice. Once you've done that, open the door and go down the stairs. In one of the jars to the east, you'll find an herb that will heal your wounds.
 Now that you're ready to see the world, leave the castle and head for the town to the east.
