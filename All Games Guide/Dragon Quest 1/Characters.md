@@ -46,7 +46,7 @@ The ruler of Radatome is a wise and patient old man. Having lost his wife, his d
 
 ## Lordragon
 
-<p align="center"><img src="img/dragonkinghumain.png"></p>
+<p align="center"><img src="img/dragonkinghumain.png" width="200"></p>
 
 | Role | Gender | Status | Weapons | Magic |
 |-----|-----|--------------|------|-----------------------|
