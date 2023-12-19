@@ -9,7 +9,7 @@
 2. Other
    - [Map](#map)
    - [Bestiary](#Bestiary)
-   - [All Items](All-items.md)
+   - [All Items](All-Items.md)
   
 
 # Chapter 1: Delivering the Princess
