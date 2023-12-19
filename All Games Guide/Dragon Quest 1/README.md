@@ -9,7 +9,6 @@
 2. Other
    - [Map](#map)
    - [Characters](Characters.md)
-   - [Magic](Magic.md)
    - [All Items](All-Items.md)
   
 
