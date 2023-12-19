@@ -13,7 +13,7 @@
 
 | Weapon      | ID           | Attack | Buy  | Sell | Function                                             | Location                     |
 |-------------|--------------|--------|------|------|------------------------------------------------------|------------------------------|
-| <p align="center"><img src="img/radatomeCastle.png"></p> | bamboo pole    | 2      | 10   | 5    | Young sprout used by children playing heroes...      | Radatome, Melkido            |
+| <p align="center"><img src="img/bamboopole.png"></p> | bamboo pole    | 2      | 10   | 5    | Young sprout used by children playing heroes...      | Radatome, Melkido            |
 | <p align="center"><img src="img/club.png"></p>   | club| 4      | 60  | 30   | Large wooden club, suitable as a weapon for beginners| Radatome, Garai, Melkido |
 | <p align="center"><img src="img/coppersword.png"></p> | copper sword   | 10     | 180  | 90   | Copper sword for those initiated into fencing     | Radatome, Garai, Maira, Rimuldar, Melkido |
 | <p align="center"><img src="img/ironaxe.png"></p> | iron axe | 15     | 560 | 280  | Very good value for money, this axe will do wonders  | Garai, Maira, Rimuldar, Melkido   |
