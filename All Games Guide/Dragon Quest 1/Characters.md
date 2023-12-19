@@ -10,6 +10,20 @@ photo
 
 The hero's identity remains a mystery. We don't even know his name, or what he's really after in this quest. Very few people believe in him and his descent from the famous hero Roto, who once saved the world. But it is the blood of a brave man that runs in his veins, and the King of Radatome, in his wisdom, understood this. The hero was the only one brave enough to take the initiative in rescuing Princess Laura, who was being held prisoner by a terrible dragon. His courage goes so far as to defy the mighty Lordragon. At the start of the adventure, the hero pays his respects at Roto's tomb, eventually proving his worth by finding his ancestor's equipment.
 
+### Hero's magic
+| Spell      | Level | MP  | Effects                                        | Preview   |
+|------------|-------|-----|------------------------------------------------|-----------|
+| Heal       | 3     | 3   | Restores between 20 and 30 HP                  | -         |
+| Fireball   | 4     | 2   | Sends a fireball at the enemy                  | fireball  |
+| Sleep      | 2     | 7   | Forces certain enemies to sleep                | sleep     |
+| Radiant    | 9     | 2   | Illuminates your path in dark places           | radiant   |
+| StopSpell  | 10    | 2   | Prevents enemies from using magic if it works  | stopspell  |
+| Outside    | 12    | 6   | Allows you to quickly exit a dungeon           | outside   |
+| Return     | 13    | 8   | Teleports you to Radatome Castle               | return    |
+| Repel      | 15    | 2   | Surrounds you with an aura reducing random battles | repel |
+| Healmore   | 17    | 8   | Restores between 70 and 90 HP                 | -         |
+| Firebane   | 19    | 5   | Engulfs the enemy in an extremely hot wall of fire | -       |
+
 ## Princess Laura
 
 photo
