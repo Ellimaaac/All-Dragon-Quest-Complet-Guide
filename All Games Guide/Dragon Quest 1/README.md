@@ -15,43 +15,42 @@
 
 ## Radatome Castle
 
-<p align="center"><img src="img/radatomeCastle.jpg"></p>
+<p align="center"><img src="img/radatomeCastle.png"></p>
 
 The King receives you to explain what your quest will consist of. The King will tell you how far you've progressed in Dragon Quest I and how many experience points you'll need to reach the next level. After listening carefully, open the chests to obtain 120 gold coins, a torch and a magic key that will allow you to open the door to the South. You can also speak to the King's advisor, who will tell you about Princess Laura, and to the soldiers, who will give you lots of advice. Once you've done that, open the door and go down the stairs. In one of the jars to the east, you'll find an herb that will heal your wounds.
 Now that you're ready to see the world, leave the castle and head for the town to the east.
 
 ## Radatome Village
 
-PHOTO
+<p align="center"><img src="img/radatome.png"></p>
 
 First of all, head to the merchant to the north and buy the Club and Plain Clothes to equip yourself better. The Dragon Scales from the merchant to the east will also be useful, as will a torch or two. Next, you'll find a Wing of Chimera in a cupboard in the inn to the south. You can then start training so that you can stand up to the monsters of the world. Leave the town and wander the green pastures around the castle until you reach level 3/4, to obtain the 'Heal' spell, which heals you, and the 'Fireball' spell, which lets you shoot fireballs. Don't stray too far, fighting only Slimes or Red Slimes, and rest at the augerge regularly.
 Once you've done that, don't forget to save the game by going back to talk to the King. You can also recover all your magic points by talking to the old man to the east of the ground floor. Now it's time to pay your respects at the tomb of your ancestor Roto, the legendary hero.
 
 ## Roto Cave
 
-PHOTO
-
 To reach his tomb, simply head north from the castle. You can find the entrance to a cave in a small desert, taking care of the surrounding monsters. Once you return, you will be able to breathe, you will not meet anyone there. Then light your torch to see something there, and head to the South-East, where you will take some stairs. There, walk the walls to Roto's tomb, and read his will. He will explain to you what you must do to defeat evil, namely find his sword and his legendary armor. Once done, return to town and rest. Fight until you have enough money to buy a Leather Shield and Leather Clothes. You are now well equipped to set off on an adventure. Onward to Garai!
 
 ## Garai Town
 
-PHOTO
+<p align="center"><img src="img/garai.png"></p>
 
 The town of Garai is located far north of Radatome Castle. Continue north after Roto Cave and head towards the western plains to reach it. This city is not very interesting at the moment, but you can still do some exploring there. It is therefore advisable to buy the Copper Sword there if you can afford it. The other amenities are still too expensive for you.... You will come back to this city later. After going around the town and talking to the inhabitants, you can either head towards the news that awaits you, or return to the castle to save, which we advise you to do.... Now, head to Maira!
 
 ## Marai Town
 
-PHOTO
+<p align="center"><img src="img/maira.png"></p>
 
 This town is quite far away, so be sure to be equipped as we have advised you, otherwise you will probably not come out alive... Maira is located to the east of the town of Garai. Starting from this, continue east then head slightly south to cross two bridges. After the second, head north. You will encounter the first monsters worthy of the name, like Sage or Giant Scorpion. Be very careful and do not hesitate to cast your "Fireball" spell. You should be able to see the town right in the middle of a forest. There you will discover on the ground, on a shiny point, the Fairy Flute, which will be obligatory for the rest of the adventure.
 
-PHOTO
+<p align="center"><img src="img/marai2.png"></p>
 
 You can also find Plain Clothes as well as a Strong Seed in the shelves near the hot springs where a young woman offers you her "Puff-Puff" services... Use this seed immediately to develop your strength. After talking to the people present, go back... and train, until you reach level 8. All these fights will allow you to earn enough gold coins to buy an Iron Ax and possibly an Iron Armor. For the most motivated, it is also interesting to buy an Iron Shield in Garai but know that you can find one for free in the area we are going to describe: the mountain caves. Don't forget to save with the king and take advantage of this passage to go to the town of Radatome and store the Fairy Flute at the depot which will not be useful for a while.
 
 ## The mountainous caves
 
-### Magic Nut
+Treasures: 343 Gold, 537 Gold (random), Cursed necklace (random), Iron shield, Warrior's ring, Seed of strength, Magic nut.
+
 Mountain caves are easy to find and are an optional location. You don't have to do them now, or even after. However, we advise you to do so in order to find an Iron Shield! To do this, head to Garai by crossing the first bridge, then go south until you can't go down anymore, then head east. You should find some purple swamps, don't step on them or you'll get hurt. Continue east to find the entrance to the caves.
 
 ### Ground floor
@@ -64,13 +63,14 @@ Once in the basement, head east, you can find chests in two recesses containing 
 
 Note: From this moment you will be able to equip both the Dragon Scales to have a defense bonus, as well as the Warrior's Ring to be more effective in attack. We recommend equipping both, but carrying both items at the same time will take up space in your inventory. So store the Fairy Flute in the Radatome town depot in the inn if you haven't already done so, or the Medical Herbs which will no longer be very useful to you since you learned to heal yourself with them. Magic.
 
-### The Marais caves
+## The Marais caves
 These caves are located south of Maira, in the middle of a swamp. You will therefore necessarily lose life points before entering, be careful! They are very easy to navigate, no need to use a torch. Indeed, once inside, all you have to do is continue south until you get stuck. Then continue to follow the walls towards the south, then when you are blocked again, head towards the West to find stairs. Take them to get out of the caves. For the adventurers who have explored the cave, you may have found a door there that you will not be able to open for the moment, it can still wait a little... You are not yet ready for what is hiding behind!
 
 ## Rimuldar Town
+Treasures: Wing of the Chimera, 120 gold coins, Seed of Defence, Nut of Life
 Once outside, head west, go down a bit, then travel south through the forest. Watch out for the surrounding monsters that you find in the forests, which are quite strong, like the Wolf. If you encounter Iron Scorpions, use Fireball to defeat them, as they are very resistant to physical attacks. If you run out of magic, don't be brave and run away.
 
-PHOTO
+<p align="center"><img src="img/rimuldar.png"></p>
 
 You will find Rimuldar on a peninsula. In this town you will obtain a Wing of Chimera in a wardrobe, next to a young woman changing... This town is very interesting and quite essential to continue the adventure because you find a Magic Keys merchant. You will thus be able to open the doors of the game, including that of the caves which we have already spoken about. To find it, when you are in Rimulda, do not enter the town straight away and continue north, where there is a lonely girl. Then continue west and you will find the entrance to the building.
 
@@ -94,7 +94,7 @@ You should definitely save before venturing into these caves, as you may never r
 # Chapter 2: Alena and the Journey to the Tourney
 ## Return to Radatome Castle 
 
-PHOTO
+<p align="center"><img src="img/radatomeCastle.png"></p>
 
 Once the princess has been rescued, talk to the King, who will thank you for your courage and for finding his beloved daughter. She in turn will talk to you and give you the "Princess' Love", which will tell you how to get back to the castle and how many experience points you have left before completing the next level using it. Now it's time to open the West door on the ground floor and open the chests containing an Agility Seed, a Magic Nut, a Magic Key and 342 gold coins. Then open the North-East door, where you'll find a key seller and a priest who can restore all your health points.
 
@@ -102,13 +102,13 @@ Next to the key seller is a passage to the south-east, in the grass. Take it and
 
 ## Return to Radatome Town
 
-PHOTO
+<p align="center"><img src="img/radatome.png"></p>
 
 To avoid using a useless inventory slot for too long, we advise you to take the Stones of Sunlight to the Radatome town depot, in the hostel. This will lighten your load a little. You can also now buy the Stones of Sunlight from a nun behind a door in the north-east of the town of Fairy Water. This item allows you to avoid fighting monsters for a while, which could well save your life during difficult moments in the quest.
 
 ## Return to Garai
 
-PHTO
+<p align="center"><img src="img/garai.png"></p>
 
 This is the second town you've visited, but this time you'll really understand its importance. Open the tower you find at the northern entrance to the town with one of your magic keys. There you'll find people warning you of the danger around you, so listen only to your courage and continue on your way. In the chests you'll find a Copper Sword, a Torch and a few gold coins. Once you've done that, head to the most north-westerly point in the room. From here, take a few steps eastwards, then continue northwards. You'll then find a secret passage in the wall, where you can continue towards an old man. Go down the stairs as soon as he disappears!
 
@@ -121,9 +121,9 @@ Return to save Ramatone Castle, then head towards the village of Maira. To the w
 ## The road to Melkido
 Treasure: Fairy Flute, Defense Seed, Magic Key, Nut of Life
 
-photo
+<p align="center"><img src="img/melkido.png"></p>
 
-Dragon Quest Melkido Town
+
 The town of Melkido is home to some very interesting merchants. However, it is protected by an extremely powerful monster: the mythical Golem. However, it is possible to defeat it with ease. To do so, you need the Fairy Flute, which can put certain enemies to sleep. If you have it stored in the Radatome depot in the inn, go and get it. Once you have it, go to Garai and then south, beyond the Mountain Caves, cross the bridge and continue. Beware of the enemies here, they are quite powerful and you could die quickly.
 
 Pass through the desert, but don't enter the town you see, you'll pass through there later. Instead, head south and then east. Cross the bridge, but don't take the second one. Make sure you remember this place, though, as you'll have to go back there too. This is where you'll come across some lucky Metal Slimes, who can give you over 775 experience points if you win! Continue north then east and you'll be able to see the town of Melkido in the distance. Cross the bridge that separates you from it, and prepare to fight the Golem. As soon as it starts, use the Fairy Flute. It will fall asleep for two or three turns, so take the opportunity to attack it, repeating the operation as often as possible.
@@ -131,7 +131,7 @@ Pass through the desert, but don't enter the town you see, you'll pass through t
 ## BOSS
 ### Golem
 
-PHOTO
+<p align="center"><img src="img/golem.png"></p>
 
 | HP   | Attack | Defense | Agility | XP  | Gold |
 |--------|---------|---------|---------|------|----|
@@ -145,12 +145,11 @@ Once defeated, you'll gain almost 2,500 experience points! Now it's time to retu
 ## The devastated city of the desert
 Treasure: Armor of Roto
 
-photo
-
 It's time to set off in search of Roto's legendary armour. We'll start with his famous armour, which is said to have once made him invincible. To do this, head for the desert you crossed on your journey to Melkido, south of Garai. You'll find a devastated town, with no living soul apart from some fairly powerful monsters. So remember to heal yourself regularly. When you enter the town, go around the first building to the south and then east. When you can't go any further, head north near a small row of trees, then from there head west across the poisoned water. Watch out, you're going to have to fight a boss! Make sure you're in good shape before you take him on, or he'll quickly take you down... You'll come across a Demon Knight. He has the power to put you to sleep with his Sleep spell, so prevent him from being invoked from the start by using your 'StopSpell' magic. Heal yourself as soon as your health points drop below 60.
 
 ## BOSS
 ### Demon Knight
+<p align="center"><img src="img/demonknight.png"></p>
 
 | HP   | Attack | Defense | Agility | XP  | Gold |
 |------|--------|---------|---------|-----|------|
@@ -158,7 +157,7 @@ It's time to set off in search of Roto's legendary armour. We'll start with his 
 
 Once defeated, continue westwards, and when you reach the end, dig through the grass to find the Armor of Roto.
 
-PHOTO
+<p align="center"><img src="img/desert.png"></p>
 
 Armor of RotoThis will heal you with every step you take, and you'll have nothing to fear from the swamps and other poisonous waters. A true blessing!
 
@@ -169,7 +168,7 @@ Now you have to prove your status as a hero, and as a descendant of Roto. If you
 
 Remember the bridge you didn't use near Melkido, now's the time to do it! After crossing it, you should find an absolutely gigantic swamp. It's made up of two large parts, separated by a tiny patch the size of your character. From here, head east and take about twelve steps. Watch the ground with each step and you should find the Token of Roto. To help you, you can use the Princess Love. When you use it, you'll get i
 
-photo
+<p align="center"><img src="img/descentdantRoto.png"></p>
 
 Once you've done that, take the Stones of Sunlight and the Rain Cloud Staff from your inventory. Head for Rimuldar, then the south of the town, until you come to a temple. Talk to the old man there and he'll integrate your two items to create the Rainbow Drop. Be careful, you must have the Token of Roto for him to agree to help you.
 
@@ -233,6 +232,9 @@ You have now reached the top floor of the castle. Head north and you'll find a r
 
 ## BOSSES 
 ### Dragon King (Human)
+
+<p align="center"><img src="img/dragonkinghumain.png"></p>
+
 | HP       | Attack | Defense | Agility | XP | Gold |
 |----------|--------|---------|---------|----|------|
 | 200-250  | 105    | 110     | 50      | 0  | 0    |
@@ -243,6 +245,9 @@ You have now reached the top floor of the castle. Head north and you'll find a r
 After this fight, he will show his true nature: that of a great dragon. Continue as you did in the first fight, and you should come out of it with little difficulty. Watch out, though, for his fire breath, which does a lot of damage... After a fierce battle, you should be able to get the better of him.
 
 ### Dragon King (Dragon)
+
+<p align="center"><img src="img/dragonkingdragon.png"></p>
+
 | HP       | Attack | Defense | Agility | XP | Gold |
 |----------|--------|---------|---------|----|------|
 | 250-350  | 110    | 110     | 50      | 0  | 0    |
@@ -252,27 +257,5 @@ After this fight, he will show his true nature: that of a great dragon. Continue
 ## The end of a quest
 Once Lordragon has been defeated, you can restore the Ball of Light... the source of all life. Peace has finally returned, and no more monsters will attack you. Make the most of your victory by visiting the towns and cities, to gather the various reactions of the villagers, who will pay tribute to the new hero that you are. Return to the castle, where the King awaits you, and you'll be offered a most interesting proposition... which you'll refuse, to create your own kingdom, alongside Princess Laura, who will ask you to accompany her. Accept, and admire the end of the game... Congratulations, you've completed your quest... Dragon Quest!
 
-
-
 # Map 
 <p align="center"><img src="img/map1.jpg"></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
