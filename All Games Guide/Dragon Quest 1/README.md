@@ -8,7 +8,8 @@
     - [Chapter 2: Alena and the Journey to the Tourney](#chapter-2-Alena-and-the-Journey-to-the-Tourney)
 2. Other
    - [Map](#map)
-   - [Bestiary](#Bestiary)
+   - [Characters](#Characters.md)
+   - [Magic](Magic.md)
    - [All Items](All-Items.md)
   
 
