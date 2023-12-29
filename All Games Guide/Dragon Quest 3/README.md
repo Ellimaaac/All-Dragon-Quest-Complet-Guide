@@ -6,7 +6,7 @@
 1. Main Story
     - [Chapter 1: From father to son](#Chapter-1-from-father-to-son)
     - [Chapter 2: The hero's arrival](#chapter-2-The-hero-s-arrival)
-    - [Chapter 3:]
+    - [Chapter 3: The charms of orients](#chapter-3-the-charms-of-orients)
     - [Chapter 4:]
     - [Chapter 5:]
     - [Chapter 6:]
@@ -86,8 +86,91 @@ photo
 ## The village of Kazave
 In this village, you'll find a number of items, including a Pachisi ticket in the inn and boxer shorts in the house to the east of the village. Finally, a secret passageway contains a life nut and a fur hood. To reach this passage, simply go behind the tavern to the north-east to reach the staircase there.
 
-### The night
+### At night
 You can open the two chests in the item shop. They contain a poison digger and a club.
 
 ## Shampane Tower
+
 You must now go to the Shampane Tower to defeat Kandar and take back the Golden Crown. This tower is to the east of Kazave. To the east of the ground floor is a chest containing 430 gold coins. There is no chest waiting for you on the first floor. Go to the second floor via the staircase in the hidden area to the north of the first floor.
+
+photo
+
+On this floor, head for the hidden area to the east, where there is a chest. It contains a bronze shield. Now go to the hidden area to the north of the floor to get to the third level. Now open the large door to the south and climb the stairs. Then approach the thieves and follow them. You will see Kandar, but he will manage to escape. Go back the way you came until you find him on the third level of the tower. Confront Kandar. Once defeated, pick up the golden crown and return it to the King of Romaly. He will then offer you the chance to become the new king. You can accept for the fun of it, but you won't be able to continue the adventure, so you'll have to give the throne back to the old king. You'll find him fighting monsters in the basement of the armoury.
+
+Then take the road north of Kazave to the town of Noaniels (5). The elves have placed a curse on the town, putting all its citizens to sleep. Your duty is to wake them up. To do so, you must go to the hidden elven village to the west of the sleeping town (6). Don't forget to search the sleepy town from top to bottom, because in the house to the north-east you'll find a strength seed in the cauldron. In the pot in the house to the south-west, you'll find an agility seed, as well as a tragic tale in the library upstairs. Finally, you can collect a 'full moon herb' and a 'leather kilt' in the NIC.
+
+photo
+
+The welcome you will receive in the elven village will be far from warm, but you will learn from the queen that in order to destroy the spell on the town of Noaniels, you must bring her the 'Dream Ruby'. This can be found in the cave to the south of the village.
+
+## The cave south of the elf village
+Start by heading south. In the first hidden area to the west, you'll find a chest containing 288 gold coins. In another hidden area along the way, you'll find a holy water. Then enter the southernmost hidden area (7) and take the stairs there. Continue down one floor and open the chest in front of you. It contains a "small medal". Continue down all the stairs going up. You will then come to a staircase going down (8). Take it.
+
+photo
+
+Go around the water (9) to restore your health and magic points. Continue on your way by entering the hidden area to the west of the water. Then head north and enter the two hidden areas there. The one to the east contains a "strength seed". In the one to the west, you'll find an iron spear. Turn around and head west. Take the staircase (10) leading to the lower floor.
+
+photo
+
+Next, to the east, you will see a new staircase leading to the lower level. Don't take it, but head down the path to the south and enter the hidden area on the right, where a chest contains a silver rosary. Retrace your steps to the staircase and continue west. Go up to the north and enter the hidden area (11) there and grab the 224 gold coins lying in the dead end. Come out and continue south. You will then be able to cross two hidden areas. Start by searching the southernmost one, which contains a chest with a "Pachisi ticket". Then enter the area a little further north. There's a chest containing a leather dress and a staircase you'll need to take. Cross the bridge and take the contents of the chest (12), which is the Dream Ruby. You can now leave the cave.
+
+photo
+
+Return to the hidden elven village and give the Queen the Dream Ruby. She will then give you the Wake-up Powder. Return to Noaniels and use this item to wake up the town.
+
+# Chapter 3: The charms of orients
+
+## eHeading east!
+Your route will then take you eastwards. From Romaly, head east to cross a bridge (1) and reach the town of Ashalam (2).
+
+photo
+
+The town of Ashalam
+You'll find a moth powder in a cupboard in the inn. Finally, some merchants will have a different business sense to the usual. So, when you want to buy one of their items, you can refuse the price offered by the merchant, who will then make you a better offer. In reality, he will agree to halve the starting price and you will be able to refuse his offers three times over. In the end, you will only have to pay a quarter of the starting price if you manage well.
+
+### At night
+A woman in the centre of town will offer you her special services, in fact she'll give you a puff-puff session. You'll find a 'Pachisi ticket' in the cupboard of this young woman's house. Finally, an arms dealer opens his doors only at night. His weapons are more powerful than what you'll find in the town's other shops.
+
+You must now set foot in the desert to the west of Ashalam. On your way, you'll see a building in the middle of a forest (3), a Pachisi castle where you can play with Pachisi tickets. Once you're level with the desert, head south and you'll see an oasis (4). Enter it, as this is where you'll find the kingdom of Isis (5).
+
+photox3
+
+## The city of Isis
+You'll find a pair of boxer shorts in the house to the north-west, a small medal in the pot in the armoury and a brave book in the well. Finally, you will find a small medal buried in front of the middle cross in the cemetery, as well as an agility seed buried to the left of the well. You can also have fun in the monster arena by betting on a monster.
+
+### At night
+A 'Pachisi ticket' is hidden in the pouch hanging on the wall of the house just to the right of the inn. Finally, upstairs in the same house, you'll find a 'smart book' in the Socrus library.
+
+## The Castle of Isis
+Access the basement by standing behind the outer columns to enter the western entrance to the palace (6). Follow the only path in front of you and you will come to a chest containing the starry ring. Don't worry about the ghost, just answer his questions (7).
+
+photo
+
+You can then enter the palace through the classic opening. On the ground floor you'll find a "defy book" and a "Pachisi ticket". You can then visit the queen, whose throne is upstairs. Then go to the house south of the desert, where you'll find three items: a small medal, a Pachisi ticket and a Tomboy book. You must now explore the pyramid (8) to the north of Isis. Go there.
+
+photo
+
+## The desert pyramid
+Go down the main corridor and take the second corridor on the right, then follow it and go upstairs using the staircase (9) at the end of the passage. Make your way through the labyrinth so that you can take the staircase to the north-west of the floor (10), which will take you to a small medal.
+
+photo
+
+After returning to the first floor, head directly south and you'll come across a chest containing a wisdom seed. Then find the south staircase which leads to the second floor. This is where you'll find the magic key, but it's guarded by a door. To open it, you'll need to press four buttons, but in the right order.
+
+photo
+
+Here's how it works: From the staircase you arrived at, head east and open the first button (11), then head west and press the second button (12), then the third which is right next to it (12), and finally the fourth in the east, next to the first button.
+
+photo
+
+Place yourself on the numbers in the correct order.
+The door to the north will open. Enter the room and open the chests, which contain a "stamina seed" and the "magic key".Then go up to the next floor and use the magic key to open the door guarding the treasure room.The chests contain: 176 gold coins, a wing of wyvern, a strength seed, 80 gold coins, an agility seed, 112 gold coins, a magical skirt, 304 gold coins, a ruby ring, 56 gold coins, a small medal and a stone wig (cursed object).Beware, however, as each of the chests will be guarded by a group of four mummy men. Reach the next floor, where you'll collect a flashy suit. Go to the top floor, which is the roof of the pyramid, and rummage around for the small medal hidden there. Now leave the pyramid.
+
+You can now open every door except the prison doors. So don't hesitate to go back through towns you've already visited to access new areas. You can now reach the isolated building (13) to the west of Romaly. This is the passageway to the town of Portoga (14).
+
+photo
+
+## The town of Portoga
+In the building containing the inn, the armoury and the item shop, you will find a "Pachisi ticket" and a "strength seed".Go to the castle, where the treasure room contains a 'mist staff', a 'stamina seed' and an 'angry tattoo'. Finally, talk to the King and he'll give you the King's letter. This will allow you to move east.
+
+As you can see, you need to reach the lands to the east. To do this, enter the cave (15) to the north-west of Ashalam. Make your way to the dwarf Norud (16). First take what's in the chest, i.e. a training suit and a club. Then give Norud the King's letter. He will then unlock the secret passage to the east.
