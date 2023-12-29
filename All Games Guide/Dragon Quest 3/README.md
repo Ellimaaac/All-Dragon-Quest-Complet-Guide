@@ -120,7 +120,7 @@ Return to the hidden elven village and give the Queen the Dream Ruby. She will t
 
 # Chapter 3: The charms of orients
 
-## eHeading east!
+## Heading east!
 Your route will then take you eastwards. From Romaly, head east to cross a bridge (1) and reach the town of Ashalam (2).
 
 photo
