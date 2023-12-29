@@ -1,4 +1,4 @@
-# Dragon Quest III
+![image](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/assets/144267933/e2da48b7-ab86-4931-868e-94c42c92daa5)# Dragon Quest III
 <p align="center"><img src="img/dq1.jpg" width="600"height="300"></p>
 
 ## 📖 Table of contents
@@ -123,7 +123,7 @@ Return to the hidden elven village and give the Queen the Dream Ruby. She will t
 ## Heading east!
 Your route will then take you eastwards. From Romaly, head east to cross a bridge (1) and reach the town of Ashalam (2).
 
-photo
+<p align="center"><img src="img/3_1.png"></p>
 
 The town of Ashalam
 You'll find a moth powder in a cupboard in the inn. Finally, some merchants will have a different business sense to the usual. So, when you want to buy one of their items, you can refuse the price offered by the merchant, who will then make you a better offer. In reality, he will agree to halve the starting price and you will be able to refuse his offers three times over. In the end, you will only have to pay a quarter of the starting price if you manage well.
@@ -133,7 +133,7 @@ A woman in the centre of town will offer you her special services, in fact she'l
 
 You must now set foot in the desert to the west of Ashalam. On your way, you'll see a building in the middle of a forest (3), a Pachisi castle where you can play with Pachisi tickets. Once you're level with the desert, head south and you'll see an oasis (4). Enter it, as this is where you'll find the kingdom of Isis (5).
 
-photox3
+<p align="center"><img src="img/3_2.png"></p>
 
 ## The city of Isis
 You'll find a pair of boxer shorts in the house to the north-west, a small medal in the pot in the armoury and a brave book in the well. Finally, you will find a small medal buried in front of the middle cross in the cemetery, as well as an agility seed buried to the left of the well. You can also have fun in the monster arena by betting on a monster.
@@ -144,33 +144,33 @@ A 'Pachisi ticket' is hidden in the pouch hanging on the wall of the house just 
 ## The Castle of Isis
 Access the basement by standing behind the outer columns to enter the western entrance to the palace (6). Follow the only path in front of you and you will come to a chest containing the starry ring. Don't worry about the ghost, just answer his questions (7).
 
-photo
+<p align="center"><img src="img/3_3.png"></p>
 
 You can then enter the palace through the classic opening. On the ground floor you'll find a "defy book" and a "Pachisi ticket". You can then visit the queen, whose throne is upstairs. Then go to the house south of the desert, where you'll find three items: a small medal, a Pachisi ticket and a Tomboy book. You must now explore the pyramid (8) to the north of Isis. Go there.
 
-photo
+<p align="center"><img src="img/3_4.png"></p>
 
 ## The desert pyramid
 Go down the main corridor and take the second corridor on the right, then follow it and go upstairs using the staircase (9) at the end of the passage. Make your way through the labyrinth so that you can take the staircase to the north-west of the floor (10), which will take you to a small medal.
 
-photo
+<p align="center"><img src="img/3_5.png"></p>
 
 After returning to the first floor, head directly south and you'll come across a chest containing a wisdom seed. Then find the south staircase which leads to the second floor. This is where you'll find the magic key, but it's guarded by a door. To open it, you'll need to press four buttons, but in the right order.
 
-photo
-
 Here's how it works: From the staircase you arrived at, head east and open the first button (11), then head west and press the second button (12), then the third which is right next to it (12), and finally the fourth in the east, next to the first button.
 
-photo
+<p align="center"><img src="img/3_6.png"></p>
 
 Place yourself on the numbers in the correct order.
 The door to the north will open. Enter the room and open the chests, which contain a "stamina seed" and the "magic key".Then go up to the next floor and use the magic key to open the door guarding the treasure room.The chests contain: 176 gold coins, a wing of wyvern, a strength seed, 80 gold coins, an agility seed, 112 gold coins, a magical skirt, 304 gold coins, a ruby ring, 56 gold coins, a small medal and a stone wig (cursed object).Beware, however, as each of the chests will be guarded by a group of four mummy men. Reach the next floor, where you'll collect a flashy suit. Go to the top floor, which is the roof of the pyramid, and rummage around for the small medal hidden there. Now leave the pyramid.
 
 You can now open every door except the prison doors. So don't hesitate to go back through towns you've already visited to access new areas. You can now reach the isolated building (13) to the west of Romaly. This is the passageway to the town of Portoga (14).
 
-photo
+<p align="center"><img src="img/3_7.png"></p>
 
 ## The town of Portoga
 In the building containing the inn, the armoury and the item shop, you will find a "Pachisi ticket" and a "strength seed".Go to the castle, where the treasure room contains a 'mist staff', a 'stamina seed' and an 'angry tattoo'. Finally, talk to the King and he'll give you the King's letter. This will allow you to move east.
 
 As you can see, you need to reach the lands to the east. To do this, enter the cave (15) to the north-west of Ashalam. Make your way to the dwarf Norud (16). First take what's in the chest, i.e. a training suit and a club. Then give Norud the King's letter. He will then unlock the secret passage to the east.
+
+<p align="center"><img src="img/3_8.png"></p>
