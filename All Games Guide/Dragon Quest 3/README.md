@@ -9,7 +9,7 @@
     - [Chapter 3: The charms of orients](#chapter-3-the-charms-of-orients)
     - [Chapter 4: Searching for the supreme key](#Chapter-4-Searching-for-the-supreme-key)
     - [Chapter 5: The first orbs](#Chapter-5-The-first-orbs)
-    - [Chapter 6:]
+    - [Chapter 6: With or without companions](#Chapter-6-With-or-without-companions)
     - [Chapter 7:]
     - [Chapter 8:]
 3. Other
@@ -299,16 +299,56 @@ Before entering the village, go around the palisade to the right. You will then 
 
 The pirates are back, so don't hesitate to talk to them to gather information.
 
+# Chapter 6: With or without companions
 
+## Back to Lancel
+Return to Lancel and head north (1) to discover the hidden side of the town. Open the central door, then speak to the priest (2).
 
+<p align="center"><img src="img/6_1.png"></p>
 
+You will then be presented with a challenge. Once you've accepted it, you'll be on your own as your companions will have to stay away. After following the priest, head east and open the chest containing a "small medal" (3). Then head west. This will take you out of the town. Enter the cave to the west (4).
 
+<p align="center"><img src="img/6_2.png"></p>
 
+## Lancel's western cave
+Move south and open the door in front of you (5). Then head further south. In the two hidden areas to the west, you will find a chest containing 248 gold coins and a mimic in the other. In the two hidden areas to the east, you'll find two chests containing a small medal and a wisdom seed respectively. Finally, continue heading south (6), then follow the only path available to you until you reach a staircase leading downwards.
 
+<p align="center"><img src="img/6_3.png"></p>
 
+Now head east and you should find a staircase leading up to the terra armor. Go back up and head north, where you'll find a staircase leading down. Use this to go down to the lower level. Then climb northwards and follow the path without worrying about the heads hanging on the wall. They'll try to distract you, so don't take any notice. You will then come to two chests (7). One contains a "small medal" and the other the "blue orb" (8).
 
+<p align="center"><img src="img/6_4.png"></p>
 
+Leave the cave, go back to the city and take your companions with you. Visit the old Sioux and the merchant you left with him. You'll see that the place has changed. Visit them from time to time. As you visit, the town will change.
 
+Now you need to get to Samanosa Castle. To get there, you need to enter the isolated building (9) on an island to the north of the new town started by the old Sioux. Once inside, take the northernmost teleporter. You will then come to another building, so enter the teleporter (10) just above the one you came in on. Exit and head west to Samanosa Castle.
+
+<p align="center"><img src="img/6_5.png"></p>
+
+## The town of Samanosa
+All you'll find here is a 'Pachisi ticket' in a barrel outside, as well as a 'strength seed' in the big house. If you talk to the locals, you'll soon realise that the king is not very well liked. Find out more by visiting the castle.
+
+## Samanosa Castle
+Guards will prevent you from going through the main entrance. Sneak into the castle through the door to the east. You'll then be in the kitchen, where there's a small medal hidden in the barrel. Leave this room and go to the royal chamber. To do this, climb to the top of the dungeon to the north-east and drop down onto the roof. Then open the small wooden door to the room. There you'll find a club and a cheater guide. To get out, jump out of the window. Finally, pay a visit to the king. He will order his guards to put you in prison. Once you're safe, get out of your cell and open the cells of the other prisoners. You'll find a small medal in the cell opposite. Go south to get out of this prison. You will see a man who looks like a king, open his cell. He is the real king of this country, but an impostor has taken his place. Stand next to the king and start a search, and you'll find a "life stone" (11). Finally, exit the prison via the secret passage (12) in the cell to the left of the king's.
+
+<p align="center"><img src="img/6_6.png"></p>
+
+According to the information gathered in prison, the Mirror of Ra can reveal the true identity of the impostor king. This item can be found in the cavern south of Samanosa.
+
+### Southern cave of Samanosa
+Once you have located the cavern (13), enter it. There is no treasure on the ground floor. In that case, don't waste any time and find the staircase (14) leading down to the lower level. You'll find this staircase about halfway down the level.
+
+<p align="center"><img src="img/6_7.png"></p>
+
+Now you're on the first floor, you'll notice that your path is strewn with chests. Open them all, then head to a hidden area (15) to the south. Follow the road, then head north first and open all the chests again. Turn around and continue along the path heading east, then enter the hidden area (16) at the end. Open the chests to the north, then take the stairs.
+
+<p align="center"><img src="img/6_8.png"></p>
+
+On this new floor you'll find a plush suit if you go around the inner lake. Then return to the upper floor and find the hole (17) in the corner of the cavern, then dive in. Open the chest containing the Mirror of Ra (18). Exit the dungeon.
+
+<p align="center"><img src="img/6_9.png"></p>
+
+Wait until nightfall and go to the royal chamber. Stand in front of the sleeping king and use the Mirror of Ra. The true form of the impostor king will then be revealed. Prepare for battle. This boss will attack twice per turn. What's more, some of his attacks will be devastating and could kill one of your companions in a single attack. However, he can only attack one character at a time, so take care of those who are injured during the round and attack with your warriors. When he dies, this boss will leave you with the 'change staff'.
 
 
 
