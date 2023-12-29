@@ -1,4 +1,4 @@
-![image](https://github.com/Ellimaaac/All-Dragon-Quest-Complet-Guide/assets/144267933/e2da48b7-ab86-4931-868e-94c42c92daa5)# Dragon Quest III
+# Dragon Quest III
 <p align="center"><img src="img/dq1.jpg" width="600"height="300"></p>
 
 ## 📖 Table of contents
@@ -7,7 +7,7 @@
     - [Chapter 1: From father to son](#Chapter-1-from-father-to-son)
     - [Chapter 2: The hero's arrival](#chapter-2-The-hero-s-arrival)
     - [Chapter 3: The charms of orients](#chapter-3-the-charms-of-orients)
-    - [Chapter 4:]
+    - [Chapter 4: Searching for the supreme key](#Chapter-4-Searching-for-the-supreme-key)
     - [Chapter 5:]
     - [Chapter 6:]
     - [Chapter 7:]
@@ -174,3 +174,93 @@ In the building containing the inn, the armoury and the item shop, you will find
 As you can see, you need to reach the lands to the east. To do this, enter the cave (15) to the north-west of Ashalam. Make your way to the dwarf Norud (16). First take what's in the chest, i.e. a training suit and a club. Then give Norud the King's letter. He will then unlock the secret passage to the east.
 
 <p align="center"><img src="img/3_8.png"></p>
+
+# Chapter 4: Searching for the supreme key
+
+## Exiting the Nordud tunnel
+Once you have exited the Norud tunnel, head south until you reach the town of Baharata (1).
+
+## The town of Baharata
+You'll find a 'traveler clothes' on the floor of the shop that normally sells pepper, a 'Pachisi ticket' in the south-west house and a 'small medal' in the inn. Once you've collected these items, talk to the old man (2) in the south of the town. He'll ask you to rescue his daughter who's been kidnapped.
+
+<p align="center"><img src="img/4_1.png"></p>
+
+Your task is to go and find the old man's daughter and son-in-law, who happens to be the pepper seller. Leave the town and enter the cave (3) to the east of Baharata.
+
+<p align="center"><img src="img/4_2.png"></p>
+
+## The eastern cave of Baharata
+Start by heading north to the far north-east of the level (4). There are two chests in front of you. Open the one on the right to find 352 gold coins, while the one opposite contains a cannibox. Continue westwards and you'll come across a chest containing a small medal. Continue west and you'll come across two more chests. The one at the top contains 132 gold coins, while the one on the left contains a cannibox. Take the large door, then head west and finally south. Open the door in front of you and enter. A chest containing a "stamina seed" will be waiting for you to open it. Finally, complete this level by continuing eastwards. You'll come to a staircase (5), take it.
+
+<p align="center"><img src="img/4_3.png"></p>
+
+Then head down the corridor to the west and enter the room to the north, which is guarded by a door. You will find four chests, each containing a seed. Go back the way you came, then follow the corridor to the south, open the door at the end and enter the room. This is the room where the kidnappers are. Before you go any further, four Henchmen will challenge you. Shoot them and then search the satchel hanging on the west wall. A "Pachisi ticket" is inside. Then head north to free the hostages by lowering the levers. Then follow Tania and Gupta. Kandar and his henchmen are preventing you from leaving the cave. Prepare for battle.
+
+Kandar will be accompanied by two Henchmen. First, disable his two henchmen. If you have a cleric, use his support spells. Once Kandar has been defeated, return to Baharata.
+
+Go to Gupta's shop and he will offer you some pepper. Return to Portoga and give the pepper to the king. He will recognise your bravery and offer you a boat, which you will find in the town harbour. Take your new means of transport and head for the village of Tedanki. To do this, follow the west coast of the land opposite Portoga until you can enter the interior via a river (6). You'll then quickly reach Tedanki (7).
+
+<p align="center"><img src="img/4_4.png"></p>
+
+## The ghost village of Tedanki
+If you arrive during the day, you'll notice that the town is deserted. Come back at night and the inhabitants will be there. You'll find 55 gold coins in a cauldron. A darkness lamp and a black hood are hidden in the armoury upstairs, but you can only access them during the day. An old man will tell you that you can find information about the 'final key' in Lancel. On the island (8) to the south, you'll find this village (9).
+
+<p align="center"><img src="img/4_5.png"></p>
+
+## The village of Lancel
+In the big house to the west, you can collect a 'Pachisi ticket' and 5 gold coins. Go to the item shop and buy an 'invisible herb'. You'll need it to enter Castle Edinbear, your next destination. To reach Edinbear Castle, head north-west to reach the small island (10) that houses the castle (11).
+
+<p align="center"><img src="img/4_6.png"></p>
+
+## Castle Edinbear
+A soldier will refuse to let you pass. Use an invisible herb to clear the way. Once inside, find the lady manual, a slick suit and a party dress in the royal bedroom. Then enter the basement, where you will be put to the test. You will have to move rocks (12) so that they are placed side by side (13). A passage will be opened behind which is the "thirsty pitcher". You can now leave the castle.
+
+<p align="center"><img src="img/4_7.png"></p>
+
+Return to the sea and head west, stopping near a coastal forest where there is a clearing (14). Enter the clearing. There you will meet an old man. He will tell you that he plans to create a town here, but needs merchants to do so. Return to Aliahan, recruit a merchant and offer him to the old man.
+
+<p align="center"><img src="img/4_8.png"></p>
+
+Once you've brought the merchant to the old man, look for the Sioux town (15) in the middle of this continent. Enter the heart of the continent in your boat by crossing the different branches of the flowing river.
+
+<p align="center"><img src="img/4_9.png"></p>
+
+The Sioux village
+Start by going down to the well, where you'll find a Pachisi ticket. In the house to the north, you'll find a small medal in a pot, and an agility seed in the pot in the house to the south. You'll also find a bolt staff buried in front of the well.
+
+According to the information you have gathered here, you need to head west into the sea to find the Shoals (16 and 17). When you get there, use your thirsty pitcher. A building will emerge from the water. Go inside. A chest awaits you, containing the final key. You can now open all the doors!
+
+<p align="center"><img src="img/4_10.png"></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
