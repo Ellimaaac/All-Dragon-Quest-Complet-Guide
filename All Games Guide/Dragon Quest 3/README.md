@@ -1,5 +1,5 @@
 # Dragon Quest III
-<p align="center"><img src="img/dq1.jpg" width="600"height="300"></p>
+<p align="center"><img src="img/profil.png" width="600"height="300"></p>
 
 ## 📖 Table of contents
 
