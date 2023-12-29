@@ -8,7 +8,7 @@
     - [Chapter 2: The hero's arrival](#chapter-2-The-hero-s-arrival)
     - [Chapter 3: The charms of orients](#chapter-3-the-charms-of-orients)
     - [Chapter 4: Searching for the supreme key](#Chapter-4-Searching-for-the-supreme-key)
-    - [Chapter 5:]
+    - [Chapter 5: The first orbs](#Chapter-5-The-first-orbs)
     - [Chapter 6:]
     - [Chapter 7:]
     - [Chapter 8:]
@@ -232,7 +232,7 @@ According to the information you have gathered here, you need to head west into 
 
 <p align="center"><img src="img/4_10.png"></p>
 
-
+Chapter 5: The first orbs
 
 
 
