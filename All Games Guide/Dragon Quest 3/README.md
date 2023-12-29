@@ -10,7 +10,7 @@
     - [Chapter 4: Searching for the supreme key](#Chapter-4-Searching-for-the-supreme-key)
     - [Chapter 5: The first orbs](#Chapter-5-The-first-orbs)
     - [Chapter 6: With or without companions](#Chapter-6-With-or-without-companions)
-    - [Chapter 7:]
+    - [Chapter 7: Ramia's birth and Baramos's fall](#Chapter-7-Ramia-s-birth-and-Baramos-s-fall)
     - [Chapter 8:]
 3. Other
    - [Map](#map)
