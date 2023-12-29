@@ -350,12 +350,73 @@ On this new floor you'll find a plush suit if you go around the inner lake. Then
 
 Wait until nightfall and go to the royal chamber. Stand in front of the sleeping king and use the Mirror of Ra. The true form of the impostor king will then be revealed. Prepare for battle. This boss will attack twice per turn. What's more, some of his attacks will be devastating and could kill one of your companions in a single attack. However, he can only attack one character at a time, so take care of those who are injured during the round and attack with your warriors. When he dies, this boss will leave you with the 'change staff'.
 
+# Chapter 7: Ramia's birth and Baramos's fall
 
+## Merchanting with the elves
+The 'change staff' you recovered after defeating the false king of Samanosa can be exchanged for the 'sailor's bone'. This is a very important item, as it will help you locate the ghost ship. You can obtain the sailor's bone from the old magician (1) who lives in the meadow in the middle of the ice island (2).
 
+<p align="center"><img src="img/7_1.png"></p>
 
+**Tip:** Remember the item shop in the elf village? The elves didn't want to sell their products to humans. Thanks to the "change staff", this problem has been solved. All you have to do is go to the elf village and change form using the change staff. Transform yourself into a dwarf and the elves will agree to sell you their items.
 
+Use your sailor's bone to find the ghost ship (3) and board it.
 
+<p align="center"><img src="img/7_2.png"></p>
 
+## The ghost ship
+Go down to the lower level of the ship and you'll find a room full of treasures. In the room at the stern, you'll find the "lovely memories". You can now leave the ship.
 
+Now take your boat to Olivia's promontory (4) and use the Lovely Memories to break Olivia's curse. Go west and dock near the isolated building on an island (5).
 
+<p align="center"><img src="img/7_3.png"></p>
 
+Once inside, look for the cell where Simon's soul lies (6). He will tell you that one of his weapons lies in the next cell. Find this cell, stand by the bed and then start the search. You'll find the Gaia sword (7).
+
+<p align="center"><img src="img/7_4.png"></p>
+
+You must now reach the Necrogond cave, where the last orb is located. To get there, use the Gaia sword in front of the volcano (8) to the east of Tedanki. A passage will then open up. Continue south and you'll find the entrance to the cave (9).
+
+<p align="center"><img src="img/7_5.png"></p>
+
+The Necrogond Cave
+Start by going down one floor. Once you've done this, head west all the way through the various hidden areas until you come to a chest containing a "small medal". Go back east, but head south as soon as you can. You will come across the "Thunder sword" (10) in a chest. Continue south but head to the far west as soon as you can, and you'll eventually find the Blade Armor (11).
+
+<p align="center"><img src="img/7_6.png"></p>
+
+Finally, to go down another floor, make your way south and you can take the stairs there. You're now in the second basement, which hides no treasure. Head south, avoid all the holes you come across and take the stairs. The third basement also hides no treasure. Head east. You will be blocked by a fault (12) blocking your path to the stairs. Fall into the fault and take the northern staircase. You will then find yourself on the side of the staircase (13) that you need to take, so take it.
+
+<p align="center"><img src="img/7_7.png"></p>
+
+Cross the first bridge (14), continue eastwards and cross a second bridge. Walk south-east and find the path to the exit (15).
+
+<p align="center"><img src="img/7_8.png"></p>
+
+Once outside, you'll see an isolated building (16), close by to the east. Go there. Talk to the man so that he can give you the Silver Orb (17).
+
+<p align="center"><img src="img/7_9.png"></p>
+
+At this stage of the game, you should have all six orbs. In fact, if you've visited your merchant's town often, you should have obtained the yellow orb (18) found behind his throne. If you have all the orbs, go to the island to the south-west of the world and enter the isolated building, then climb to the top. Place the orbs in the designated slots (19) and let the magic happen. From now on, you'll be able to travel through the air thanks to your phoenix named Ramia. You can find her outside the building once the egg has hatched.
+
+<p align="center"><img src="img/7_10.png"></p>
+
+Now head to the castle (20) located in the north of the world and surrounded by mountains. You can only get there with the phoenix. Once inside, look for the Dragon Queen (21). She is dying, but when you meet her, she will leave you an important item: the "light orb".
+
+<p align="center"><img src="img/7_11.png"></p>
+
+The time has come for you to defeat Baramos, the demon. Take your phoenix and land near his castle (22) and go inside.
+
+Dragon Quest III Solution 7 1
+Baramos Castle
+As soon as you arrive, don't go through the main gate. Go around it and enter the castle through the small back door (23). Go upstairs via the staircase in front of you. Then head west and take the stairs there. The passage will then be blocked by electric barriers (24), cast the "stepguard" spell and go through. First go up the stairs. You will eventually come to three chests containing a "demon axe", a "misery helmet" and a "wizard ring".
+
+Dragon Quest III Solution 7 1Dragon Quest III Solution 7 1
+Go back to the electric barriers and then down the stairs (25) to the lower floor. Then head east and take the stairs there. Once you've done this, head north and take the stairs again. When you reach the roof of the castle, take the staircase to the west. Exit through the wooden door, then go through the door opposite and take the stairs down (26).
+
+Dragon Quest III Solution 7 1Dragon Quest III Solution 7 1
+Then follow the only path open to you. You should come to a room where a skeleton sits on a throne. Exit through the large door. Once outside, head east, cross the stone bridge (27) and take the staircase leading to it. You will finally arrive in Baramos' room (28). Face him.
+
+Dragon Quest III Solution 7 1Dragon Quest III Solution 7 1
+Baramos
+Initially, Baramos has great resistance to blows. Start by altering this with your magicians, assuming you have any. Keep your warriors busy in battle and give the role of healer to one of your characters, ideally a cleric as he can use the 'healall' and 'healus' spells. Both the cleric and the mage (or sage) should also improve your companions' resistance, speed and attack power. Finally, don't skimp on your healing spells, as Baramos will often attack twice a turn, using extremely powerful spells that are also grouped together.
+
+Once this gruelling battle is over, you will be redirected to Aliahan. Go and celebrate your victory with the king. During the ceremony, the shadow and voice of Zoma, the lord of the dark world, will disturb the party. He has come to warn you that his reign will soon extend to your world. The king implores you to resume your quest and defeat Zoma.
