@@ -10,8 +10,8 @@ in Order : 4 (95%) - 1 (100%) - 11 (1%) - 5 (...) - 3 (10%)
 **The Legends of Erdrick**
 
 1. [Dragon Quest I](All%20Games%20Guide/Dragon%20Quest%201)
-2. [Dragon Quest II](Dragon%20Quest%202)
-3. [Dragon Quest III](Dragon%20Quest%203)
+2. [Dragon Quest II](All%20Games%20Guide/Dragon%20Quest%202)
+3. [Dragon Quest III](All%20Games%20Guide/Dragon%20Quest%201)
 
 **The Zenithian Saga**
 
