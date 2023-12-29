@@ -232,7 +232,7 @@ According to the information you have gathered here, you need to head west into 
 
 <p align="center"><img src="img/4_10.png"></p>
 
-Chapter 5: The first orbs
+# Chapter 5: The first orbs
 
 
 
