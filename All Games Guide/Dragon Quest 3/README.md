@@ -233,16 +233,71 @@ According to the information you have gathered here, you need to head west into 
 <p align="center"><img src="img/4_10.png"></p>
 
 # Chapter 5: The first orbs
+## The Green Orb
+Now that you have the final key, you can open the doors that have been closed to you until now. Start by returning to Tedanki at night and opening the prison door guarding the prisoner. Talk to the prisoner and he will give you the green orb. Then go to the island of Greenlad (1), and enter the meadow in the middle of the snow (2). Find the magician's hut. Inside, you'll find a silk hat and a small medal. Finally, talk to the magician.
 
+<p align="center"><img src="img/5_1.png"></p>
+Go to Dharma (3). This is where you can change the class of your characters. Then go to Garuna's tower (4). Reach her by walking north.
 
+<p align="center"><img src="img/5_2.png"></p>
 
+## Garuna Tower
+On the ground floor, you'll find a wisdom seed in a chest in the hidden area to the south. To get to the next floor, take the staircase (5) to the north-west of the ground floor, then balance on a rope and reach a teleporter, which you'll have to cross. You will then arrive in a room (6) with three staircases.
 
+<p align="center"><img src="img/5_3.png"></p>
 
+If you take the top one, you'll come to a chest containing 448 gold coins. The bottom one leads to a 'small medal'. To continue, take the stairs on the right. Then head south and take the stairs there, continuing until you reach a second rope. Cross the rope and take the stairs up. This will take you to a silver bar. Go back the way you came and purposely fall off the second rope where you first crossed it. This will take you to the 'zen book', an essential item for making your mage (if you have one, which is advisable) a sage in the Dharma temple.
 
+You must now go to the village of Zipangu. You'll find this village (7) to the east of Dharma. It is located on an archipelago resembling the Japanese archipelago.
 
+<p align="center"><img src="img/5_4.png"></p>
 
+## The village of Zipangu
+You'll soon realise that the village is in crisis. A monster living in a cave near Zipangu is devouring the women of the village who are offered to it as sacrifices. If you kill the monster, she'll give you the orb.First find the various items scattered around the village. You'll find clothes in the house to the south, a strength seed and a small medal in the underground storeroom. Finally, you'll find a mystic nut and a moth powder in the house to the north-west, and a wooden helmet in the house to the north-east. Then enter the temple to the north of the village. There you'll find a mystic nut, a strength seed, a small medal, a scale shield and a training suite. You must now go and defeat the monster in the cave near Zipangu. If you need to restore your health, you can rest at an inn north of Zipangu.
 
+## The Zipangu cave
+Head west first, then south, and you'll find an all-knowing mask in a hidden area. Then take the only staircase on this floor and enter the hidden area to the east to challenge Orochi.
 
+This boss will perform each of his turns with usually two attacks, most often a firebane combined with a classic attack on one of your characters. As usual, use your support spells and attack with your warriors. However, don't forget to heal yourself regularly, as this is a long and difficult battle that will require stamina, as Orochi has a lot of health points. Once you've defeated him, he'll leave you the Orochi sword.
+
+Leave the cave by taking the teleporter in place of the monster, which will take you back to the temple. Once you're in the temple, regenerate as it's far from over. Speak to the woman lying on the ground - as you'll have guessed, it's Orochi in human form - and a new battle will begin. Orochi will have fewer hit points but is still a formidable opponent. So use the same strategy as in the first battle and you'll get the better of her. Next, open the chest she leaves behind. It contains the "purple orb".
+
+Now go to the town north of Zipangu called Muor (8).
+
+<p align="center"><img src="img/5_5.png"></p>
+
+## The town of Muor
+The first thing you'll find is a leather kilt in the inn. Then go upstairs in the large building to the north-east via the staircase behind the counter. You will find the staircase behind the building (9). You will then find Popota (10). On this floor, you will also find a "small medal" and a "Pachisi ticket" in the pots. Talk to Popota and he will agree to give you your father's helmet. The helmet will be returned to you by the merchant when you come down from the floor.
+
+<p align="center"><img src="img/5_6.png"></p>
+
+Next, go to the tower to the east of Muor. You can reach this tower (11) easily by boat.
+
+<p align="center"><img src="img/5_7.png"></p>
+
+## The east tower of Muor
+Start by opening the door to the north (12), then head either east or west, then open another door (13) and enter the hidden area where you can choose between four staircases.
+
+<p align="center"><img src="img/5_8.png"></p>
+
+Take the north-west staircase to enter the hidden western area (14). Take the stairs there and then the next one. Then take the north-west staircase (15).
+
+<p align="center"><img src="img/5_9.png"></p>
+
+Cross the ropes to the south-west and open the two chests (16) there. One contains a "small medal" and the other a "benevolent ring". Go back to the ropes and stand in the middle of the canvas (17), then drop down. You will come to a platform containing four chests. They contain 552 gold coins, a small medal, a life nut and the echo flute. You can now exit.
+
+<p align="center"><img src="img/5_10.png"></p>
+
+Now find the pirate village. To do this, head south from the tower you've just explored. You will arrive at the village (18) after rounding the southern cape.
+
+<p align="center"><img src="img/5_11.png"></p>
+
+## The pirate village
+Before entering the village, go around the palisade to the right. You will then see a rock. Push it aside, launch a search and a secret passage will be revealed. Inside you'll find a "strength seed", a "rockstar ring" and the "red orb". You can now enter the village. On the ground floor you'll find tube socks, two Pachisi tickets and a small medal.
+
+## The night
+
+The pirates are back, so don't hesitate to talk to them to gather information.
 
 
 
