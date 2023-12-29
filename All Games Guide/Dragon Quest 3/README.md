@@ -5,14 +5,14 @@
 
 1. Main Story
     - [Chapter 1: From father to son](#Chapter-1-from-father-to-son)
-    - [Chapter 2: ](#chapter-2-)
+    - [Chapter 2: The hero's arrival](#chapter-2-The-hero-s-arrival)
     - [Chapter 3:]
     - [Chapter 4:]
     - [Chapter 5:]
     - [Chapter 6:]
     - [Chapter 7:]
     - [Chapter 8:]
-2. Other
+3. Other
    - [Map](#map)
    - [Characters](Characters.md)
    - [All Items](All-Items.md)
@@ -71,3 +71,23 @@ photo
 Once you've done this, head for the northernmost hidden area. Inside, take the stairs leading downwards.There are now three paths open to you. Only the one to the west will allow you to leave the cavern. To do this, take the teleporter. This will take you to the exit staircase. You will then arrive at Romaly Castle. Go there.
 
 photo
+
+# Chapter 2: The hero's arrival
+
+## Romaly Castle
+The town has its share of treasures, so it's worth taking the time to explore. You'll find an antidote herb and a full moon herb in the drawers of the inn. You can also pick up a hard heart and a smart book in the church. Finally, in the house to the west of the town you'll find a small medal and a leather hat.
+
+The castle contains only a 'Pachisi ticket' and a 'cheater guide'. You'll find these two items in the king's father's room at the top of the castle's north-east tower.
+
+You must now head north to Kazave. On your way, you will see an isolated building. This is actually a building where you can use your Pachisi tickets to play a life-size game of dice. Access has already been granted, so don't hesitate to take a look around. Finally, to reach Kazave, continue north.
+
+photo
+
+## The village of Kazave
+In this village, you'll find a number of items, including a Pachisi ticket in the inn and boxer shorts in the house to the east of the village. Finally, a secret passageway contains a life nut and a fur hood. To reach this passage, simply go behind the tavern to the north-east to reach the staircase there.
+
+### The night
+You can open the two chests in the item shop. They contain a poison digger and a club.
+
+## Shampane Tower
+You must now go to the Shampane Tower to defeat Kandar and take back the Golden Crown. This tower is to the east of Kazave. To the east of the ground floor is a chest containing 430 gold coins. There is no chest waiting for you on the first floor. Go to the second floor via the staircase in the hidden area to the north of the first floor.
